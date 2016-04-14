@@ -1,0 +1,2 @@
+LSI durch SVD kann den Umgang mit Synonymie verbessern, indem es die unzuverlässigen individuelle Terme der Anfrage werden durch voneinander unabhängige, künstliche Konzepte ersetzt. Diese bilden eine Basis für einen „semantischen Raum“, welcher der Verwendung der Terme in den Dokumenten zugrunde liegt.
+

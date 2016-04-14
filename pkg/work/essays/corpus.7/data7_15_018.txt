@@ -1,0 +1,5 @@
+Ist so etwas wie eine Schablone.
+Abstrakte Methoden (mehrere)
+können zusammengefaßt in einem Interface werden
+um sie später in einem zu
+implementieren

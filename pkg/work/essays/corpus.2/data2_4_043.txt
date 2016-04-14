@@ -1,0 +1,4 @@
+Elektronischer Katlog ist eine Datenbank mit Informationen über Produkt / Dienste die angeboten werden.
+Komponenten: Verzeichnisse, Bilder, Text, Adressen, Anbieter, Beschreibungen
+Anbieter, Administrator: gibt Informationen ein, ordnet sie, nimmt Infos heraus, aktualisiert
+Kunde: informiert sich indem er Informationen die im Katalog vorhanden sind nützt sie um weitere zu reasieren.

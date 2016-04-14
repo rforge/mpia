@@ -1,0 +1,14 @@
+zunächst erfolgt die anforderungsdefinition: darunter versteht
+man eine eher noch verbal oder nicht sehr konkret formulierte aufstellung
+aller anforderungen, die das unternehmen hat. ziel ist es eine
+möglichst umfangreiche anforderungsliste vorzufinden, damit dann
+mit der anofrderungsspezifikation begonnen werden kann. in der
+definitionsphase wird das lastenheft erstellt worin man die zielbestimmungen,
+produkteinsatz, -funktionen, -leistungen-, übersicht, -umfeld,
+qualitsätsanforderungen und ergänzungen finden kann.
+in der anforderungsspezifikationsphase werden die anforderungen
+genauer ausformuliert, da sollten sie schon fehlerfrei, widerspruchsfrei
+sein. das lastenheft wird in dieser phase zum pflichtenheft ausgebaut
+und verfeinert. die letzt phase ist die software-spezifikation.
+da sollten die anforderungen schon so genau formuliert sein, dass
+eine entwicklung (programmierung) durchgeführt werden kann.

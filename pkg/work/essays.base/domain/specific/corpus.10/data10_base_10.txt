@@ -1,0 +1,5 @@
+Sie begründen, dass auch Schnittstellen zu externen Softwaresystemen überprüft werden
+müssen; ein spezielles Risiko liegt hier darin, dass das Entwicklungsteam nur »eine Hälfte«
+einer solchen Schnittstelle nach extern kontrolliert. Die »andere Hälfte« wird vom externen
+System bestimmt und kann sich unerwartet ändern. Ein bestandener Integrationstest ist
+also keine Garantie für eine jederzeit einwandfreie Funktion an dieser Stelle.

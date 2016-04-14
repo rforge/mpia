@@ -1,0 +1,5 @@
+Auf beide Rollen wird über Referenzen zugegrien: zwei Variable referenzieren
+dasselbe Objekt, sind jedoch von verschiedenem statischen Typ:
+CustomerInvoice invoiceInPortal = new PhoneInvoice();
+AdministrationInvoice invoiceInAdministration =
+(AdministrationInvoice) invoiceInPortal;

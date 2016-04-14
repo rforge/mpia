@@ -1,0 +1,3 @@
+LSI (Latent Semantic Indexing)		Indexierung benutzt die zugrundeliegende
+Semantische Struktur
+

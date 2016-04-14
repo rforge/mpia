@@ -1,0 +1,2 @@
+Wir erhalten so eine Näherung X’ für die Matrix X, welche sich als Produkt von kleineren Matrizen D’, S’ und T’ darstellen lässt. Denn die hinteren m-k Zeilen und die unteren m-k Spalten der Matrix S sind vollständig mit Nullen besetzt und können somit weggelassen werden, es entsteht S’. Ebenso können die hinteren m-k Spalten der Matrix T sowie die unteren m-k Zeilen der Matrix D gestrichen werden, da sie mit lauter Nullen multipliziert werden und somit nichts zum Resultat X’ beitragen. Es entstehen die kleineren Matrizen D’ bzw. T’.
+

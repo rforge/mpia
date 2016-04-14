@@ -1,0 +1,8 @@
+Elektronische Kataloge geifen auf Datenbanken zu, in denen sämtliche Informationen zu Produkten (z.B.: Bücher) zu finden sind.
+Hauptkomponenten: Web Client -> cgi -> Datenbank (DB)
+Anbietersicht: Anbieter hat Übersicht über Interessen der Kunden.
+Kundengerechtes Anbieten von Waren -> CRM
+Einsparung von Personalkosten, neuer Distributionskanal, interaktive Features, die dem Kunden Auswahl erleichtert
+Kundensicht: Shopping rund um die Uhr, Warenkorb- bzw.
+Einkaufswagenfunktion -> Kunde kann Ware vormerken und zu späterem Zeitpunkt kaufen
+Möglichkeit zu zusätzlicher Info zu Produkten (eventuell auch Erfahrungsaustausch mit anderen Kunden)

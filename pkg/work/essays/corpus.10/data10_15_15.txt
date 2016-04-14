@@ -1,0 +1,6 @@
+test auf source code ebene
+(jede routine wird mindestens ein mal durchlaufen)
+test der einzelnen interfaces
+(programm routinen werden einzelnen getestet)
+test auf systemebene
+(das fertig installierte system wird als ganzes auf der später verwendeten umgebung getestet)

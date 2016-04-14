@@ -1,0 +1,2 @@
+Es wird ein Verfahren, genannt LSI mit SVD, motiviert und beschrieben, welches zu einer sehr speziellen Vektordarstellung von Dokumenten und insbesondere Anfragen führt.
+

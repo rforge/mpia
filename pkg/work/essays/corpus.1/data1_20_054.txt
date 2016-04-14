@@ -1,0 +1,2 @@
+Information Hiding dient dazu einige / alle private deklarierten Variablen und Methoden zu "verstecken" bzw. den Zugriff auf sie einzuschränken.
+z.B. private String nachname und private boolean angemeldet können nur innerhalb der Klasse Student gesetzt/ geändert werden.

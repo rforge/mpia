@@ -1,0 +1,9 @@
+Bei einer ‚harten’ ontologie-basierten Suche besteht jedoch der Nachteil, dass die
+Treffermenge lediglich exakte Ergebnisse umfasst. Dieses Problem kann durch eine
+ähnlichkeitsbasierte Suche über Metadaten gelöst werden. Hierfür muss ein
+Ähnlichkeitsmaß für den Vergleich von Objekten definiert werden. Neben dem Vorteil,
+dass bei Suchanfragen auch Objekte gefunden werden können, die nicht exakt der
+Suchanfrage entsprechen, können zu einem gegebenen Objekt ähnliche gesucht
+werden, ohne dass Textinhalt gegeben sein muss. Des weiteren kann das
+Ähnlichkeitsmaß auch zur automatischen Strukturierung der Informationsobjekte mittels
+Clustering eingesetzt werden kann.

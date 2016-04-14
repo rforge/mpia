@@ -1,0 +1,8 @@
+geschäftsprozess ermitteln - wie ist der stand der dinge
+requirements engineering -> systemanforderung festlegen -> soll
+widerspruchsfrei und eindeutig sein
+system-sezifiaktion
+implementierung: erstellung des systems
+test: test des systems -> fehlererkennung und ausbesserungsphase
+chain management: einführung des systems in reale bedingungen
+und test in folgendem betrieb

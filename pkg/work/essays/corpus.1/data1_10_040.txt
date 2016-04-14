@@ -1,0 +1,7 @@
+private nachname und angemeldet
+diese 2 Instanzvaraiblen können nur in der Klasse Student gelesen werden.
+kein Zugriff von außen
+Information Hiding
+nachname und vorname und angemeldet
+sollen nicht in Zusammenhang gebracht
+werden können außerhalb dieses Klasse

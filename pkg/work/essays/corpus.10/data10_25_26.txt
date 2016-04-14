@@ -1,0 +1,3 @@
+systemtest - hier wird der ganze system getestet, einblack box test
+komponententest - die einzige komponenten werden allein getestet, meist auf der ebene von quellcoden
+verbindungentest - getestet werden die einzigen verbindungen zwischen komponenten, ein white box test und wie / ob die komponenten zusammen kommunizieren

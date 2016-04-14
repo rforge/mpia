@@ -1,0 +1,8 @@
+So existieren beispielsweise alleine für die optimale Festlegung des zur Verfü-gung stehenden Budgets zahlreiche Methoden, wobei in der Praxis überwiegend folgende heuristische Methoden zum Einsatz kommen:
+Die Prozent vom Umsatz-Methode
+Die Prozent vom Gewinn-Methode
+Die Was-können-wir-uns-leisten-Methode
+Die Wettbewerbs-Paritätsmethode (Orientierung an Konkurrenten)
+Die Werbeanteil-Marktanteil-Methode
+Die Methode der Werbekosten je Verkaufseinheit
+Die iterative Ziel und Aufgaben-Methode

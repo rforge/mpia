@@ -1,0 +1,1 @@
+Bei LSI mit SVD ist es die Wahl von k (siehe Abschnitt 4.2)

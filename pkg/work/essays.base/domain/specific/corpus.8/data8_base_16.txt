@@ -1,0 +1,13 @@
+Die Ziele, die für die Bestimmung der Prioritäten einzelner Integrationskandidaten relevant
+sind, können nach ihrem Zeithorizont, der Art der Zielgröße sowie danach klassifiziert werden,
+ob sie im Zusammenhang mit der Integration stehen oder nicht (vgl. Abbildung 2). Für
+die Zielklassen, die im Rahmen eines Projekts aus Sicht der Integration zu beachten sind, findet
+sich im folgenden jeweils ein Beispiel:
+• kurzfristig, monetär: Vermeidung der doppelten Datenerfassung;
+• kurzfristig, nicht monetär: Vermeidung von Inkonsistenzen, Vermeidung der Verwendung
+inaktueller Daten;
+• langfristig, monetär: Kostensenkung im Bereich der Datenadministration durch eine effizientere
+Datenpflege;
+• langfristig, nicht monetär: Erschließung neuer Potentiale für betriebliche Anwendungssysteme
+(z.B. durchgängige Unterstützung von Arbeitsabläufen; Stichwort
+“Geschäftsprozeßoptimierung”).

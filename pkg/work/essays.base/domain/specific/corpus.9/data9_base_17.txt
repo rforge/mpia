@@ -1,0 +1,3 @@
+Wichtig ist dabei die Ermittlung der detaillierten Anforderungen. Dazu sind die unterschiedlichen
+Varianten für Anforderungen zu erfassen, Alternativen zu prüfen und Entscheidungen zu treffen,
+welche der Anforderungen aufrecht erhalten werden.

@@ -1,0 +1,4 @@
+komponenten test
+system test
+Black box test
+white box test

@@ -1,0 +1,9 @@
+Interface ist eine "Vorlage" die es ermöglicht
+die in Java mögliche Einfachvererbung zu
+umgehen und daraus "Mehrfachvererbung" zu erlangen.
+Interfaces offerieren Funktionen und Variablen
+Variablen müssen Konstante sein; Methoden
+müssen bei der Verwendung "public" deklariert
+werden. Zum Beispiel interface Uni {...}
+public class Pruefung implements Uni {...}
+Methoden werden bei Ihrer Verwendung konkretisiert

@@ -1,0 +1,3 @@
+Interface wird benötigt um "Mehrfachvererbung"
+zu ermöglichen. Im Interface werden Methoden definiert
+die in Klassen implementiert werden können.

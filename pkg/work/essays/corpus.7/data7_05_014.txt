@@ -1,0 +1,2 @@
+Sind Schnittstellen, die definiert werden um Methoden
+einheitlich zu

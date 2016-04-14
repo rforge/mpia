@@ -1,0 +1,4 @@
+in einem interface können Schnittstellen
+definiert werden;
+Interfaces benötigt man für eine Mehrfachvererbung
+in Java -> (sonst nur "Einfachvererbung")

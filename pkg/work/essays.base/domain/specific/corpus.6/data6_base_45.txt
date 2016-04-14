@@ -1,0 +1,2 @@
+Kurz gesagt geht es darum, dass die gegenseitige Lage, genauer gesagt die Nähe von Punkten in dem semantischen Raum, welche Terme oder Dokumente darstellen können, direkt mit der Ähnlichkeit der Dokumente untereinander oder der Relevanz eines Terms für ein Dokument zu tun haben soll.
+

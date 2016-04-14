@@ -1,0 +1,3 @@
+In einem Interface können Variablen und Methoden
+vereinheitlicht werden, um eine geeignete
+Schnittstelle zu anderen Objekten herzustellen.

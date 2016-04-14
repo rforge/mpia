@@ -1,0 +1,6 @@
+Ein elektronische Katalog ist eine Aggregation von verschiedenen einzelnen Katalogen der jeweiligen Verkäufer, die jeweils idente oder komplimentäre Produkte in einem gemeinsamen katalog darstellen
+
+Web-Client --- WWW server --- cgi-script --- elektr. Katalog--- DB1, DB2 --- Produktdatenbank
+
+Der Klient wählt eine Homepage, das cpi-script führt eine Abfrage auf die Produktdatenbanken aus und stellt dem Kunden die Abfrage in Form eines html-Textes zur Verfügung
+Der / Die Anbieter müssen keine statischen html-Seiten erstellen, sondern können durch Pflege der Produkt DB's die sie beispielsweise auch fürs innerbetriebliche System nutzen

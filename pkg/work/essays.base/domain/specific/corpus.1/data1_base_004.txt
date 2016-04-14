@@ -1,0 +1,8 @@
+Dieses Papier präsentiert eine Erweiterung der objektorientierten Modellierung
+um einen neuen Ansatz für Rollen eines Objekts. Ein komplexes Objekt
+kann aus verschiedenen Perspektiven betrachtet werden. Dabei kommen jeweils
+unterschiedliche Methoden und Attribute zum Vorschein. Ein Client sieht das
+Objekt aus genau einer Perspektive; dabei tritt das Objekt in einer Rolle auf. So
+kann ein Client nur auf die für ihn relevante Funktionalität zugreifen [5][6]. Zwischen
+Rollen eines Objekts bestehen semantische Abhängigkeiten. Rollen und
+ihre Abhängigkeiten werden in einer Klasse gekapselt (ähnlich zu [7]).

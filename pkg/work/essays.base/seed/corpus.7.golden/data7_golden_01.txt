@@ -1,0 +1,9 @@
+=> definiert eine Schnittstelle zu einer oder
+mehreren Klassen; definiert eine Liste der
+Parameter, allfällige Methoden, ... jedoch ohne Implementierung!
+-> hat den Zweck eine einheitliche Struktur
+vorzugeben, wird gebildet mit:
+interface AnInterface; und eingefügt mit:
+class Person implements AnInterface {
+...
+}

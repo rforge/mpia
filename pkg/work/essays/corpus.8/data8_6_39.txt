@@ -1,0 +1,10 @@
+für eine beibehaltungs preochen: das ERP system wurde individuell für das unternehmen
+erstellt, entwicklungskosten waren sicher teuer, system ist im unternehmen schon etabliert,
+mitarbeiter schon eingelernt.
+Reengineering: das system als ganzes kann beibehalten werden, es werden erneuerungen
+durchgeführt, die eine verbesserung der benutzerfreundlichkeit mit sich bringen können
+systemfehler können ausgebessert oder minimiert werden, aus alten anforderungen kann
+gelernt werden
+standardprodukt: leichte benutzerführung, geringere kosten als individualentwicklung
+enthält basisfunktionen, die für eine grosse anzahl von kunden
+gefordert wird.

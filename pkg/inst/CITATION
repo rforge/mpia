@@ -1,0 +1,20 @@
+
+citHeader("To cite package 'mpia' in publications use:")
+     
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date, perl = TRUE)
+vers <- paste("R package version", meta$Version)
+     
+citEntry(
+	entry = "Manual",
+   title = "mpia: Meaningful Purposive Interaction Analysis",
+	author = personList(as.person("Fridolin Wild")),
+	year = year,
+	note = vers,
+     
+	textVersion =
+		paste0("Fridolin Wild (",
+			year,
+			"). mpia: Meaningful Purposive Interaction Analysis. ",
+			vers, ".")
+
+)

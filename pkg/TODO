@@ -1,0 +1,35 @@
+
+space$settings : persistantly store the settings with each space
+
+performances(performances(ppl), purpose="ab")
+or better: purpose(performances(p), "ab")
+
+near(path())
+predict(path())
+
+remove Domain$corpus method?! better: restrict to Term Document Matrices!
+
+plot by incidences / evidence
+plot(documents): how to link with CompetencePortfolio
+plot(both)
+
+allow for adding persons and performances WITHOUT space (recalc plot from traces)!
+
+# learning conversations (bipartite, social)
+learning conversation:
+personA, personB, personA writes something, personB reads it, ...,
+-> plot competence positions for each dialogue move, connect positions for each move?
+-> end states after conversation
+
+interactions between persons e.g. from message discourse?
+important notice: the social interaction idea is actually in the distributional hypothesis!
+
+idea: implement Arith group generics to allow newDomain = dmgr$get("generic") + dmgr$get("reflection")
+the + .Primitive should then be overriden to combine the corpora or textmatrices of the two domains and calculate a new space
+i.e. executing the textmatrix functions for each corpus and then merging the matrices, then execute their LSA
+
+count lines of code:
+find . -name "*.[rR]" -print0 | xargs -0 wc -l
+
+try the BAWE corpus (knowledge cartography/ota).
+

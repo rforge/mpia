@@ -1,0 +1,5 @@
+Bei der ontologie-basierten Suche kann das zuvor modellierte Wissen unterstützend bei
+der Formulierung von Suchanfragen dem Benutzer angeboten und bei der Abarbeitung
+der Anfragen eingesetzt werden. Bild 1 stellt verschiedene Suchverfahren mit Blick auf
+die Qualität und Quantität der Suchergebnisse sowie die Menge des eingesetzten
+Hintergrundwissens gegenüber.

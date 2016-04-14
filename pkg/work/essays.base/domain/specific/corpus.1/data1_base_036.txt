@@ -1,0 +1,6 @@
+Die in [8] definierten Kriterien Abhängigkeit, Sichtbarkeit und Identität sind
+durch die vorgestellten Mittel besonders gut gelöst, was in der Literatur oft nicht
+der Fall ist [3][4][9]. Die Kriterien Abstraktion, Vererbung und Lokalität sind
+ebenfalls erfüllt. Nicht erfüllt sind Zusammensetzung, Dynamik und Multiplizität.
+Trotz vieler erfüllter Kriterien sind die Programmierkonstrukte einfacher
+und verständlicher als die flexiblen und mächtigen Konstrukte in [5] und [1].

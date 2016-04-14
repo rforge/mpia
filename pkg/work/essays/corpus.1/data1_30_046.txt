@@ -1,0 +1,2 @@
+Wenn eine variable hidden, bzw. private ist, kann sie außerhalb der Klasse nicht abgerufen werden.
+Es muss zuerst mit Hilfe von Methoden z.B. get public gemacht werden um dann weiter verarbeitet werden zu können.

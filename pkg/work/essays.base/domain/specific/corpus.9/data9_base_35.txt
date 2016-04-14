@@ -1,0 +1,3 @@
+Wir unterscheiden bei der Nutzung eines Systems oft sinnvollerweise zwischen Gutfällen (sinnvolle
+Nutzung des Systems mit positivem Ergebnis) und Schlechtfällen (Nutzung des Systems
+in nicht so vorgesehener Weise oder Auftreten von Systemfehlern).

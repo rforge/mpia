@@ -1,0 +1,2 @@
+Das Skalarprodukt (auch inneres Produkt oder engl. Dot-Product) zweier Vektoren ist propor¬tional zum Cosinus des Winkels zwischen den beiden Vektoren. Das Skalarprodukt wird meist vorgezogen, weil es sich viel einfacher berechnen lässt: die jeweiligen Koordinaten werden multipliziert und die Produkte für alle Dimensionen addiert (genau wie beim Multiplizieren von Matrizen). Es ist nur proportional zum Cosinus des Zwischenwinkels, weil man das Skalarprodukt noch durch das Produkt der Längen der beiden Vektoren teilen müsste.
+

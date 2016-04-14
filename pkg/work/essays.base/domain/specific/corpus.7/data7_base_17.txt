@@ -1,0 +1,11 @@
+IDL-Schnittstellen können jedoch auch Nachteile mit sich bringen. Die Nachteile
+IDL-Beschreibung muss immer von einem Compiler verarbeitet und auf
+eine Zielsprache gemappt werden. Dieses Mapping kann mitunter kompliziert
+sein, da bestimmte Programmiersprachen manche Anforderungen
+der IDL nicht erfüllen können. So kann z. B. Visual Basic mit Schnittstellenzeigern
+eines COM-Objekts nichts anfangen, sodass hier teilweise
+andere Herangehensweisen nötig sind. Es ist also ein Mapping zwischen
+verschiedenen Sprachen und Typsystemen vorzunehmen, was zu
+großen Einschränkungen führen kann. AmBeispiel von COMmacht sich
+dies in der sehr beschränkten Anzahl der verwendbaren Datentypen
+bemerkbar.

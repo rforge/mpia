@@ -1,0 +1,6 @@
+Die Anpassung der Warenwirtschaftssysteme von Herstellern und Händlern ist
+demzufolge mit minimalem Aufwand möglich. Bei der Programmierung der
+XML-Katalog-Schnittstelle sollte nach Möglichkeit auf Standard-Werkzeuge zur
+XML-Bearbeitung zurückgegriffen werden. Zum Einlesen und Schreiben von
+XML-Dateien existieren eine Vielzahl solcher Werkzeuge für alle gängigen
+Programmiersprachen.

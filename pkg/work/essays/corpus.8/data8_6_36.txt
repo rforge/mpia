@@ -1,0 +1,11 @@
+für Reengineering:
+Dieses System bildet unter Umständen die betrieblichen Prozesse
+dieses Unternehmens besser ab als eine Standardsoftware.
+Das Unternehmen benötigt nur bestimmte Funktionen
+der Standardsoftware und könnte vieles gar nicht verwenden.
+Durch ein Hinzufügen der benötigten Funktionen könnte
+die Lebensdauer des Systems verlängert werden.
+Für Standardsoftware:
+untersützt die wichtigsten betrieblichen Funktionen, weniger
+fehleranfällig, durch Hinzukaufen von Komponenten leichter
+erweiterbar, Wartung und Pflege kann abgegeben werden.

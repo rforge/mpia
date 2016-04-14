@@ -1,0 +1,4 @@
+Dient zur Sicherung von Daten nach aussen.
+private ist eine Alterbeit den Zugriffs kann der alle es besagt, dass auf angemeldet und nachname in der Klasse Student zugegriffen werden kann.
+public... es kann auch von aussen (z.B. anderen Klassen) auf die Methode zugegriffen werden.
+Standard einstellung: package

@@ -1,0 +1,3 @@
+Mittels Information hiding wird der Zugriff auf bestimmte Variablen / Methoden beschränkt. 
+Es gibt verschiedene Stufen (public, package, private, protected).
+In obigem Bsp. kann aufgrund von "private" auf die Variable nachname und angemeldet nur aus der Klasse oder einem Package zugegriffen werden, nicht aber von Subklassen.

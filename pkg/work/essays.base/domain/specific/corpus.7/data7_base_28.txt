@@ -1,0 +1,18 @@
+Schnittstellen für RMI-Objekte müssen, wie dem Listing zu entnehmen
+ist, vom Interface Remote abgeleitet werden. Dies ist vergleichbar mit der Verbindliche Basisschnittstelle
+Remote Maßgabe, in COM die Schnittstelle IUnknown zu beerben. Ein verteiltes
+Objekt muss diese Schnittstelle implementieren und zusätzlich von einer
+Basisklasse erben, die es dem Objekt ermöglicht, im verteilten System zu
+agieren. Im einfachsten Fall für Java RMI ist dies die Klasse Unicast-
+RemoteObject. Weitere Besonderheiten sind bei der Realisierung nicht Eine Basisklasse für
+verteilte Objekte zu beachten, sodass man prinzipiell eine einfache Klasse erstellt und zunächst
+mit dem verteilten System als solches nicht in Berührung kommt.
+Der eigentliche Kontakt mit dem verteilten System beginnt erst beim
+Deployment der Anwendung. Um eine funktionierende Verteilung zu
+ermöglichen ist es nötig, Metainformationen zur Interaktion von Client
+und Server bereitzustellen. Hierfür existiert ein spezieller Compiler, rmic, Metainformationen
+extrahieren mit rmic der diese in Form von Stubs und Skeletons zur Verfügung stellt. Die Entwicklung
+des verteilten Systems verläuft also weitestgehend transparent,
+jedoch sind während des Software Life Cycle auch vereinzelt Schritte
+nötig, die diese Transparenz aufbrechen. Für verteilte Objektsysteme ist
+dies jedoch eine sehr elegante und softwaretechnisch sinnvolle Vorgehensweise.

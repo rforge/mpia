@@ -1,0 +1,5 @@
+Ein Java-Programm kann von mehreren
+Interfaces erben. In den Interfaces
+kann nun verschiedene Variablen und Methoden
+definiert die später weiterverwendet werden 
+können.

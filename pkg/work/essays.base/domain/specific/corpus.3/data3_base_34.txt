@@ -1,0 +1,1 @@
+Reichweite in Kontaktklasse: Zahl der Personen, die mit einer bestimmten Kontakthäufigkeit erreicht werden.

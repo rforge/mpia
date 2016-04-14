@@ -1,0 +1,4 @@
+Information hiding: mit Keyword private
+private bewirkt, daﬂ auf die Variablen die private deklariert sind nur innerhalb der Klasse zugegriffen werden kann.
+Funktioniert auch mit Methoden 
+durch Methoden wie z.B. getName die public sind und den namen enthalten kann auch von einer anderen Klasse auf den mann zugegriffen werden

@@ -1,0 +1,5 @@
+Variablen werden als private deklariert
+können nur über die Methoden aufgerufen werden!
+Vorteile:
+"beschränkt" Datenmanipulation
+Programmierfehler werden beschränkt

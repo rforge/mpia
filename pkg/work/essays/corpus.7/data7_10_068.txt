@@ -1,0 +1,3 @@
+Interface ist vergleichbar mit abstrakten Klassen.
+Beinhaltet (static und abstrakte) Methoden.
+Zur Code Vereinfachung

@@ -1,0 +1,2 @@
+Mittels Deklaration als private kann verhindert werden, dass diese Klassen von außerhalb aufgerufen werden können
+Die beiden Variablen nachname und angemeldet sind dadurch von Zugriff außerhalb der Klasse geschützt.

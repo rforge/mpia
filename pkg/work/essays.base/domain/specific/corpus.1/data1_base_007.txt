@@ -1,0 +1,5 @@
+In Kapitel 2 werden am Beispiel einer Telefongesellschaft der Nutzen und
+der Einsatz von Rollen erklärt. Kapitel 3 stellt den Kern des Rollenkonzeptes
+dar, also die Gleichheitsabhängigkeiten von Attributen und Methoden. Kapitel
+4 erweitert das Konzept um die Vererbung zwischen Rollen. In Kapitel 5 erfolgt
+die Zusammenfassung und der Ausblick.

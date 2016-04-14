@@ -1,0 +1,8 @@
+Möglichkeiten:
+Analyse des Ist - Modells
+Erstellung eines Prozessmodells, u.U. eines Organisationsmodells, Festlegung der Schnittstellen
+für das Soll - Modell (Einsatz von Use Cases)
+Abgrenzung des Informationsverarbeitungsanteils von den übrigen Systemaspekten
+Softwareanforderungen
+Nebenbedingungen
+Risiken

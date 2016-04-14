@@ -1,0 +1,10 @@
+Einer der wichtigsten Aspekte der Remoting-Architektur ist im letzten
+Abschnitt bereits angeklungen: Die Architektur selbst ist erweiterbar. Da- Erweiterbare Plattform
+bei kann der Entwickler in verschiedene Teile des Systems eingreifen. Die
+Möglichkeiten sind dabei sehr vielfältig und reichen vom Erweitern der
+Kommunikationskanäle bis hin zurManipulation von Proxy-Objekten. Im
+Wesentlichen lassen sich folgende Teile erweitern bzw. neu integrieren:
+> erstellen benutzerdefinierter Nachrichtensenken,
+> erstellen eigener Transportkanäle,
+> erstellen eigener Proxies,
+> abfangen und manipulieren von Nachrichten.

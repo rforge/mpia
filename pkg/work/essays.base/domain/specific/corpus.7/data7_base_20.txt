@@ -1,0 +1,4 @@
+WSDL-Beschreibungen enthalten neben der Beschreibung der verwendeten
+Datentypen und der Signaturen von Methoden, die aufgerufen
+werden können, auch Beschreibungen über die Aufrufkonventionen der
+Methoden des WebServices (Listing 3.3).

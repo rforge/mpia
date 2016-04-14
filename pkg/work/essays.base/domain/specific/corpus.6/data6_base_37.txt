@@ -1,0 +1,1 @@
+Diese Darstellung heisst Singulärwertzerlegung der Matrix X. Ihre Existenz soll hier nicht bewiesen werden.

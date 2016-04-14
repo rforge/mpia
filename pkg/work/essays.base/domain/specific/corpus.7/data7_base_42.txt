@@ -1,0 +1,8 @@
+Verteilte Objekte werden durch einen Server (Service Host) publiziert, Server
+der für sie Kommunikationskanäle registriert. Einer der wichtigsten,
+wenn auch unscheinbarsten, Bestandteile dieses Modells ist die Metaklasse
+Type. Sowohl Schnittstellen als auch Klassen sind typisiert. Dieses
+Typ-Objekt, welches mit jedem dieser Konstrukte verbunden ist, ist in der
+Lage, das assoziierte Bauelement detailliert zu beschreiben (siehe auch
+Kapitel 5). Diese Metainformationen bilden die Grundlage zur Kommuni- Metainformationen
+kation zwischen dem verteilten Objekt und dem Client.

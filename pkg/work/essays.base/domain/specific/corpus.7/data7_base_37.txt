@@ -1,0 +1,9 @@
+Das .NET Remoting Framework ist der Nachfolger für COM/DCOM, womit DCOMs Erbe
+es vergleichbare Fähigkeiten zum Aufbau verteilter Systeme bietet. Mithilfe
+des Remoting Frameworks können verteilte Objekte über Prozessund
+Rechnergrenzen hinweg verwendet werden. Die Art der Kommunikation
+zwischen den verteilten Objekten ist hierbei ungleich vielfältiger.
+Neben einem proprietären, binären Kommunikationsprotokoll und
+einem XML-basierten SOAP-Protokoll kann auch das ORPC-Protokoll von
+COM/DCOM verwendet werden. Des Weiteren ist es möglich, eigene
+Kommunikationsprotokolle zu definieren.

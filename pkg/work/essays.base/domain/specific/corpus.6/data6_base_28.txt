@@ -1,0 +1,2 @@
+Ausgegangen wird von einer genügend grossen Term-Dokument-Matrix. Wenn die Verwendung der Terme völlig unabhängig wäre, könnten wir aus diesen Daten keine Aussagen über die „wirklich“ relevanten Dokumente für gewisse Suchterme gewinnen. Jedoch gibt es sehr viele Zusammenhänge zwischen der Verwendung verschiedener Terme, sei es etwa, dass ein Term immer nur verwendet wird, wo auch ein anderer Term verwendet wird, oder sie sonst wie „ähnlich verwendet“ werden.
+

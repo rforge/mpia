@@ -1,0 +1,11 @@
+Schritte bei der anforderunganalyse
+anforderungsspezifikation: die anforderungen sollen hier
+so gut und so exakt wie möglich beschrieben werden.
+repräsentation: vorstellung der ergebnisse auf verschiedene arten.
+verwendung unterschiedlicher modelle (verschiedene Sichten)
+um die anforderungen besser zu veranschaulichen.
+verhandlung: da unterschiedliche personen unterschiedliches wissen,
+anforderungen an das system, erwartungen und ansichten haben
+soll eine lösung gefunden werden, die von allen akzeptiert wird
+dies geschieht zum beispiel durch interviews
+weiters anforderungsdefinition

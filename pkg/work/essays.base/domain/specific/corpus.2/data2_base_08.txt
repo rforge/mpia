@@ -1,0 +1,5 @@
+Die gesamten Informationen werden in das Warenwirtschaftssystem des Kunden
+importiert und stehen dort während der Auftragsbearbeitung zur Verfügung.
+Anhand der Katalogdaten erfolgt eine 100%ig genaue Preisberechnung. Dies gilt
+auch für Sonderausführungen aller Art - die Kalkulationssicherheit ist ein
+wesentlicher Vorteil bei der Verwendung elektronischer Kataloge.

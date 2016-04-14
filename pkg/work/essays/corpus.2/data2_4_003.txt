@@ -1,0 +1,5 @@
+Kunden suchen nach Produkten, bestellen und bezahlen über das Internet
+häufigster Verwendunszweck = Online Shop 
+Am weitesten verbreitete Anwerdung d. E-Comm.
+Koppelung des WWW an Produktdatenbanken
+PC d. Client (Kunden) http -> WWW Server <-> Händlen, elektr. Katalog <-> Produktdatenbank, Kundendatenbank

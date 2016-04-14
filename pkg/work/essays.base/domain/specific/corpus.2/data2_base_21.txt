@@ -1,0 +1,6 @@
+Katalog-Format
+Der elektronische Katalog wird im XML-Format gespeichert. Da es sich hierbei um
+ein internationalen Standard handelt, ist die Erstellung und Bearbeitung solcher
+Kataloge für alle Beteiligten (Hersteller, Händler) kein Problem. Die Katalog-
+Dateien können sogar mit jedem MS-Internext-Explorer eingesehen werden, da
+dieser die Anzeige von XML-Dateien unterstützt.

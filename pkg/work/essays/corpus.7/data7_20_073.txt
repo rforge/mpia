@@ -1,0 +1,5 @@
+Ein Interface erlaubt sozusagen
+"Mehrfachvererbung"
+eine Klasse kann mehrere Interfaces implementieren
+und somit die Methoden anderer Klassen
+aufrufen.

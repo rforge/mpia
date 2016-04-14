@@ -1,0 +1,2 @@
+Der Begriff geerbte Methoden impliziert, dass diese Methoden nicht überschrieben
+wurden.

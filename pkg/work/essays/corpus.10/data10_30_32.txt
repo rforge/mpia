@@ -1,0 +1,3 @@
+systemtest: hier wird geprüft ob das systm in seiner vorgesehenen umfebung lauffähig ist. (benutzer-sicht)
+integrationstest: hier wird geprüft ob das zusammenspiel der komponenten eines systems fehlerfrei läuft
+komponententest: hier wird jede einzelne system-komponente geprüft ob sie ihre anforderungen (funktionen) erfüllt

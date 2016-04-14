@@ -1,0 +1,3 @@
+Testziele: Prüfen, ob das Zusammenspiel aller Einzelteile miteinander richtig funktioniert;
+d.h. Fehlerzustände in Schnittstellen und im Zusammenspiel zwischen integrierten
+Komponenten zu finden.

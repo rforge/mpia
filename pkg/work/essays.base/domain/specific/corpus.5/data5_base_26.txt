@@ -1,0 +1,20 @@
+Literaturverzeichnis
+[1] Kashyap, V.; Sheth, A.: Semantic Heterogeneity in Global Information Systems: The
+Role of Metadata. In: Papazouglu, M.; Schlageter, G. (Hrsg.): Cooperative Information
+Systems, Academic Press, 1996, S.139-178.
+[2] Staab, S.: Wissensmanagement mit Ontologien und Metadaten. Informatik Spektrum,
+Juni 2002, S. 194-209.
+[3] Miller, G., Beckwith, R., Felbaum, C., Gross, D., and Miller, K.: Introduction to
+WordNet: An On-Line Lexical Database. Technischer Bericht, 1993.
+[4] Studer, R.; Erdmann, M.; Mädche, A.; Oppermann, H., Schnurr, H.-P.; Staab, S.;
+Sure, Y.; Tempich, C.: Arbeitsgerechte Bereitstellung von Wissen – Ontologien für das
+Wissensmanagement. Technical Report, 2001.
+[5] Spath, D; Sternemann, K.-H.; Herm, M.: Kontextsensitive Bereitstellung und
+Visualisierung von Unternehmensinformationen. In: Zeitschrift für wirtschaftlichen
+Fabrikbetrieb – ZWF 96 (2001) 7-8, S. 378-382.
+[6] Tönshoff, H. K., Apitz, R.. Lattner, A. D., Schlieder, C.: KnowWork – An Approach to
+Co-ordinate Knowledge within Technical Sales, Design and Process Planning
+Departments. 7th International Conference on Concurrent Enterprising, 27 – 29th June
+2001, S.231-239.
+[7] Apitz, R.; Lattner, A. D.; Schäffer, C.: Kontextbasiertes Wissensmanagement in der
+Produktentwicklung. Industrie Management 18 (2002) 3, S. 31-34

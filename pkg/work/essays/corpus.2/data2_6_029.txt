@@ -1,0 +1,6 @@
+Ein el. Katalog = ein Katalog, der z.B. im Internet bereit steht und weitere spezielle Eigenschaften, wie Warenkorb, etc besitzt. 
+Er besteht aus einen Server, der den Katalog darstellt und einer Datenbank, die die Liste der Produkte enthält (Zugriff über CGI)
+Kundensicht: Der Kunde wählt ein Produkt aus und entscheidet sich es zu kaufen, oder er verläßt die Seite. Je übersichtlicher und bequemer die Seite, die mit Abbildungen und zusätzlichen Features versehen werden sollte, ist desto höher ist die Wahrscheinlichkeit eines Kaufes.
+Administrator = es wird ein Produkt angefordert 
+es wird auch die Datenbank zugegriffen
+dann über CGI wird eine Internet Seite erstellt und zur Verfügung gestellt

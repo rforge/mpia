@@ -1,0 +1,1 @@
+Information Hiding bewirkt das verstecken von Information, d.h. die Variablen nachname und angemeldet können nach ihrer Zuweisung nicht mehr geändert werden.

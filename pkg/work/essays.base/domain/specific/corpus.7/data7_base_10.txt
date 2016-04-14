@@ -1,0 +1,8 @@
+Die Schnittstelle IUnknown ist die Basisschnittstelle von COM. Sie stellt
+Basisschnittstelle
+für Komponenten
+die drei elementaren Funktionen AddRef(), Release() und Query-
+Interface() bereit, die von jeder COM-Klasse implementiert werden
+müssen. Die Schnittstelle ist in der Datei Unknwn.idl (kein Tippfehler. . . )
+definiert, die in der benutzerdefinierten Schnittstelle importiert wird. Das
+folgende Listing zeigt die IDL-Beschreibung der Schnittstelle IUnknown:

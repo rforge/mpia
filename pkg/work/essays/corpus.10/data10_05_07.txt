@@ -1,0 +1,3 @@
+kompatibilitätstest: die einzelnen komponenten werden auf kompatibilität getestet
+integrationstest: einzelnen komponenten werden auf ihre integration in das gesamt modell getestet
+systemtest: test des gesamten systems

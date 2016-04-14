@@ -1,0 +1,2 @@
+durch "private" ist der Zugriff auf Objekte und Variablen beschränkt, es darf nur aus der selben Klasse zugegriffen werden
+dadurch ist die Information vor Zugriff und veränderung von ausserhalb geschützt

@@ -1,0 +1,3 @@
+Zusammengefasst ist auf eine COM-Schnittstelle eine Äquivalenzrelation
+(zur Definition des Begriffs siehe [DP88]) anwendbar, womit die Objektidentität
+hinreichend gesichert ist.

@@ -1,0 +1,11 @@
+Google-Landkarten als Überwachungswerkzeug
+von Stefan Kraft
+
+Mit den "Google Maps" sieht man die Welt von oben. Auf maps.google.com kann man in die Landkarte der USA "hineinzoomen" oder sich Satellitenbilder der jeweiligen Region ansehen.
+
+Viele Webseiten haben das Potenzial der, ausschließlich amerikanischen, Internet-Landkarten erkannt und sie in ihre Angebote eingebaut. So weist etwa http://www.ahding.com/cheapgas/ mit Hilfe der Google Maps die billigsten Tankstellen im Lande aus. Und die Betreiber von "Google Sightseeing" (googlesightseeing.com) beschäftigen sich damit, die witzigsten Schnappschüsse aus den Satellitenkameras abzubilden und zu kommentieren, etwa Schriftzüge im Sand der Wüste von Utah.
+
+TÄTERSUCHE Neben diesen harmlosen Anwendungen wird Google Maps aber auch dazu benutzt, die Wohnorte von ihn Florida wohnhaften Sexualstraftätern auf einer Straßenkarte zu veröffentlichen. Unter http://www.floridasexualpredator.com finden sich die genau verzeichneten Wohnadressen der Verurteilten. Die Daten werden von der Justiz des Bundesstaates gestellt, die Webseite verknüpft sie mit den Landkarten von Google. Gegen Eingabe der Postleitzahl erfährt man, wo sich in der Nachbarschaft Verurteilte aufhalten.
+
+Mittlerweile wehrt sich Google aber gegen die Verwendung seines Kartenschatzes durch Dritte. Einige Seiten mussten bereits davon Abstand nehmen, die Maps in ihr Angebot einzubauen. Weiterhin aktiv ist aber etwa http://www.chicagocrime.org: Auf der Seite werden alle in der Stadt Chicago begangenen Verbrechen auf einem Stadtplan angezeigt.
+

@@ -1,0 +1,36 @@
+
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "[",
+    "+",
+    "==",
+    "competences",
+    "cosine",
+    "groups",
+    "names",
+    "names<-",
+    "near",
+    "overlap",
+    "path",
+    "performances",
+    "plot",
+    "position",
+    "print",
+    "proximity",
+    "show",
+    "summary",
+    "terms",
+    "toponymy" 
+)
+
+exportClasses(
+     "Domain",
+     "DomainManager",
+     "HumanResourceManager",
+     "Performance",
+     "Person",
+     "Visualiser" 
+)
+
+export("DomainManager")
+

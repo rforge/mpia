@@ -1,0 +1,6 @@
+Wichtige Teilaspekte:
+funktionsorientierte Beschreibung der Markt-, Produkt- oder Projektidee, mögliche Varianten,
+funktionale Anforderungen (ggf. priorisiert)
+Kosten- und Zeitaufwand, Wirtschaftlichkeit
+Nebenbedingungen
+erforderliche Entscheidungen

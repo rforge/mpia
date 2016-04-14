@@ -1,0 +1,5 @@
+Mit Hilfe der Klassenabhängigkeit kann man z.B. eine neue Klasse
+ExtendedPhoneInvoice mit Rollen ExtendedCustomerInvoice und
+ExtendedAdministrationInvoice erstellen, ohne alle Abhängigkeiten neu zu
+definieren, die bereits zwischen CustomerInvoice und AdministrationInvoice
+bestehen.

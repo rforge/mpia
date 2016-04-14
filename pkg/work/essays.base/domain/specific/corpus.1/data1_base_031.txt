@@ -1,0 +1,5 @@
+Definition 7. Sei VA der Vorfahre der Rolle A und VB der Vorfahre der Rolle B.
+Sowohl die Rollen A und B als auch die Rollen VA und VB seien jeweils in einer
+Klasse. Die Rollen A und B sind genau dann klassenabhängig über VA und VB,
+wenn alle von VA und VB geerbten Attribute und Methoden, die in diesen Rollen
+gleichheitsabhängig sind, auch in A und B gleichheitsabhängig sind.

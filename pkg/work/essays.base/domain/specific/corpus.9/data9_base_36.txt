@@ -1,0 +1,1 @@
+Sollen im Umfeld des Systems komplexe Prozesse ablaufen, so sind diese Teil der Anforderungsdefinition.

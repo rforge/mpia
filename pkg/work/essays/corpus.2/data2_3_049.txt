@@ -1,0 +1,6 @@
+Ein elektronischer Katalog beinhaltet Produktnamen, deren Preis, eine Beschreibung der Produkte und typischerweise auch Zahlungsbedingungen und Versandbestimmungen.
+Wenn der Kunde bestellt muß er gewisse Daten übermitteln.
+Der Anbieter sieht dann, welche Produkt "gut gehen" und welche schlechter.
+Er sieht auch die Kaufgewohnheiten der Kunden.
+Der Kunde sucht nur in jenem Bereich, der ihn interessiert.
+Andere Produkte bekommt er nicht zu Gesicht. Er kann sich auch mittels e-mails, die ihm zugeschickt werden, über Neuigkeiten auf dem Laufenden halten.

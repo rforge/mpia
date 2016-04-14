@@ -1,0 +1,2 @@
+Ein Interface wird verwendet um in einem Objekt
+Schnittstellen zu definieren.

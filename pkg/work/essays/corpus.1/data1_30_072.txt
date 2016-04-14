@@ -1,0 +1,4 @@
+Datenkapselung (data encapsulation)
+d.h. man kann nicht direkt auf die Variablen zugreifen, sondern nur über Methodenaufruf.
+Vorteile: Vermeiden von Programmfehlern und Datenmanipulation
+Implementierung der Daten, ohne das der Programmcode d. Klasse geändert werden muß

@@ -1,0 +1,5 @@
+Ein elektronischer Katalog enthält die Produkte eines Anbieters (bei mehreren Anbietern nennt man es Katalogaggregation) man kann sich den elektronischen Katalog im Internet ansehen und ein gewünschtes Produkt bestellen.
+Haupkomponenten: Produktsuche
+Einkaufwagen in den man Produkte hineinlegen kann, die man kaufen möchte; ideal ist es, wenn der Einkaufswagen die Produkte "speichert" und beim nächsten Login wieder dort anzeigt (also in dem Fall, wenn man Produkte in den Einkaufswagen hineinlegt, aber doch nicht bestellt)
+Lagerstandanzeige: es sollte irgendwie markiert sein (zB. in den Farben grün oder rot) ob das Produkt in der gewünschten Menge lagernd ist oder nicht 
+Gliederung nach Produktgruppen

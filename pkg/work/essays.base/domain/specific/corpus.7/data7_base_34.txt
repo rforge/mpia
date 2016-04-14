@@ -1,0 +1,9 @@
+Wegen der Vielseitigkeit der .NET-Plattform existieren mehrere verschie-
+mit .NET – Überblick dene Möglichkeiten, verteilte Systeme zu realisieren. Neben den klassischen
+verteilten Objekten und Komponenten ist es auch möglich, bereits
+mit Bordmitteln der Plattform verteilte, Internet-basierte Anwendungen
+zu erstellen. Auch ist es sehr einfach möglich, WebServices zu
+erstellen, die ebenfalls als grundlegendes Bauelement verteilter Systeme
+verstanden werden können. Alle Formen verteilter Systeme, die mit der
+.NET-Plattform realisierbar sind, werden dem Entwickler jeweils durch
+komplexe vorgefertigte Frameworks (Tabelle 3.1) zur Verfügung gestellt.

@@ -1,0 +1,6 @@
+In Java sind Schnittstellen ein integriertes Sprachmittel (Schlüsselwort Javainterface
+interface). Mit Schnittstellen werden Eigenschaften von Implementationsklassen
+beschrieben. Schnittstellen fungieren auch hier als Vertrag
+zwischen einem Client und einem Server, der z. B. ein verteiltes Objekt
+anbietet. Das folgende Listing zeigt ein Java-Interface IAccount, welches
+das Äquivalent zur weiter oben gezeigten IDL-Schnittstelle ist:

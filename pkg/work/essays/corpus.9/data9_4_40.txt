@@ -1,0 +1,13 @@
+anforderungsanalyse ist korrekte und vollständige aufzeichnung der vom system geforderten anforderungen - zile = korrekte
+widerspruchsfreie abbildung (spezifikation)
+hauptaufgabe: 1.) anforderung spezifikation (gewinnung der
+vollständigen anforderung)
+2.) repräsentation (darstellung in geeigneter form formal, informal)
+3.) verhandlung: verhandlung: verschiedene personen haben unterschiedliche
+vorkenntnisse und interessen
+ziel der verhandlung ist es von
+allen ein akzeptiertes und allgemein
+verständliches modeel zu erhalten
+subprozesse: 1.) anforderungsdefinition: verbale beschreibung
+2.) anforderungsspezifikation: formal beschreibung
+softwarespezifikation: für entwickler (implementier nahe)

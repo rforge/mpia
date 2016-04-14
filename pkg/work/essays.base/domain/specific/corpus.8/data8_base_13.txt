@@ -1,0 +1,8 @@
+Das geschilderte zweistufige Vorgehen und die damit verbundenen Abschätzungen bzw.
+Analysen wären bei idealtypischer Planung in jedem Integrationsschritt (in der ersten Phase)
+erneut durchzuführen, weil sich die Ziele und Restriktionen im Zeitablauf ändern können. Es
+ist z.B. möglich, daß die Modifikation eines bestimmten Systems zu unterschiedlichen Zeitpunkten
+veränderten Anforderungen genügen muß, weil sich die Einsatzbedingungen bzw.
+das betriebliche Umfeld ändern. Da aber die Risikoanalysen im Fall der Budgetrestriktion
+sehr aufwendig sind (Durchführung von Kostenschätzungen), verbietet sich das geschilderte
+Vorgehen aus Kostengründen.

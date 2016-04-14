@@ -1,0 +1,5 @@
+Abhängigkeiten zwischen Rollen werden über Attribute und Methoden festgelegt.
+Attribute können zum gleichen Zeitpunkt den gleichen Wert haben, und
+Methoden können semantisch äquivalent sein. Aus diesen zwei einfachen Abhängigkeiten
+werden zwei komplexe Abhängigkeiten hergeleitet: Vererbungs- und
+Klassenabhängigkeit.

@@ -1,0 +1,1 @@
+Kontaktsumme: Summe der Einzelreichweiten. Werden in einem Medium mehrere Schaltungen durchgeführt, so wird die Einzelreichweite der Schaltung mit der Anzahl der Schaltungen multipliziert. Auch: Summe der Kontakte, die bei den erreichten Personen erzielt werden (der Durchschnittskontakt entspricht der Kontaktsumme pro erreichter Person).

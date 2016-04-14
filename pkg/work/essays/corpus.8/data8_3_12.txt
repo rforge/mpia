@@ -1,0 +1,10 @@
+Reengineering falls man den Produktlebenszyklus
+des bestehenden Systems verlängern will.
+Weiters sollte die Funktionalität (und technische Qualität)
+und die Anwenderzufriedenheit (unter betriebswirtschaftlichen
+Aspekten) ein Mindestmaß nicht
+unterschreiten.
+Sollte dieses Mindestmaß unterschritten sein, beziehungsweise
+sollten die betrieblichen Prozesse nicht durchgängig
+abgebildet (integriert) sein, empfiehlt sich eine
+neue Standardlösung.

@@ -1,0 +1,7 @@
+Ein elektronischer Katalog ist Sammlung v. relevanten Informationen in einer Datenbank.
+meistens ein Verzeichnis verschiedener Produkte eines Anbieters
+es kann auch auch Zusammenschluß verschiedener Kataloge mehrerer Anbieter zu einem Katalog erfolgen
+-> Katalogaggregation 
+d. Katalog besteht aus allg. Daten (Preis, Menge ...), wichtig ist die Suchfunktion f. d. Kunden, die komfortabel + effizient sein muß.
+(einfach zu benutzen, Suchfunktionen, 24h Verfügbarkeit)
+Ein Beispiel wären Bibliothekskataloge

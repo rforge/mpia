@@ -1,0 +1,9 @@
+1.) anforderungsgewinnung durch interviews ( befragung
+der betroffenen mitarbeiter, workshops, und so weiter).
+2.) spezifikation der anforderungen -> funktionale
+und qualitative anforderungen
+zu beachtende aspekte: spezifikation, repräsentation, verhandlung
+ziel: fehler -und widerspruchsfrei, verständlich,
+grundlage für systementwurf
+am ende des requirement engineering steht die
+anforderungsspezifikation, die oben genannte kriterien beachtet.

@@ -1,0 +1,5 @@
+Heute werden komplexe heterogene Systeme entwickelt, an denen gleichzeitig
+mehrere Entwicklerteams arbeiten [1][2]. Es ist entscheidend, dass jeder einzelne
+Entwickler eine überschaubare Aufgabenstellung hat. Er muss einerseits ausreichend
+Information haben, die an wenigen Stellen zur Verfügung steht; andererseits
+darf er nicht mit Informationen überflutet werden.

@@ -1,0 +1,4 @@
+Da die Beschreibung der Ontologien für alle Anwendungsdomänen in derselben
+Sprache (der objektorientierten Beschreibung) und in demselben System erfolgt, können
+Bezüge anwendungsübergreifend hergestellt werden. So können z.B.
+Produktinformationen mit organisatorischem Wissen verknüpft werden.

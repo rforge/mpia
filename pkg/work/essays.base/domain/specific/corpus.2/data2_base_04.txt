@@ -1,0 +1,4 @@
+Um ein Warenwirtschaftssystem effektiv einsetzen zu können, müssen die Artikel
+der einzelnen Hersteller in der Software zur Verfügung stehen. Die manuelle
+Eingabe der Artikel ist aufgrund der Vielzahl und der Komplexität der Artikel für
+kaum einen Händler möglich.

@@ -1,0 +1,2 @@
+-> ist so eine Art Schnittstelle zwischen Klassen
+einheitliche Schnittstelle nach auﬂen hin

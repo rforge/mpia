@@ -1,0 +1,2 @@
+durch deklarierte Methoden können nur durch get bzw set aufgerufen werden.
+private verhindert das Methoden in anderen Klassen benutzt werden

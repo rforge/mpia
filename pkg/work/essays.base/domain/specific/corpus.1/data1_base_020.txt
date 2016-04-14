@@ -1,0 +1,2 @@
+Definition 5. Eine Gleichheitsabhägigkeit zwischen zwei Methoden verschiedener
+Rollen liegt genau dann vor, wenn diese semantisch äquivalent sind.

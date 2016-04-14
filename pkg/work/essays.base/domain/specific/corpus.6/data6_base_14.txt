@@ -1,0 +1,1 @@
+Es sei an dieser Stelle bemerkt, dass die Methode des LSI mit SVD genau hier den Hebel ansetzt: Wir verwenden viele Terme zur Indexierung. Denn eine sehr grosse Matrix kann durch die SVD dennoch vernünftig gehandhabt werden, und es braucht viele Terme, um die semantische Struktur ausnutzen zu können und die Synonymie in den Griff zu bekommen.

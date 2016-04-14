@@ -1,0 +1,9 @@
+Ein Individualprodukt ist genau auf die Wünsche der Firma
+zugeschnitten - ein Standardprodukt nicht - beziehungsweise muss durch
+Spezialisten angepasst werden. Wenn jemand im Unternehmen das
+Standardprodukt kennt und es dementsprechend programmieren kann,
+dann ja, ansonst beläuft sich die Wartung auf sehr hohen Kosten.
+Für ein Reengineering spricht des weiteren die bereits eingesetzten
+Ressourcen sowie eingeschultes Personal und Anwender. Durch die
+Neueinführung fallen so zusätzliche Kosten an. Ein gutes Reengineering
+ist sicher ein großer Vorteil.

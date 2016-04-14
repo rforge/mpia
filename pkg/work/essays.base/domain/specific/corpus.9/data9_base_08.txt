@@ -1,0 +1,3 @@
+Nachdem wir das Anwendungsgebiet fachlich erfasst und eine Sammlung erster Anforderungen
+zusammengetragen haben, können wir eine Systemstudie erstellen. Ziel ist die Vorbereitung der
+Entscheidung für die Projektdurchführung.

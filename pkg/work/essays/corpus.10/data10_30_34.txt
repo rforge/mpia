@@ -1,0 +1,3 @@
+komponentensystemtest: hier werden die einzelnen komponenten eines systems auf ihre funktionalität geprüft. prüfung nach dem quellcode
+integrationstest: hierbei wird anschließend auf den komponententest geprüft ob die einzelnen komponenten in einer weise interagieren, sodaß sie ihre funktionen richtig zur verfügung stellen
+systemtest: hierbei wird aus der benutzersicht geprüft ob die dokumentation des systems den festgelegten anforderungen enspricht (black box verfahren)

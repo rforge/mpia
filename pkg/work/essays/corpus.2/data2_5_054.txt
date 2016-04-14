@@ -1,0 +1,6 @@
+Ein elektronischer Katalog besteht aus Daten, Datenbank, Metadaten über Daten und ist die digitale Abbildung eines analogen Katalogs.
+Entspricht einem Produktverzeichnis eines Anbieters, kann aber auch von mehreren Anbietern gleichzeitig sein = Katalogaggregation
+Funktion:
+Statistiken über Anzahl der Käufe für Anbieter
+Warenkorbsystem: Käufer kann Waren im Korb ablegen und auch erst viel später nach neuem einloggen diesen erweitern + die Bestellung durchführen
+Vorteil: große Preis + Markttransparenz

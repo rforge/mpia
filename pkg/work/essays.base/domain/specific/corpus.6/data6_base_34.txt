@@ -1,0 +1,2 @@
+Bezeichnen wir die Anzahl der Terme mit t und die Anzahl der Dokumente mit d, so handelt es sich um d Vektoren der Länge t. Wären die Terme im geometrischen Sinn unabhängig, so hätten wir einen t-Dimensionalen Raum, in welchem die t Dimensionen jeweils einen der Terme darstellen würde. Wie wir oben gesehen haben, glauben wir aber eher, dass sie es nicht sind.
+

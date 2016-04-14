@@ -1,0 +1,1 @@
+private String nachname, Bzw. private boolean angemeldet

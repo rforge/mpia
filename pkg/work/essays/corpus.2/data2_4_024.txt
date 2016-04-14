@@ -1,0 +1,5 @@
+In einem elektronischen Katalog werden identische o. unterschiedliche Produkte angeboten, also man kann Kosten- u. Zeit einsparen, wenn man in einem solchen Katalog etw. sucht.
+Datenbanken werden ins Internet eingebunden, und übers Internet erfolgen auch Transaktionen. Zugriff meist über JAVA, CSS.
+Für Kunden schnelle Preisvergleiche, 24h Suche möglich, unter bequemen Umständen.
+Für die Verkäufer werden neue Absatzwege ermöglicht, oft Reduktion von Kosten, neue Services übers Internet.
+Besteht aus Internetseite (Homepage) -> Zugriff auf Datenbank

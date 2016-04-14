@@ -1,0 +1,19 @@
+im Moment am weitesten verbreitet im E-Commerce
+ein dynamischer Katalog
+Die Daten werden ständig aktualisiert und bspw. unternehmensintern zwischen den Abteilungen synchronisiert
+-> Koppelung des Internet mit DataBases d. Prod. 
+
+Kundensicht:
+Registierung mit persönlichen Daten
+Suche/Ergänzungen des Kataloges
+relevante und aktuelle Information
+safe payments
+einfache Zahlungen
+evtl. Einkaufskorb
+
+Admin-Sicht:
+Kataloginhalte verwalten, evtl. löschen
+Kundenprofile verwalten (Auswertungen)
+Auswertungen -> Marketing
+Auswertungen CRM
+Präsentation und Marketing des Site selbst

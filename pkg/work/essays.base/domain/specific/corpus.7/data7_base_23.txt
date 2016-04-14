@@ -1,0 +1,9 @@
+Analog zu IDL-Schnittstellen müssen jedoch auch WSDL-Schnittstellen Nachteile
+zunächst interpretiert und auf eine Basismaschine gemappt werden.
+Daraus ergeben sich hier vergleichbare Probleme wie bei
+IDL-Schnittstellen. Hinzu kommt noch der Punkt der verwendeten Beschreibungstechnik.
+XML ist zwar sehr flexibel, es ist lesbar, jedoch
+auch sehr geschwätzig. Während ein Entwickler eine IDL-Schnittstelle
+meistens schnell erfassen und interpretieren kann, ist dies bei
+WSDL-Schnittstellen meistens zeitaufwändiger, da man hier ofmals
+durch die schiere Masse erschlagen wird.

@@ -1,0 +1,2 @@
+Durch private kann nur auf Variable und Methoden dieser Klasse von innerhalb eben dieser zugegriffen werden.
+Eine andere Klasse kann nicht auf die Variablen Nachname und angemeldet zugreifen.

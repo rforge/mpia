@@ -1,0 +1,7 @@
+Bei der Beibehaltung / Weiterentwicklung können die Datenbestände so bleiben
+wie sie vorliegen und müssen nicht umgestellt werden. Außerdem ist
+die Eigenentwicklung an die Anforderung des Unternehmens angepaßt.
+Bei einem Standardproduktmuss der Datenbestand konvertiert werden.
+Zumeist sind aufwendige Customizing-Schritte notwendig. Auf lange
+Sicht ist ein Standardprodukt billiger und bei Fehlern kann man 
+sich beim hersteller regressieren (wenn Schaden vorliegt).

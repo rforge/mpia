@@ -1,0 +1,5 @@
+Es wird also eine neue Schicht aus Rollen eingeführt. Im Objektmodell haben
+die Klassen die gleiche Definition wie die Rollen im Rollenmodell. Jedoch
+können hier mehrere Rollen zur gleichen Klasse gehören: Sowohl der Privatanrufer
+als auch der Zahler aus Kapitel 2 bezeichnen das gleiche Objekt der Klasse
+PrivatePhoneCustomer.

@@ -1,0 +1,5 @@
+Am Beginn eines Softwareprojekts steht eine Idee für eine Verbesserung oder für ein Produkt. In
+der Regel wird dann eine erste Skizze angefertigt, die die wichtigsten Überlegungen zum Projekt zusammenfasst.
+Es werden Ziele, Rahmenbedingungen, Erfolgsfaktoren, Kosten, Risiken abgesteckt.
+Auf dieser Basis erfolgt eine erste Entscheidung, das Projekt durchzuführen oder zumindest eine
+genauere Anforderungsanalyse vorzunehmen.

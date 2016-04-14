@@ -1,0 +1,4 @@
+Die Zerlegung in überschaubare Einzelprojekte führt zu einer Reduktion der Aufgabenkomplexität.
+Die gleichzeitige Integration mehrerer Datenmodelle ist z.B. eine Aufgabe
+mit hoher Komplexität [14]. Statt dessen wird jeweils das Datenmodell einer einzelnen
+Anwendung in das IVAS-Datenmodell integriert.

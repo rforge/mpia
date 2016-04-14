@@ -1,0 +1,3 @@
+Interfaces dienen auch der Wiederverwendbarkeit von Code. In
+Interfaces können Schnittstellen zu anderen Programmteilen definiert
+werden.

@@ -1,0 +1,5 @@
+In einem elektronischen Katalog sollten alle Produkte vorhanden sein, die man anbietet
+Der Katalog sollte leicht zu navigieren sein.
+Produkte die ähnlich sind werden oft von mehreren Anbietern in einem e-Katalog angeboten
+Sicht des Kunden: man kann die Preise vergleichen, Produkte suchen und schneller finden, 24h Zugriff (d.h. man kann 24h einkaufen), von zu Hause aus, kein Zwischenhändler wird also Ware billiger
+Sicht des Anbieters: man erreicht eine größere Kundengruppe, Marketing wird billiger, kein Zwischenhändler mehr

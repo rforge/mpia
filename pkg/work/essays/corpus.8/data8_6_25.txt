@@ -1,0 +1,12 @@
+Gründe Beibehaltung:
+Da individuell: auf die Anforderungen des Unternehmens abgestimmt.
+Frage? Ist das System einer Osterweiterung gewachsen => welche
+Kosten verursacht diese Erweiterung wenn das System angepasst werden
+muß, ist es überhaupt möglich? wenn das OK -> Beibehaltung
+=> sonst Analyse
+Qualität Benutzerfreundlichkeit, Anpassung, Behaltung, Neu, Reengineering
+0> Wenn eine Anpassung bzw. Reengineering teurer ist als ein Neusystem
+(inklusive Datentransfer!) dann Neusystem -> sonst Altsystem
+und Schulung, Software, Hardware,
+Total costs of Ownership berücksichtigen
+auch hier (Schulung und Wartung)

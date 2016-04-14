@@ -1,0 +1,5 @@
+die beiden variablen 
+nachname und angemeldet
+sind durch den Zusatz private
+für andere Klassen nicht mehr zugänglich.
+Sie können nur mehr in der Klasse Student verwendet werden.

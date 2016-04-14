@@ -1,0 +1,7 @@
+Zwischen Rollen ist nur Einfachvererbung möglich, in Kapitel 2 erbt Payer von
+Person. Die Regeln der Einfachvererbung sind aus dem Objektmodell übernommen.
+Außerdem kann eine Rolle Interfaces implementieren. Zwischen Klassen
+ist die Vererbung nicht sinnvoll und somit auch nicht erlaubt. Da ein Objekt
+alle Rollen der Klasse beinhaltet, werden Aspekte der Mehrfachvererbung herkömmlicher
+Art abgedeckt, ohne Probleme wie Namenkollisionen oder Diamond-
+Problem.

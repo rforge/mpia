@@ -1,0 +1,7 @@
+Es wird ein Konzept ausgearbeitet, das Clients erlaubt, ein Objekt aus verschiedenen
+Perspektiven zu sehen. Das Objekt kann in unterschiedlichen Kontexten
+unterschiedliche Rollen annehmen. So sinkt die empfundene Komplexität des
+Objekts, da nur noch der relevante Teil sichtbar ist. Das Rollenkonzept kann
+man vor allem in komplexen Softwaresystemen einsetzen. Wenn Objekte sehr
+viele Attribute und Methoden haben, ist es sinnvoll, die Funktionalitätsvielfalt
+durch Projektionen - also Rollen - einzuschränken.

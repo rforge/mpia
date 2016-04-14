@@ -1,0 +1,4 @@
+Da die Kataloge alle Informationen zu einem Artikel beinhalten, einschließlich
+der Abbildungen, Montage- und Zusatzteile, kann der Händler seine Angebote
+und Aufträge weitestgehend ohne den Rückgriff auf die herkömmlichen
+Papierkataloge erstellen.

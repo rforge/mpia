@@ -1,0 +1,11 @@
+spezifikation ist die abbildung von anforderungen unter jeweils aktuellen
+datenbestand.
+präsentation, spezifikation wird kommuniziert. es wird durch mittel
+formate (text, graphisch) oder unformate mittel präsentiert.
+verhandlung
+beschreibung der unterschiedlichen sichten auf der selben betrachtungsebene
+zur kommunikation.
+verhandlung: verschiedene ansicht an personen
+verschiedene ansichten an teilfragen
+ziel ist zur erstellung eine der alle beteiligten verstanden und gut
+verstehbare systementwicklung.

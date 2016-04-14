@@ -1,0 +1,4 @@
+komponentenebene, integrationsebene, systemebene
+komponentenebene: hier werden die einzelnen komponenten einzeln geprüft
+integration: hier werden die schnittstellen und die komposition des systems (lauffähigkeit) überprüft
+systemebene: anwenderebene prüfung aus der anwendersicht ob das programm richtig läuft

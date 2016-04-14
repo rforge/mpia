@@ -1,0 +1,5 @@
+Navigation
+Der Mensch baut bei der Suche nach Informationen auf Begriffswelten auf, ähnlich
+denen, wie man sie abstrakt in einer Ontologie darstellen kann, geht dabei aber nicht so
+konsequent und geradlinig vor wie das zuvor beschriebene ontologie-basierte
+Suchverfahren [4]. Vielmehr stehen assoziative Verknüpfungen im Vordergrund.

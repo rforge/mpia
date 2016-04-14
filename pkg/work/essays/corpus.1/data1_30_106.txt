@@ -1,0 +1,5 @@
+Mittels Information Hiding werden Methoden und Eigenschaften einer Klasse nach außen "unsichtbar" gemacht.
+Beispiel: private String nachname;
+Durch "private" kann auf nachname nur innerhalb der Klasse die Eigenschaft nachname vesucht werden. Von außen ist die Eigenschaft unsichtbar und kann nicht gelesen oder geschrieben werden.
+Diese könnte nur über ev. Methoden (z.B. setNachname) durchgeführt werden.
+Dadurch wird Übersichtlichkeit erreicht. Weiters können damit unvorhergesehene Abläufe durch unbeabsichtigtes Ändern der Eigenschaft von außen verhindert werden.

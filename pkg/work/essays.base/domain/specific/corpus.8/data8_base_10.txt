@@ -1,0 +1,20 @@
+Wegen der Langfristigkeit des Integrationsprozesses ist eine Zerlegung in eine Planungsphase
+bzw. die Festlegung einer Integrationsreihenfolge und die nachfolgende Durchführung des
+Plans nicht zweckmäßig: Weit in der Zukunft liegende Integrationsprojekte würden unter
+überholten Zielen und Restriktionen abgewickelt. Eine bessere Möglichkeit ist die iterative
+Planung und Durchführung einzelner Integrationsprojekte. Auf diese Weise ist eine laufende
+Anpassung des Integrationsprozesses an veränderte Umgebungsbedingungen möglich. Zur
+Konkretisierung dieses grundsätzlichen Vorgehens wurde das Spiralmodell von Boehm an
+die Erfordernisse des integrationsorientierten Reengineering angepaßt [11]. In einem initialen
+Zyklus wird die Verteilungsarchitektur des IVAS [6] konfiguriert. Jeder weitere Zyklus des
+Vorgehens bzw. jeder weitere Integrationsschritt besteht aus vier Phasen. Gegenstand der ersten
+Phase ist die Definition des Integrationsschritts (welches System wird entwickelt bzw.
+modifiziert und integriert) sowie die Festlegung der genauen Anforderungen (z.B. “fensterorientierte
+Oberfläche”) und der Restriktionen (z.B. Budget). Im Rahmen einer Risikoanalyse
+[1] wird in der zweiten Phase überprüft, auf welche Weise der zuvor definierte Integrationsschritt
+risikominimal realisiert werden kann. Abhängig vom Gegenstand des Integrationsschritts
+kommen unterschiedliche Implementierungsmöglichkeiten in Betracht:
+• Integration eines neuen Systems: Entwicklung einer Individualsoftware oder Kauf und
+evtl. Anpassung von Standardsoftware;
+• Integration eines Altsystems: Reengineering, Neuentwicklung des Systems oder Kauf und
+evtl. Anpassung von Standardsoftware.

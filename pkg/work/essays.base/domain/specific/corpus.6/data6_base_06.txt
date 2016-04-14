@@ -1,0 +1,2 @@
+Von der benötigten Mathematik wird hier nichts bewiesen, weil dies keinen Sinn machen würde. Vielmehr wird von der verwendeten Methode soviel erklärt, wie nötig ist, um zu verstehen, warum dieses Verfahren eine Verbesserung bringen könnte.
+

@@ -1,0 +1,2 @@
+Polysemie führt dazu, dass Dokumente Terme der Anfrage enthalten, jedoch mit anderer Bedeutung, so dass sie für die Anfrage gar nicht relevant sind. Somit erniedrigt sie die Precision. Synonymie führt dazu, dass Dokumente, die für die Anfrage relevant wären, nicht die Terme der Anfrage verwenden und somit nicht zurückgegeben werden. Sie erniedrigt den Recall.
+

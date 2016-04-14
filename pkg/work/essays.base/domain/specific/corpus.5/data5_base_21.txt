@@ -1,0 +1,5 @@
+Dieser Vorgang wird als Navigation bezeichnet. Die Bedeutung derartiger Mechanismen
+für die Informationssuche im technischen Umfeld wurde bereits von Spath et al.
+hervorgehoben [5]. Bei dem im Rahmen des KnowWork-Projektes erarbeiteten und hier
+vorgestellten Ansatz wird der Schwerpunkt hingegen stärker auf die Bereitstellung von
+häufig gebrauchten komplexen Navigationsschritten gelegt.

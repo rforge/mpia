@@ -1,0 +1,5 @@
+Betrifft die Sichtbarkeit bzw. den Zugriff auf beschränkte Methoden oder Variablen.
+Private: Variablen und Methoden lassen sich nur von der Klasse, in der sie erzeugt werden, verwenden bzw. aufrufen.
+Hier: private String nachname
+private boolean angemeldet
+Kein Zugriff von außen möglich.

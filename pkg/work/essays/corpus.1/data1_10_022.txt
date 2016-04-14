@@ -1,0 +1,1 @@
+Information hiding dient dazu, daﬂ man bestimmten Information "verstecken" kann und damit nicht allen Klassen zug‰ngig macht.

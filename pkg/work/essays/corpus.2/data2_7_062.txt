@@ -1,0 +1,6 @@
+Ein Elektronischer Katalog wird üblicherweise von den Anbietern der im Katalog beschriebenen Dienste erstellt und enthält für den Kunden veschiedene Informationen über die Produkte bzw. Leistungen
+Angefangen bei Spezifikationen u. dem Preis bis zu einer Such- u. Bestellmöglichkeit z.B. durch sogenannte Wareneinkaufskörbe.
+Der Kunde sucht nach verschiedenen Kriterien seine gewünschte Ware und erhält eine od. mehrere Waren zur Auswahl, entscheidet der Kunde sich für eine bestimmte Ware kann er sie in den meisten Fallen auch online bestellen.
+Der Anbieter seinerseits kann durch Erstellen einer Datenbank seine Waren od. Leistungen erfassen u. sie online stellen (hier bieten sich natürlich interaktive Datenbanken an )
+Durch Einkäufe werden die Bestandsveränderungen erfasst eben sowie durch Verkäufe.
+Der Administrator erhält ein Bestellformular der Kunden und entscheidet je noch Modernisierungsgrad (ob er dieses Formular selbst bearbeiten muß od. es durch interaktive Datenbank bereits online erfasst wird.

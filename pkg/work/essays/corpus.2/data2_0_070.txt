@@ -1,0 +1,5 @@
+Ein elektronischer Katalog ist eine undynamische Struktur im WEB die hierarchisch aufgebaut ist und Informationen enthält und auflistet oder Verweise nach Informationsquellen enthält.
+Elektr. Katalog enthält hierarchisch aufgebaute Links, die dann zu den angebotenen Infos führen.
+Aus Sicht des Anbieters ist es statisch machbar. 
+Aus Sicht des Kunden ist es bequem, da man sich nur eine Unterkategorie auszusuchen braucht, ist aber problematisch, wenn der Request unten keine Unterkategorie fällt / eindeutig fällt.
+Die Suchmaschinen durchsuchen das ganze Web, kein Elekt. Katalog die Informationen sind durch den Anbieter beschränkt.

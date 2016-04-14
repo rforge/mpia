@@ -1,0 +1,1 @@
+SVD (Singular Value Decomposition)	Term-Dokument-Matrix wird als Produkt von speziellen, kleineren Matrizen angenähert dargestellt.

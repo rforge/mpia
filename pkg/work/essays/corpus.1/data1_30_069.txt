@@ -1,0 +1,5 @@
+die Instanzvariable nachname und angemeldet ist nur innerhalb von Klasse abrufbar.
+D.H. um diese Information abrufen zu können müssen extra Methoden definiert werden (wie vorigen beispiel)
+erst durch abrufen von jeweiligen Methoden
+(für nachname: getNachname(), und für angemeldet: istAngemeldet() werden die informationen durch jeweiligen Methoden abrufen.
+Information Hiding wird benutzt, um bestimmte Informationen außerhalb Klassen (vor fremden Klasse) nicht direkt abrufen / manipuliert werden können. (für Sicherheit oder leichte erweiterbarkeit/modizifierbar d. Klassen)

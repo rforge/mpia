@@ -1,0 +1,3 @@
+komponententest: einzelne komponenten werden getestet
+integrationstest: das zusammenspiel der verschiedenen komponenten wird ausgetestet
+systemtest: das gesamtprogramm wird im zielsystem (OS, rechner, andere programme) getestet

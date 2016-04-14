@@ -1,0 +1,6 @@
+Transitivität – QueryInterface() muss transitiv sein, sodass ein Client,
+wenn er erfolgreich eine Schnittstelle und über diese eine weitere
+angefordert hat, eine dritte über den letzten angeforderten Schnittstellenzeiger
+anfordern kann. Ist dieser Aufruf ebenfalls erfolgreich, muss auch
+eine Anforderung der letzten Schnittstelle durch die erste erfolgreich
+sein.

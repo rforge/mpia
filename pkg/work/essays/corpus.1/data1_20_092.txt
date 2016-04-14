@@ -1,0 +1,1 @@
+Eine Variable (hier: "nachname" und "angemeldet") wird als private deklariert damit man nicht direkt auf sie zugreifen kann sondern über Methodenaufruf (hier: "istAngemeldet" und "getNachname")

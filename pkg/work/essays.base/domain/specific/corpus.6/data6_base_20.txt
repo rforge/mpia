@@ -1,0 +1,2 @@
+Deerwester formuliert in seinem Artikel drei Anforderungen an eine Lösung der oben genannten Probleme. Von verschiedenen möglichen Ansätzen erfüllt nur das LSI mittels SVD alle drei Punkte. Ich möchte im Folgenden die drei Anforderungen formulieren und zu jeder kurz beschreiben, wieso Deerwester sie für nötig hält, und auf welche Weise seine vorgestellte Methode sie erfüllt. Dazu greife ich ein wenig auf das Kapitel 4 vor, denn die verwendeten Begriffe werden teilweise erst dort vorgestellt.
+

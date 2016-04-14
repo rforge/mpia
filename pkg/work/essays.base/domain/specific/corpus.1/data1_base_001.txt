@@ -1,0 +1,10 @@
+Rollen in objektorientierter Entwicklung
+Daniel Chernuchin und Gisbert Dittrich
+Universität Dortmund
+{daniel.chernuchin, gisbert.dittrich}@udo.edu
+Zusammenfassung Dieses Papier stellt eine kanonische Erweiterung
+der objektorientierten Konzepte für Rollen und kontextabhängiges Verhalten
+vor. Dabei besteht eine Klasse aus Rollen; die Sicht und der Zugriff
+auf ein Objekt hängen von der aktuellen Rolle des Objektes ab. Dies unterstützt
+Kapselung und Information Hiding, also Voraussetzungen für
+die Entwicklung komplexer Systeme.

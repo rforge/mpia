@@ -1,0 +1,6 @@
+anwendungsebene: letzte ebene, black box verfahren,
+kein vorwissen der internen struktur nötig
+einführungsebene: tests nahe am quellcode, wird
+als ganzes (-system) getestet
+entwicklungsebene: tests am qullcode, einzelne
+subsysteme werden getestet

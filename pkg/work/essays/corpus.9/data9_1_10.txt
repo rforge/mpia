@@ -1,0 +1,3 @@
+anforderungsdefinition: verbale beschreibung der basisanforderungen
+anforderungskontext
+anforderungsmodell

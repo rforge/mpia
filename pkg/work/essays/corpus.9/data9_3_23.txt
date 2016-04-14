@@ -1,0 +1,9 @@
+beim re (= requirement engineering), das gleich
+nach der planungsphase stattfindet, werden die
+anforderungen an das zu erstellende is gestellt.
+es stehen hierfür drei modelle zur verfügung:
+zielmodell (-> managerebene) -> was ist / sind ziele / subziele des is
+szenariomodelle (-> abbildung aller möglichen geschäftsvorfälle)
+lösungsmodell (für programmierer)
+ziel ist eine möglichst widerspruchsfreie
+aufgabenmodelle: regulierungsspezifikation

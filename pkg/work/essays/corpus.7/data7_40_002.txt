@@ -1,0 +1,9 @@
+Interface in Java macht es möglich für eine oder
+mehrere Klassen Schnittstellen zu definieren und
+anzuwenden.
+Definiert sind: Namen der Methode
+parameter (Typ und Bezeichner)
+Rückgabewerttyp
+Namen der Variable
+Eine Klasse kann nur von einer Klasse erben.
+Interfaces ermöglichen die Mehrfachvererbung.

@@ -1,0 +1,2 @@
+Beim Information Retrieval (IR) werden einem Dokument Indexterme zugewiesen. Indexierung bedeutet also, den Inhalt eines Dokuments auf eine Menge relevanter Begriffe abzubilden. Eine Anfrage andererseits besteht aus Suchtermen, und ein Zugriff erfolgt, wenn die Suchterme in den Indextermen enthalten sind.
+

@@ -1,0 +1,12 @@
+In IDL wird eine Schnittstelle in einer Form deklariert, die unabhängig
+von der zur Implementierung verwendeten Programmiersprache ist. IDL ist
+sprachunabhängig Diese Beschreibung muss jedoch durch einen speziellen IDL-Compiler
+verarbeitet werden. Aus der Bearbeitung wird ein sprachspezifisches Interface
+generiert, welches die definierten Methodensignaturen realisiert.
+Auch die in IDL verwendeten Datentypen werden auf sprachspezifische
+Datentypen gemappt. Das generierte Interface wird entsprechend in Server-
+und Client-Programmen verarbeitet. Die Interaktion zwischen Server
+und Client erfolgt mittels des realisierten Interfaces und einer Reihe
+weiterer notwendiger Hilfsmittel, die meistens in Form von Proxy/Stub
+DLLs realisiert wurden. Diese Vorgehensweise bietet den Vorteil, dass sie
+zumeist absolut plattformneutral ist (siehe CORBA).

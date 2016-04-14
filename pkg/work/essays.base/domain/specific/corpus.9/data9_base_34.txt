@@ -1,0 +1,1 @@
+Beispiel: Zu jeder Eigenschaft werden Testfälle definiert.

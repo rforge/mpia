@@ -1,0 +1,7 @@
+Ein Objekt hat die ganze Komplexität seiner Klasse. Information Hiding wird
+dadurch erreicht, dass z.B. nur die Variable vom Typ CustomerInvoice im Webportalkontext
+und nur die vom Typ AdministrationInvoice im Verwaltungskontext
+auftauchen. Als statischer Typ ist nur die Rolle erlaubt, als dynamischer
+nur die Klasse. Die Kapselung wird durch eine geeignete Entwicklungsumgebung
+erreicht, wenn semantisch zusammenhängende Klassen und Rollen dem Entwickler
+zusammen präsentiert werden.

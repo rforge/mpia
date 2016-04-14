@@ -1,0 +1,9 @@
+In Java ist die Möglichkeit zu einer oder mehreren
+Klassen eine Schnittstelle zu
+definieren und anzuwenden.
+Ein Interface ist ähnlich wie eine
+abstrakte Klasse, enthält jedoch
+keine Implementierung.
+es definiert Namen und Methoden, deren
+Parameterlisten (Paramtertype und namen)
+deren Rückgabewerttypen Namen und Variable

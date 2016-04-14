@@ -1,0 +1,2 @@
+Der erste Vorteil der Singulärwertzerlegung ist nun, dass sie eine Menge von künstlichen Indextermen liefert, welche sicher unabhängig voneinander sind. Diese Zahl wird im allgemeinen kleiner sein als t, nennen wir sie m. Wir erhalten damit einen semantischen Raum der Dimension m, indem wir unsere Terme und Dokumente als Punkte darstellen können.
+

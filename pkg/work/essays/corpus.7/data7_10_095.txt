@@ -1,0 +1,4 @@
+Mit Hilfe von Schnittstellen / Interfaces können Methoden
+verschiedener Klassen definiert werden. Die
+Methoden der Superklassen werden von den
+Methoden der Subklassen überschrieben.

@@ -1,0 +1,1 @@
+Mit der Hilfe von private und protected kann den Zugriff zur Information beschränkt.

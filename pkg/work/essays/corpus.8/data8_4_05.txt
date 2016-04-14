@@ -1,0 +1,8 @@
+Reengineering => ween Altsystem integriert werden kann. Durch Reengineering kann man migrieren auf
+neue Plattform ohne gesamtes System auszuwechseln.
+man verlängert die Nutzungsdauer des Systems.
+man erhöht die Wartbarkeit und Wartungsproduktivität des Systems.
+Standardprodukt: ganzes neu System. Es können auch ausgewählt werden. Weil du kannst
+die Standardprodukte gleichzeitig benutzen (verkäufer und dam Benutzer)
+Lieferanten ist verantwortlich für Wartung und Pflege
+Diese Produkte sind schon ausprobiert worden (Es gibt Erfahrung).

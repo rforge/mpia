@@ -1,0 +1,4 @@
+el. Katalog: aggregiertes Angebot an Produkten das mehrere Produktgruppen von mehreren Anbietern enthalten kann, Produkte werden online angeboten, leicht zugänglich, außer Fixkosten fallen nur marginale Verkaufskosten an
+Funktionsweise:
+Administrator: bietet Güter online an, erhält Kaufaufträge von Kunden, liefert die Güter physisch und erhält die Zahlung via IPS
+Kunde: bestellt Ware, zahlt online, erhält Güter geliefert -> Zeitersparnis, Kostenersparnis

@@ -1,0 +1,3 @@
+komponententest: die einzelnen verwendeten softwarekomponenten werden getrennt voneinander betrachtet und einzeln getestet
+systemtest: das gesamte softwaresystem wird betrachtet und auch das gesamte system zusammen getestet
+subsystemtest: einige softwarekomponenten werden zu subsystemen zusammengefasst und so getestet

@@ -1,0 +1,4 @@
+Verteilte Objekte sind der wesentliche Bestandteil der hier zu betrachtenden
+Systeme. Ihre Eigenschaften lassen sich dahingehend abstrahieren,
+dass sich eine Klasse von Objekten, die Klasse verteilter Objekte, bestim- Klasse verteiltes Objekt
+men lässt (siehe [HR02] und Kapitel 1.2.3).

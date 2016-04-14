@@ -1,0 +1,4 @@
+Durch Information Hiding wird der Zugriff auf bestimmte Variablen eingeschränkt, und ist nur noch über die implementierten
+		(von außerhalb der Klasse oder des Packages)
+Methoden möglich
+In unserem Fall verhindert die Deklaration der Variablen als private (eingeschränkte Sichtbar- und Nutzbarkeit), das auf die Variablen von außerhalb der klasse zugegriffen wird.

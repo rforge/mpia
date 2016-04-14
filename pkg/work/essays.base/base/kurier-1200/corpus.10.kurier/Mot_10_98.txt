@@ -1,0 +1,25 @@
+In der Keimzelle des simulierten Rennfiebers
+"Wollen Sie sehen, wie sich der Einser-BMW mit 300 PS und Frontantrieb fährt?" Kazunori Yamauchi wartet die Antwort erst gar nicht ab. In Sekundenschnelle sind die Zahlen eingetippt und schon rast der kleine BMW los, kommt aber nicht weit, denn schon in der ersten Kurve ist er weg.
+
+Willkommen in der Entwicklungshalle von Polyphony Digital in Tokio. Dort wurden und werden Versionen des ultimativen und ca. 35 Millionen Mal verkauften Rennspiels Gran Turismo (siehe Kasten) im Auftrag von Sony entwickelt, von ca. 30 jungen Rennbegeisterten, unter der Leitung von Yamauchi.
+
+Nachtaktiv
+
+Es ist 3 Uhr Nachmittag, außer Chef und Assistenten sind nur wenige Mitarbeiter zu sehen, die Hauptarbeitszeit, so Yamauchi, ist zwischen 4 Uhr Nachmittag und Mitternacht, aber es könne auch ein bisschen später werden.
+
+Die späte Arbeitszeit dürfte nicht nur dem Lebensstil der Softwareentwickler entgegenkommen, sondern auch dem Klima. Denn klimatisiert ist die Halle, unterteilt in Kojen, nicht. Die einzige "echte" Kühlung gibt es für den Rechner, einem der größten in Tokio. "Dort lagern wir auch den Champagner", lacht Yamauchi. Die europäischen Besucher, die mit BMW in diese "heilige" Halle durften, fragen sich aber nicht nur, wie man es in dem feuchtheißen Klima ohne effiziente Lüftung aushalten kann.
+
+Minimal-Koje
+
+Noch viel ungewohnter ist der unglaublich enge Arbeitsraum. Obwohl die Kojen ohnehin nur rund 2 groß sind, ist auch diese Minimalfläche noch mit Maskottchen aller Art gerammelt voll (siehe großes Bild): Die einen lieben Modellautos, andere haben mehrere Motorradausrüstungen "zwischengelagert", andere haben offensichtlich bereits zahlreiche Pokale gewonnen. Einige Kojen wirken wie Spielzeughandlungen. Es bleibt gerade Platz für Flachbildschirm, Tastatur, Sessel.
+
+Platzmäßig geradezu luxuriös ist da der Ruheraum, wo in internationalen Automobilzeitschriften geschmökert oder auf Fitnessgeräten trainiert werden kann. Oder der Mitarbeiter probiert neue Ideen auf dem Fahrsimulator aus, der mit 3 Mio. Yen (knapp 22.000 Euro) "relativ billig" ist, so Yamauchi.
+
+Die Darstellungen von Auto und Strecke wirken jedenfalls unglaublich echt auf den Bildschirmen der Truppe.
+
+Inzwischen haben auch die Autohersteller erkannt, welch wichtiges Werbemedium diese Spiele sind (siehe Motor-KURIER 7. 1. 2005) und rücken vor der Serieneinführung neuer Modelle mit "Geheimdaten" über Fahrwerksabstimmung, Motor etc. an Yamauchis Entwicklertruppe heraus.
+
+Bei hartnäckigen Verweigerern müsse man "kreativ" sein, lacht Yamauchi. 400 bis 500 Parameter werden bei jedem Auto berücksichtigt.
+
+ 
+ 

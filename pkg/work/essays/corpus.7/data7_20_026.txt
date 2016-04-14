@@ -1,0 +1,5 @@
+Es ermöglicht Schnittstelle zu einer oder mehreren Klassen ohne
+Implementierung. Diese Schnittstelle wird vom Compiler
+sichergestellt. Es wird mit dem Schlüsselwort implements
+deklariert. Mit Interfaces ist eine "Art" Mehrfachvererbung
+möglich.

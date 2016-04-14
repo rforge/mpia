@@ -1,0 +1,12 @@
+Die Individualentwicklung ist maßgeschneidert und hat schon viel
+Geld gekostet, weitere Investitionen sind als geringer einzuschätzne
+als die Neuinvestition in ein Standardsystem. Auf lange Sicht
+gesehen, schätze ich aber die Kosten eines Standardsystems als geringer
+ein, da die Entwicklung zentral und kostengünstiger bei SAP oder
+Microsoft, etc. gemacht werden kann.
+Standardsysteme können aber nie genau das Unternehmen
+und die Geschäftsprozesse abbilden, die Individuallösungen bieten, dafür
+ist die Dokumentation und die Problemlösung, falls Fehler auftreten besser
+bei Standardsystemen, ebenso vermutlich die Benutzerfreundlichkeit des
+Systems, da es oft im Look-and-feel an andere bekannte
+Softwareprodukte angepasst ist.

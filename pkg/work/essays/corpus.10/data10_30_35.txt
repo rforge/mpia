@@ -1,0 +1,6 @@
+komponententest: nahe am quellcode, white box verfahren jede zeile der komponenten wird geprüft
+anweisungsüberdeckungstest: jede anweisung wird mindestens ein mal durchlaufen
+zweigüberdeckungstest: jede verzweichung wird mindestens ein mal durchlaufen
+pfadüberdeckungstest: jeder pfad soll ausgeführt werden
+integrationstest: einzelne komponenten beziehungsweise systemteile werden zusammen getestet, ob sie richtig interagieren
+systemtest: das gesamte system wird in vorgesehener systemumgebung aus benutzersicht getestet
