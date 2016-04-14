@@ -1,4 +1,0 @@
-Ein Spezialfall der Vererbung ist, dass verschiedene Rollen einer Klasse die
-gleiche Rolle als Vorfahren haben, wie das bei Invoice aus Kapitel 2 der Fall ist.
-Solange keine Vererbungsabhängigkeit (vgl. Definition 6) definiert wurde, sind
-die Attribute und Methoden der Unterrollen unabhängig.

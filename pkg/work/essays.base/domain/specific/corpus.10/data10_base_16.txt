@@ -1,3 +1,0 @@
-Definition des Begriffs Systemtest als Test des integrierten Systems, um zu überprüfen,
-dass die spezifizierten Anforderungen erfüllt werden. Erläutern, warum ein Test des
-Gesamtsystems notwendig ist.

@@ -1,9 +1,0 @@
-Nachdem das Unternehmen sein Produktprogramm erweitern und expandieren will, stellt
-sich die Frage, ob das derzeitige System diese Umstellung mitmachen kann (und wenn
-ja, zu welchem Preis). Die Beibehaltung ist zu empfehlen, wenn der
-technische Stand noch und eine gute Dokumentation gegeben ist. In diesem Fall
-wäre eine ERweiterung wohl die kostengünstigere Lösung (und ist auch mit geringerem
-zeitlichen und organisatorischen Aufwand umsetzbar).
-Für ein neues Standardprodukt würden eine schlechter technischer Stand des Systems, schlechte
-Wartbarkeit, eine ungenügende Dokumentation sowie das Fehlen von Schnittstellen für 
-die neuen Anforderungen sprechen.

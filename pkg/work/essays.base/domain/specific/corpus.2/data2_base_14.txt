@@ -1,3 +1,0 @@
-Die zu bestellenden Artikel werden bereits beim Kunden auf Konsistenz
-überprüft, d.h. es werden nur Artikel-Varianten bestellt, die auch tatsächlich
-produziert werden können.

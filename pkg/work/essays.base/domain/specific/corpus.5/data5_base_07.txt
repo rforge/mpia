@@ -1,7 +1,0 @@
-Dabei können Datenstrukturen für beliebige Anwendungsfälle, sog. Domänen, etabliert
-werden. Diese Datenstrukturen werden daher Domänenmodell (engl. domain model)
-genannt. Jede Klasse bzw. jedes Konzept entspricht dabei in der Modellierung einem
-Begriff der jeweiligen Anwendung. Zusätzlich können Eigenschaften (sog. Attribute) für
-die modellierten Konzepte beschrieben werden. Diese entsprechen den bereits
-erwähnten Metadaten. Durch Attribute lassen sich die verschiedenen
-Informationsobjekte auch miteinander vernetzen.

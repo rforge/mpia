@@ -1,2 +1,0 @@
-Testumgebung: Erläutern, dass Testtreiber aus dem Komponententest verwendet werden
-können; ggf. werden zusätzlich Schnittstellenmonitore benötigt.

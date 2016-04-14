@@ -1,6 +1,0 @@
-komponententest
-implementierungstest
-systemtest
-beim komponententest werden die einzelnen komponenten überprüft, ob sie die vorgesehenen aufgaben erfüllen können.
-beim implementierungstest werden die komponenten nicht mehr einzeln überprüft, sondern miteinander, ob sie miteinander funktionieren.
-beim systemtest wird das ganze system getestet, ob es die vorgesehenen aufgaben erfüllen kann

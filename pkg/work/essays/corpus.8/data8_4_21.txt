@@ -1,8 +1,0 @@
-Grundsätzlich ist das Reengineering kostengünstiger und oft auch einfacher
-in der Handhabung (eventuell keine neuen Einschulungen, etc.).
-Außerdem ist das Anschaffen neuer Hardware unter Umständen nicht notwendig.
-Die Frage ist, wie das Altsystem aufgebaut ist. Der Aufwand ist abzuschätzen
-und auf Grund dessen eine Entscheidung zu treffen.
-Standardsoftware hat den Vorteil der eventuellen Überlegenheit in
-funktionsumfang, Benutzerfreundlichkeit, Wartbarkeit, etc. Außerdem ist
-es unter Umständen möglich, das neue System schneller zu integrieren, versus ein Reengineering => (Zeitaufwand).

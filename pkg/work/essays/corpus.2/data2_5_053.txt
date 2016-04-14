@@ -1,9 +1,0 @@
-Unter einem El. Katalog versteht man das Angebot an Gütern im Internet
-Zahlungssystem (Digi Cash, Kreditkarten, Inkasso, ...)
-Produktpalette (in Datenbank mit ihren Verfügbarkeit)
-Einkaufswagen, Vormerkliste für spätere Einkäufe, Angebote individuell
-Der Anbieter erwartet sich eine Kostenersparnis, ist nicht an Öffnungszeiten gebunden und die Vergleichbarkeit ist sehr einfach gegeben, da innerhalb kürzester Zeit, die Kosten für ein Konkurrenzprodukt ermittelt werden können
-Für der Anbieter ist die Distribution sehr leicht, da direkt vom Produzenten der online Shop geführt werden kann.
-daher fallen unter Umständen eine Reihe von Distributionskanälen weg.
-Der Lagebestand ist sehr leicht zu ermitteln und die Datenbank kann sehr leicht in andere betriebliche Anwendungen integriert werden, dadurch Personalkostenersparnis.
-Größtes Problem für Anbieter als auch Kunde ist die Sicherheit des Zahlungssystems 

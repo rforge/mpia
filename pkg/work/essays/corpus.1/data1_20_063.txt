@@ -1,2 +1,0 @@
-Die in einer Klasse deklarierten Variablen können durch "Hiding" "versteckt" werden, das bedeutet, ihre Werte können nicht geändert werden. Zugriff eingeschränkt. Das wird erreicht durch das Erklären der Variable als "private".
-Mit getMethode bzw setMethode kann auf Werte zugegriffen werden, u. diese können verändert werden

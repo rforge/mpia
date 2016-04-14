@@ -1,4 +1,0 @@
-wenn Infos nicht von überall her (aus allen Klassen) aufgerufen werden sollen/können; (zB bei Code Bsp)
-mit Nachname können auf Instanzvariablen und Methoden um vor die Werte am zugegriffen werden, an der sie implementiert werden sind. Das gilt für
-private String nachname;
-private boolean angemeldet;

@@ -1,2 +1,0 @@
-Information hiding bedeutet, daß der Inhalt nicht für jeden sichtbar ist.
-In den Fall bedeutet "private", daß diese Variablen und ihre werte nur in dieser Klasse sichtbar und zugreiffbar sind.

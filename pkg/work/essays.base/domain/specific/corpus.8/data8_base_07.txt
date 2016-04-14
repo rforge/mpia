@@ -1,7 +1,0 @@
-Die Aufteilung in einzelne Integrationsschritte wirft allerdings die Frage auf, welche Anwendungssysteme
-zu welchem Zeitpunkt in das IVAS integriert werden sollen. Bezogen auf die
-Datenintegration wurde in [14] ein Ansatz zur Bestimmung der optimalen Integrationsreihenfolge
-von Datenbanken bzw. -schemata vorgestellt. Er orientiert sich daran, wie intensiv die
-Datenbanken von den Geschäftsprozessen bzw. Applikationen genutzt werden. Der Ansatz ist
-aber eher technisch orientiert, da die Bedeutung der Geschäftsprozesse nicht berücksichtigt
-wird.

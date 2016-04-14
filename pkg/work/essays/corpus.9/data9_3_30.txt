@@ -1,7 +1,0 @@
-anforderungsanalyse: spezifikation, repräsenation
-ermittlung aller anforderungen
-gewinnung und aufzeichnung aller anforderungen
-anofrderungsspezifikationen -> ziel möglichst
-fehler- und widerspruchsfrei, verständlich
-anforderungsdefinition in funktionale und
-qualitätsanforderungen

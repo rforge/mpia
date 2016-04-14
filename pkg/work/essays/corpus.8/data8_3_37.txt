@@ -1,5 +1,0 @@
-Nutzungsdauer verlängern, Wartbarkeit des Systems erhöhen,
-Neuentwicklung oft teurer; Altsysteme oft nicht ausreichend
-dokumentiert oder Schnittstellen fehlen;
-Vorteil des Reengineering auf jeden Fall Lebenszyklusverlängerung,
-Qualitätsverbesserung, Migration auf neue Plattformen

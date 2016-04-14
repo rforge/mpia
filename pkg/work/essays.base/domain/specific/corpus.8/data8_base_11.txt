@@ -1,5 +1,0 @@
-Optimal ist die Implementierungsmöglichkeit, bei der einerseits alle Ziele erfüllt und andererseits
-die Restriktionen mit der geringsten Wahrscheinlichkeit verletzt werden. Diese optimale
-Möglichkeit wird in der dritten Phase, dem eigentlichen Integrationsprojekt, realisiert. In
-einer letzten Phase erfolgt ein Review, um Erfahrungen zu explizieren und für Folgeprojekte
-nutzbar zu machen.

@@ -1,6 +1,0 @@
-Ziel der elektronischen Kataloge ist es, die gleichen Informationen in einer für
-den Computer lesbaren Form bereitzustellen. Die elektronischen Kataloge
-beinhalten demzufolge die selben Informationen wie die herkömmlichen
-Papierkataloge. Der Vorteil ist, dass die Daten im Warenwirtschaftssystem des
-Händlers zur Bearbeitung von Angeboten und Aufträgen direkt benutzt werden
-können.

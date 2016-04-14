@@ -1,6 +1,0 @@
-Elektronische Katoge werden von Anbieter / Administrator dem Kunden zur Verfügung gestellt.
-Der Katalog beinhaltet Informationen über die angebotenen Artikel (Bezeichnung, Preise, etc.).
-Der Kunde sucht sich aus dem elektr. Katalog seine gewünschten Waren aus (Einkaufswagen).
-Der Anbieter stellt durch den elektr. Katalog sein komplettes Angebot on-line zur Verfügung
-
-Intranet <-> WWW-Server <-> DB

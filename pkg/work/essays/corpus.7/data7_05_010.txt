@@ -1,3 +1,0 @@
-Interface erweitert die Vererbung in
-Java. (Nur von einer Klasse aber von
-vielen Interfaces kann vererbt werden)

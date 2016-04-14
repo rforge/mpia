@@ -1,4 +1,0 @@
-private string nachname; erlaubt ein Eingriff nur im gleichen Klasse
-private boolean angemeldet; im gleichen Klasse zugriff möglich
-public void print(); alle andere Klassen können auf diese Methode aufgreifen (keine beschränkte) verschiedene Package, vorsehen Klasse
-string vorname nur im gleichen Package

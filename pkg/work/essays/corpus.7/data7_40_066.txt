@@ -1,7 +1,0 @@
-Interfaces sind Namens / Schnittstellendefinitionen
-Methoden und Interface sind abstract (=> können also
-nicht instantiiert werden. Lösen somit das
-Proglem der nicht vorhandenen Mehrfachvererbung
-in Java.
-Eine "Subklasse" kann zwar nur von 1 Superklasse
-erben, aber mehrere Interfaces implementieren.

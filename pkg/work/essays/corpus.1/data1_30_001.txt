@@ -1,5 +1,0 @@
-Information Hiding wird mit dem Schlüsselwort private eingeleitet und dann kann man nur noch mit get oder set Methoden auf die Variablen zugreifen.
-Das verhindert Datenmanipulation und ein Überschreiben der private Variablen oder Methoden.
-Auch unerlaubte Datenzugriffe werden erschwert.
-Im Gegenatz dazu die public Variablen, auf die kann jede Klasse und Methode zugreifen.
-Gut in diesem Beispiel ersichtlich, da beide verwendet werden.

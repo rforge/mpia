@@ -1,2 +1,0 @@
-Meist sind nun die Personen, welche die Indexierung vornehmen, nicht dieselben Personen, welche die Anfragen formulieren, und benutzen daher oft nicht dieselben Terme, vor allem, wenn sich ihr Vorwissen und der Kontext, aus dem sie stammen, unterscheiden.
-

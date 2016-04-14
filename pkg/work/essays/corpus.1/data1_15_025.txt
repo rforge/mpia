@@ -1,4 +1,0 @@
-Keine direkter zugriff auf die variable
-sondern Methoden Aufruf
-private string nachname
-private boolean angemeldet

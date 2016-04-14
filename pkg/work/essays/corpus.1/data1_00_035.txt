@@ -1,2 +1,0 @@
-Wenn ich die Methode ist angemeldet () und getName () mit private definiere können diese von innerhalb dieser klasse angesprochen werden und sind damit nach aussen nicht sichtbar.
-Wenn ich nicht will, daß man meinem Code zu leicht nachvollziehen kann verstecke ich Teile davon.

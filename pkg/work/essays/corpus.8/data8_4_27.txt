@@ -1,8 +1,0 @@
-Reengineering: bestehende Prozess könnte um Funktion erweitert werden
-neue Produkt ist zu teuer
-Verbesserung mittels Reengineering
-vervollsätndigen der Dokumentation
-um bessere Wartung zu ermöglichen
-Restrukturierung des Codes
-Standardprodukte: man weiß worauf man sich einläßt
-oft teure Wartung (bei SAP 50 % Wartungskosten)

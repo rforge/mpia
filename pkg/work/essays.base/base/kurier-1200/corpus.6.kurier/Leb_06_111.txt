@@ -1,9 +1,0 @@
-HINTERGRUND
-
-Ein glanzvolles Spiel mit16,7 Millionen Farben
-Ein Golf-Simulator ist ein Wunderwerk der Technik, der Ball wird pro Sekunde hundertfach fotografiert. Die ultra-helle Riesenleinwand erlaubt einen scharfen Blick auf das Spiel. Gibt es überhaupt 16,7 Millionen Farben? Die Bildschirmgrafik ist so detailliert, dass den Spieler selbst wehende Flaggen, Flugzeuge, Hubschrauber, Vögel, Tiere, andere Spieler oder Wasser-Reflexionen aus dem Konzept bringen.
-
-Drei Infrarot-Sensoren berechnen die Flugeigenschaften des Balles so realistisch, dass der leichteste Slice oder der schlimmste Draw auf Anhieb sichtbar wird. Beim Putten gewinnt man den Eindruck, als spielte man auf den besten und gepflegtesten Grüns der Welt (aber nur, wenn die Kugel am Loch vorbei rollt). Gemessen werden die Weite des Schlages und der Roll, zwei Grafiken beschreiben die Flugkurve des Balles. In Grad wird angegeben, ob es einen Draw oder Slice gab.
-
-Der erste Schlag wird von einem Plastik-Tee ausgeführt, der zweite je nach Lage: Rough (grüne Matte), Sand (weiße Matte) oder Fairway (Boden). Der Computer weist den Spieler darauf hin, wie er fortzufahren hat, ob sein Ball im kniehohen Gras liegt, wo er nach einem Wasserschlag droppen muss. Und er bietet die Möglichkeit, einen Schlag zu wiederholen, ohne ihn zu zählen (es geht, dass man sich auch im Winter selbst betrügt). Der Spieler kann sich auf der Driving Range versuchen oder aus 20 Kursen wählen, bis zu vier Personen spielen gemeinsam. Der Computer führt exakt Buch über die Scores und errechnet eine Zwischenwertung, die nach jedem Loch ausgewiesen wird.
-

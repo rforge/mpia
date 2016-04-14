@@ -1,5 +1,0 @@
-Die bisher betrachteten Varianten haben eine Eigenschaft gemeinsam:
-Sie sind von einer konkreten Programmiersprache unabhängig. Diese
-Flexibilität erkauft man sich natürlich mit einigen Nachteilen, wie z. B.
-einem erforderlichen Mapping zwischen Beschreibung und konkreter
-Realisierung.

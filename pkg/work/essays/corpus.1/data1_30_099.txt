@@ -1,2 +1,0 @@
-nachname und zugemeldet sind nur innerhalb der class verwendbar (und in den Methoden), weil private mit den Methoden get kann ich indirekt zugreifen, da sie package access haben und von public (alle classes haben darauf Zugriff) Methode print aufgerufen werden.
-Nur der "vorname" wäre auch mit package access (man fragt sich, weshalb)

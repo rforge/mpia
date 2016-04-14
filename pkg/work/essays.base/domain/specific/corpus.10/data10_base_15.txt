@@ -1,2 +1,0 @@
-Folgende inkrementelle Grundstrategien sind zu erklären und gegenüberzustellen: Topdown-
-Integration, Bottom-up-Integration, Ad-hoc-Integration.

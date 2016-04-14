@@ -1,7 +1,0 @@
-Wenn Techniker online die Heizung warten
-Die so genannten "Intelligente Häuser", in denen Schalter und Glühbirnen an Datenkabeln hängen, der Kühlschrank vernetzt und ein Media-Center für die Unterhaltung im Haus sorgt und immer das passende Musikstück, den Wunschfilm oder den richtigen TV-Kanal auswählt, haben die Neigung, ein wenig wärmer zu sein, als herkömmliche Häuser - weil die technischen Geräte Wärme abstrahlen. Das FutureHome der Telekom Austria in der Wiener Lassallestraße, in dem der vernetzte Haushalt demonstriert wird, wurde diese Woche deshalb um die Komponente Haustechnik erweitert: Vaillant hat ein intelligentes Klima- und Heizungssystem in das "Heim der Zukunft" eingebaut und demonstriert, was heute schon möglich ist.
-
-So gibt es das vrnetDIALOG, ein intelligentes Internet-Kommunikationssystem, bei dem sich der Heizungstechniker via Internet in die Heizung einloggen und die Anlage warten kann. Dieses System kann heute in alle Vaillant Gas- bzw. Öl-Heizsysteme, Solaranlagen, Wärmepumpen und auch Klimaanlagen integriert werden.
-
-VERNETZT Auch mit dem Bewohner kann das System kommunizieren - via Handy oder Internet (eMail) kann die Heizung automatisch Nachrichten versenden, wenn ein Service ansteht oder sich ein Fehler im System ereignen sollte. Beinahe schon eine Standardanwendung ist die Möglichkeit, per Handy die Heizung im Wochenendhaus einzuschalten, bzw. die Klimaanlage zu steuern.
-

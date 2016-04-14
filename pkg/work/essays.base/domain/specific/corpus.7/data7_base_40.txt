@@ -1,6 +1,0 @@
-In Abbildung 3.1 ist nur ein grobes Schema dargestellt, da das vollständige
-Metamodell zu umfangreich und nicht zu überschauen wäre.
-Daher wird das Metamodell im Folgenden anhand von Aspektmodellen Verschiedene
-Aspekte von
-.NET Remoting
-erläutert, die einzelne Ausschnitte verfeinert darstellen.

@@ -1,3 +1,0 @@
-wir können etwas verstecken, aber nicht alles. 
-Wir brauchen diese Funktion zum Schutz der Daten.
-Wir haben als private nachname deklariert und das bedeutet das nachname kann nur in Klasse Student verwendet werden (in der Klasse wo sie deklariert ist), nicht in abgeleiteten Klassen.

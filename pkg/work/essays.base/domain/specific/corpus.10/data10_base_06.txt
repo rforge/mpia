@@ -1,1 +1,0 @@
-Definition der Begriffe: Integration und Integrationstest nach [BS 7925-1].

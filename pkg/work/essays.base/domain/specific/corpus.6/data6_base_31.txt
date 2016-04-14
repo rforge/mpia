@@ -1,3 +1,0 @@
-Die Strategie funktioniert besonders gut für Synonymie, und erhöht somit den Recall. Bei Polysemie ist sie nicht so erfolgreich. Dies kann man gut einsehen, wenn man sich vorstellt, wie der polyseme Term im semantischen Raum platziert werden muss: Seinen verschiedenen Bedeutungen sollen ja auch verschiedene Punkte im Raum entsprechen. Der Term selbst erhält aber nur einen Punkt, und der muss irgendwo zwischen diesen Punkten platziert werden. Wenn die verschiedenen Bedeutungen weit auseinanderliegen, wird der polyseme Term entsprechend schlecht platziert, weil er nicht gleichzeitig in der Nähe aller dieser Punkte liegen kann.
-
- 

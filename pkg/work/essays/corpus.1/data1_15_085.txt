@@ -1,1 +1,0 @@
-Information Hiding bedeutet, dass in einer Klasse solche Variablen deklariert sind, die nur durch eine Methode aufrufbar sind. Wie zum Beispiel angemeldet. Variable Angemeldet kann mit der Methode istAngemeldet angerufen werden.

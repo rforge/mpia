@@ -1,1 +1,0 @@
-Die beiden Variablen "nachname" und "angemeldet" sind private und somit nur aus der eigenen Klasse ansprech- und änderbar. Damit verhindert man die Manipulation von außen Um dennoch auf die Werte dieser Variablen von aussen zugreifen zu können, werden die zwei gefragten Methoden implementiert. Somit lässt sich durch Information hiding der Zugriff steuern.

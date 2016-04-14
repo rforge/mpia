@@ -1,6 +1,0 @@
-Ein Interface erlaubt es eine einheitliche Struktur
-zu schaffen. Alle in eine Interface geschriebene
-Methode müssen in der Klasse, in die
-das Interface importiert wird näher beschrieben
-werden, das heißt im Interface werden die Methoden
-noch nicht fertig implementiert.

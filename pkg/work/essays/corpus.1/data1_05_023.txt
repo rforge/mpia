@@ -1,4 +1,0 @@
-"Nachname" und "Angemeldet" sind als "Private" deklariert. d.h. sie können nur aus der selben Klasse gesehen werden.
-Package: Wenn als Package deklariert, dann ist es möglich sie aus der Klasse, den abgeleiteten Klassen und aus dem Package zu verwenden.
-Protected: Können nur aus der Klasse und aus abgeleiteten Klassen verwendet werden.
-Public: können von sämtlichen Klassen verwendet werden

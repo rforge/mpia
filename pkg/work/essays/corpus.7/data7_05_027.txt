@@ -1,3 +1,0 @@
-Interface ist eine Schnittstelle zwischen Objekten
-Über Interfaces können Objekte mittels Nachricht
-miteinander kommunizieren.

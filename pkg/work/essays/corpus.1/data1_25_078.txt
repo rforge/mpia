@@ -1,4 +1,0 @@
-private String nachname;
-private boolean angemeldet;
-"Information Hiding" versteckt Daten durch privat
-Um Daten anzugreifen, benötigt man get und get Methoden

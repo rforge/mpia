@@ -1,2 +1,0 @@
-Erklärung der wesentlichen Testziele im Komponententest: korrekte und vollständige
-Funktionalität; Test auf Robustheit. Begriffe Robustheit und Negativtest.

@@ -1,4 +1,0 @@
-mit "private" deklariert
-man kann nur über die Klasse die sie enthält nur darauf zugereifen
-setzen einer Variable mit set variablenName
-zurückgeben mit get variablenName

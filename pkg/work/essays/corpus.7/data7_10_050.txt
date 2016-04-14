@@ -1,2 +1,0 @@
-Ein Interface ist die Schnittstelle vom
-Programm / Komponente mit der Umgebung.

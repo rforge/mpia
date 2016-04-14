@@ -1,7 +1,0 @@
-e catalogue
-ist digitalisiertes Produkteverzeichnis eines oder mehrerer Anbieter (Katalogaggregation)
-eKatalog muß aus mehreren Komponenten bestehen, wie z.B. Infos über Produkt, Produkt, Produktauswahl, Bestellung, AGB für Bestellung, Lieferbedingungen, Zahlungmöglichkeiten
-Anbieter soll übersichtlich seine Produkte darstellen können. 
-Vorteile Kostensenkung durch eMarketing, eDistribution zB. von digitalen Güter, sowie zB. die GKosten bei digital. Güter = 0, Probleme bei der Logistik von nicht-digitalen Gütern, sowie bei Micropayments, da hohe Transaktionskosten
-Kunde kann komfortabel einkaufen, Zeit sparen, günstig einkaufen -> die Ware muß verfügbar, für jeden zugänglich sein
-Administrator: Zugriffskennung, Zugriffsverweigerung, Zahlungssystem, Sicherheit der Daten

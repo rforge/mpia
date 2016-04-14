@@ -1,2 +1,0 @@
-Information Hiding ist ein Begriff für das verstecken der Variablen einer Klasse (private boolean angemeldet) hinter der Methode
-Das heißt auf die Variablen kann nur über die Methoden zugegriffen werden

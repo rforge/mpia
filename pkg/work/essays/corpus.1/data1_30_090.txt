@@ -1,2 +1,0 @@
-Information Hiding ist das verstecken der Implementierung der Klasse hinter der Methode. Also beim direkten Zugriff auf die Variablen muﬂ via Methodenaufruf. 
-Bsp. die Variablen nachname und angemeldet werden mit "private" deklariert. Also kann man via Methodenaufruf auf die Variablen zugegriffen werden.

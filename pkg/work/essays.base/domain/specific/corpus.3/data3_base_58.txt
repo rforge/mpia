@@ -1,2 +1,0 @@
-Gewichtete Reichweite
-Aus den voranstehenden Ausführungen kann nun das Mediaselektionsproblem (wie in der Einleitung beschrieben) konkreter formuliert werden:

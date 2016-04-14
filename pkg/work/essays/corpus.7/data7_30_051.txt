@@ -1,8 +1,0 @@
-Möglichkeit, zu verschiedenen Klassen eine Schnittstelle zu
-definieren und anzuwenden.
-wie abstrakte Klasse, aber keine Implementierung!
-definiert Name der Methode
-Parameterliste
-Rückgabewerttype
-Name der Variable (als static und final
-deklariert)

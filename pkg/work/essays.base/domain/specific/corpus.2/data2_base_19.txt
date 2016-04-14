@@ -1,3 +1,0 @@
-Bestellungen zum Lieferanten werden automatisch erstellt. Dabei wird die
-Bestellung in dem vom Lieferanten gewünschten Format ausgegeben, so dass
-eine weitere Fehlerquelle ausgeschlossen wird.

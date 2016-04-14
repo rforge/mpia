@@ -1,4 +1,0 @@
-Des Weiteren gelten viele nicht funktionale Anforderungen als derart selbstverständlich,
-dass niemand mehr auf die Idee kommt, sie im Anforderungsdokument erwähnen zu
-müssen (vorausgesetzte Anforderungen). Auch solche nicht spezifizierten, aber dennoch
-relevanten Eigenschaften gilt es zu validieren.

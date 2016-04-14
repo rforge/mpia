@@ -1,5 +1,0 @@
-Durch Interfaces können Klassen eine
-einheitliche Struktur haben.
-Dadurch werden die Klassen (und der
-Code) übersichtlicher, man kann Fehler
-leichter vermeiden bzw. finden.

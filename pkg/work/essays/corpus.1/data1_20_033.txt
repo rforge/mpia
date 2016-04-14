@@ -1,4 +1,0 @@
-Die Implementierung der Daten kann verändert werden, ohne dass Programmcode außerhalb der Klasse geändert werden muß.
-Der Zugriff auf die verschiedenen Variablen kann eingeschränkt werden.
-Dies verhindert sowohl Datenmanipulation, als auch irrtümliche Veränderung oder Abfrage der Daten. 
-Außerdem können damit die Programmierfehler eingeschränkt werden.

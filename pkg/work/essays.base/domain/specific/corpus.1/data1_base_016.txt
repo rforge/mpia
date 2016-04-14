@@ -1,4 +1,0 @@
-Die Klassen, wie sie bislang in der Literatur existieren, werden als Klassen
-mit einer einzigen Rolle interpretiert. Also ist das Rollenkonzept eine kanonische
-Erweiterung der objektorientierten Modellierung. So kann die bereits existierende
-Software ohne Veränderungen eingebunden werden.

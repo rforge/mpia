@@ -1,7 +1,0 @@
-In einem letzten Schritt werden für jede Alternative die Produkte aus Zielgewicht und Zielerfüllung
-über alle Ziele aufsummiert. Die Alternative mit der größten Summe hat die höchste
-Priorität und wird zur Durchführung vorgeschlagen. Sollten sich bei den nachfolgenden Risikoanalysen
-herausstellen, daß das ausgewählte Anwendungssystem nicht im Rahmen des vorgegebenen
-Budgets integrierbar ist oder daß eine andere Restriktion vermutlich verletzt werden
-wird, kann zu dem Anwendungssystem mit der nächst-niedrigeren Priorität übergegangen
-werden.

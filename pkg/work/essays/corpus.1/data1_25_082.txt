@@ -1,1 +1,0 @@
-Durch das Wort "private" vor der Deklaration der Variablen sind die sichtbarkeit von Vorname und angemeldet auf die eigene Klasse beschränkt. Zugriff von außerhalb der Klasse ist nur durch den Rückgabewert einer Methode (welche sich ja in der gleichen Klasse befindet) möglich.

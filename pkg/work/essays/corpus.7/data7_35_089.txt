@@ -1,7 +1,0 @@
-Interface bieten zusätzliche Funktionen
-auf die zugegriffen werden kann; Schnittstelle zu anderen Komponenten
-Da in Java nur von einer Klasse geerbt werden
-kann, kann man Interfaces (durch
-implements name in der Signatur) ein
-oder mehrere Interfaces implementiert werden
-Definiert werden können Methoden.

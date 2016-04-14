@@ -1,3 +1,0 @@
-Testumgebung: Erläuterung, dass in dieser Teststufe sehr entwicklungsnah gearbeitet wird;
-Erläuterung eines typischen Komponententesttreibers; Erläuterung, warum hier White-Box
-Testmethoden eingesetzt werden können.

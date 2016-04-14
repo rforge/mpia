@@ -1,3 +1,0 @@
-integrationstest: es wird getestet für ganze system, ob ein system komplex langjährig ist
-funktionstest: testet, ob ein subsystem funktioniert ist
-komponententest: jede komponente wird isoliert getestet

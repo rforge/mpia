@@ -1,1 +1,0 @@
-Durch das Schreiben von private vor die Instanzvariablen wird ein direktes Zugreifen verhindert. Der Zugriff erfolgt über die Methoden istAngemeldet() und getNachname()

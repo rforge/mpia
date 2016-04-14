@@ -1,3 +1,0 @@
-Offensichtlich ist die Beschreibung von Diensten mithilfe von Vorteile
-WSDL-Schnittstellen sehr gut zur Dienstbeschreibung und -publikation
-geeignet.

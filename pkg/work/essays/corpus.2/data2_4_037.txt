@@ -1,3 +1,0 @@
-Agglomeration von Angeboten versch. Unternehmen die thematisch zusammenpassen und auf einem Portal zusammengefaßt werden.
-Anbieter: übernimmt Daten von anbietenden Firmen, verwaltet nur Links
-Kunde: kann mit einem Portal mehrere Geschäftsangebote nutzen -> Vorteil: leichter Preisvergleich

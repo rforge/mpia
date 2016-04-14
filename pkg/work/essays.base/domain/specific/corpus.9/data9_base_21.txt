@@ -1,2 +1,0 @@
-Im logischen Datenmodell sollen alle Daten und alle Zugriffsfunktionen darauf sowie ihre Eigenschaften
-primär aus fachlicher Sicht erfasst werden.

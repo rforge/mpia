@@ -1,4 +1,0 @@
-Aufgrund knapper DV-Ressourcen kann außerdem der Integrationsprozeß nicht immer kontinuierlich
-erfolgen. Wenn die verfügbaren Mittel einer Abrechnungsperiode z.B. durch Investitionen
-in Hardware gebunden sind, können keine externen Reengineering-Projekte
-(Beispiele zum externen Reengineering in Übersee finden sich in [3]) duchgeführt werden.

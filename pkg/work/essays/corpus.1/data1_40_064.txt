@@ -1,5 +1,0 @@
-kein direkter Zugriff auf Variablen, nur via Methodenaufruf istangemeldet() und getNachname();
-deklaration der Variablen als private
-"Data Encapsulation" genannt
-Damit kann man den Zugriff einschränken.
-Die Methoden können public sein

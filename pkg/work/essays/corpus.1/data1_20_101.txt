@@ -1,5 +1,0 @@
-private String nachname;
-Von außen kann nicht auf die Variablen zugegriffen werden!
-Methoden müssen public deklariert werden.
-public void print()
-Nur innerhalb der eigenen Klasse gültig.

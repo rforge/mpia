@@ -1,8 +1,0 @@
-Elektronischer Katalog:
-Zusammenstellung eines Angebots oder
-Sammlung relevanter Informationen in eine Datenbank 
-Die relevanten Informationen stellen eine Art "Überschrift" oder "Schlagwort" dar, nach dem von Kunde gesucht werden kann. 
-Die Datenbank beeinhaltet weitere relevante Informationen zu diesem spezifische Schlagwort.
-Beispiele: Bibliothekskataloge
-Vorteile Anbieter: leichtere Wartung, da nicht der ganze Katalog am neuesten Stand gehalten werden muß sondern nur seine relevanten Teile
-Vorteil Kunde: hat er sich einmal an das Handling gewöhnt, ist es eine schnelle + kostengünstige Informationsquelle

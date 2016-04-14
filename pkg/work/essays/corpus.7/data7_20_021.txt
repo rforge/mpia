@@ -1,6 +1,0 @@
-Ein Interface wird benutzt zur Definition
-von Schnittstellen. Interfaces werden
-durch das Schlüsselwort "interface" indiziert
-und können Basismethoden enthalten.
-Interfaces müssen durch Verwendung von
-"implement" eingebunden werden.

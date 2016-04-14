@@ -1,1 +1,0 @@
-Die Instanzvariablen sind private deklariert und es kann nur durch die Methode print(), die public zugegriffen werden. erhöht Sicherheit.

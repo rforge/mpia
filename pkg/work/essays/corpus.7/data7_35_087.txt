@@ -1,7 +1,0 @@
-Ein Interface ist eine Vorlage die einer Klasse Schnittstellen 
-vorschreibt das hießt es werden sowohl Klasse, Methoden
-und Variablen als abstract gesetzt und müssen
-dann in der Klasse implementiert werden.
-Anwendung: zum Beispiel: class Auto implements Fahrzeug (Interfacename)
-{
-}

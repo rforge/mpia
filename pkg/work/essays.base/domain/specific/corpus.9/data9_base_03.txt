@@ -1,2 +1,0 @@
-Wichtig ist eine Vorgehensweise, die alle Stakeholder - Interessen zumindest erfasst und
-einen guten Kompromiss findet. Wesentlicher Erfolgsfaktor für Softwareentwicklung: Nutzerpartizipation.

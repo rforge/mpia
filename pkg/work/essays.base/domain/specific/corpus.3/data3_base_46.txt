@@ -1,2 +1,0 @@
-Beispiel: Eine Werbeanzeige in einer Zeitschrift, die 100 000 Leser lesen, kostet 10 000 DM. Der Tausenderpreis dieses Mediums beträgt demnach:
-TP=•10 000 DM100 000 Leser 1000 Leser = 100 DM

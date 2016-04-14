@@ -1,3 +1,0 @@
-Interfaces sind Anschlußstellen und Platzhalter
-(zum Beispiel: abstrakte Methode einer Superklasse
-ist Anschlußstelle für ihre Subklassen)

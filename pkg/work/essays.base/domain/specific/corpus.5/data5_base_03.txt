@@ -1,6 +1,0 @@
-Metadaten
-In Unternehmen liegen Informationen in verschiedensten Formen vor. Abgesehen von
-Wissen in den Köpfen der Mitarbeiter, sind sie auf unterschiedliche Quellen verteilt. In
-der Regel besteht keine Möglichkeit, einheitliche Suchanfragen über alle
-Informationsquellen durchzuführen, da die Dokumente (wenn überhaupt elektronisch) in
-verschiedensten Formaten vorliegen.

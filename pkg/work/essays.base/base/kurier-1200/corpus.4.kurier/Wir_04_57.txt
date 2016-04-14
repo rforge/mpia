@@ -1,3 +1,0 @@
-Lauscher im VoIP-Talk
-Nicht Sprache, aber Daten, die während eines Internet-Telefonats per Tastatur übertragen werden, könnten von Hackern abgefangen werden. Grund: Die Sprachübertragung erfolgt meist unverschlüsselt. Zugleich übertragene Zeichen sind also auslesbar, schreibt die Zeitschrift PC Professionell. Gewarnt wird vor Telefon-Banking per Voice over IP. Laut heimischen Providern wie Inode ist VoIP mindestens so sicher wie ein normales Telefonat.
-

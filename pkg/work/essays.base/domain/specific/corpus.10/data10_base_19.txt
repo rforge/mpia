@@ -1,3 +1,0 @@
-Erläutern Sie am Beispiel des Systemtest: Test funktionaler Anforderungen mittels
-anforderungsbasiertem Testen, mittels geschäftsprozessbasiertem Testen und mittels
-anwendungsfallbasiertem Testen.

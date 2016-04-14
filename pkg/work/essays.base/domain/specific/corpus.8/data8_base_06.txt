@@ -1,4 +1,0 @@
-Die schrittweise Integration von Neuentwicklungen und modifizierten Altsystemen reduziert
-die Umstellungsrisiken erheblich. Lerneffekte aus vorangegangenen Projekten (wachsendes
-Reengineering-Know-how, Kenntnis der Reaktion der Benutzer usw.) können genutzt
-werden.

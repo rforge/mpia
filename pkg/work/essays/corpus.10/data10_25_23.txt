@@ -1,3 +1,0 @@
-system test: das komplettsystem wird mit dem altsystem getestet
-integritätstest: es werden die komponenten mit einander getestet
-komponententest: es werden die einzelnen komponenten unabhängig voneinander getestet

@@ -1,9 +1,0 @@
-Gründe für Beibehaltung: Umstellungskosten
--> für Software und Hardware und Umschulung der Mitarbeiter
-hohe Lizenzkosten von Standard-Software (Beispiel SAP R/3)
-Reengineering zur Verlängerung der Lebensdauer und
-Erhöhung der Wartbarkeit des ERP-Systems
-Gründe für Umstieg auf Standard-Software: Hersteller-Erfahrung
-Software ist intensiv getestet
-nahezu fehlerfrei / sehr stabil
-eventuell Kompatibilitätsüberlegungen.

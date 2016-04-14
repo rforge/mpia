@@ -1,3 +1,0 @@
-komponententest: überprüfe der einzelnen komponenten
-integrationstest: überprüfe das zusammenpassen der komponenten
-systemtest: teste das system aus anwendersicht

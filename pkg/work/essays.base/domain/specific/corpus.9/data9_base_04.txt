@@ -1,5 +1,0 @@
-Wichtigste Tätigkeiten im Requirements Engineering:
-Erfassung des Anwendungsgebiets (Domänenanalyse): Fachwissen erwerben
-Anforderungen finden, strukturieren, bewerten
-Anforderungen festlegen
-Anforderungen im Detail beschreiben (Spezifikation)

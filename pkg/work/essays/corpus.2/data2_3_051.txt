@@ -1,3 +1,0 @@
-Ein elektronischer Katalog ist ein Katalog für Güter / Dienstleistungen der nur elektronisch verfügbar ist.
-Hauptkomponente ist die Präsentation des Angebotes.
-wichtig ist aber auch eine entsprechende Abfragemöglichkeit bezüglich der Produkteigenschaften / Preis / Leistung etc. / und natürlich auch eine entsprechende Bestellmöglichkeit.

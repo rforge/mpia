@@ -1,4 +1,0 @@
-Reverse Engineering, Redefinition oder Programmüberarbeitung
-Hohe Flexibilität
-geringere Wartung
-Schnellreaktionen zu neuen Entwicklungen

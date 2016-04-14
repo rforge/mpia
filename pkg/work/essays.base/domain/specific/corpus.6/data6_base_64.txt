@@ -1,2 +1,0 @@
-Ein Hauptproblem des IR ist die nicht eindeutige Term-Objekt-Relation wegen Synonymie und Polysemie. Auf der andern Seite sind natürliche Indexterme, sobald sie eine vernünftige Anzahl erreichen, nicht unabhängig sondern in irgendeiner Form korreliert.
-

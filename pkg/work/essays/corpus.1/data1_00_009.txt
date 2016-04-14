@@ -1,2 +1,0 @@
-Private: nur innerhalb der kann auf die Variablen zugegriffen werden
-Public: auch von außerhalb der Klasse kann auf die Variablen zugegriffen werden

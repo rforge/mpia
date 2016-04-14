@@ -1,2 +1,0 @@
-Beim Information Hiding kann man Variablen und Operationen verstecken. Der Vorteil ist aber dass man die versteckten Variablen trotzdem benutzen und verändern kann und die versteckten Bezeichnungen und Variablen werden nicht verändert.
-Aus dem obigen Beispiel erkennt man, dass man auf die Variablen nachname und angemeldet nicht verändern kann außer die Werte.

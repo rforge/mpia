@@ -1,3 +1,0 @@
-komponententest / modultest: die einzelnen komponenten werden hinsichtlich ihrer funktionalität isoliert betrachtet und mit fällen getestet
-integrationstest: die komponenten werden zu subsystemen integriert. die funktionalität dieser subsysteme wird getestet. es gibt bereits interaktionen.
-systemtest: das gesamte system wird unter möglichst realen bedingungen hinsichtlich der benutzeranforderungen getestet

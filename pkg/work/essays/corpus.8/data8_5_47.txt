@@ -1,8 +1,0 @@
-beibehaltung - günstiger, durch Reengineering könnte vorhandenes
-System verbessert werden. standardprodukt oft 
-sehr teuer und benötigen eventuell zusätzliches personal
-zur wartung.
-standardprodukt: system übernimmt kernprozesse des unternehmens. neue
-bereiche können übergreifend hinzugefügt werden.
-zeitnahe datenbank, dadurch verhinderung von redundanzen
-lebensdauer länger

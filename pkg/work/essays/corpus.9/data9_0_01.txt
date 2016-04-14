@@ -1,5 +1,0 @@
-Anforderungsanalyse:
-Spezifikation der Anforderungen (Lastheft)
-Verbale Darstellung der Anforderungen
-Definition: formale Darstellung der Anforderungen (Pflichtenheft)
-Verhandlung

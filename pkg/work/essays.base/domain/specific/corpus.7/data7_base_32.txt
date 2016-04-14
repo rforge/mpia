@@ -1,9 +1,0 @@
-Als Konsequenz für die weiteren Betrachtungen geht aus den vorangegangenen
-Ausführungen hervor, dass in den folgenden Beispielen
-soweit wie möglich Konzepte der schnittstellenbasierten Programmierungmithilfe
-nativer Schnittstellen umgesetztwerden. In gewisserWei- 1. Wahl:
-native Schnittstellen se kann hierfür auch der Begriff der komponentenbasierten Programmierung
-verwendet werden, da auch hier zumeist nur die Schnittstellen
-relevant sind und die Implementierung in den Hintergrund tritt.
-Die verteilten Objekte werden im Folgenden grundsätzlich als separate
-Komponenten gefertigt.

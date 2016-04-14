@@ -1,5 +1,0 @@
-Bei sensiblen Daten kann man durch I.H nur über Methoden und nicht direkt auf die Variablen zugreifen.
-Des weiteren können damit Fehler vermieden werden
-Im Bsp. wird abgefragt ob eine Instanzvariable angemeldet wahr oder falsch ist
-Es kann allerdings aus anderen Kl. (= ) nicht auf diese zugegriffen werden.
-Abhilfe über Methoden, die nur den Wert zurückgeben 

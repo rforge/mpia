@@ -1,5 +1,0 @@
-Information hiding bedeutet das verstecken von Informationen hinter den methoden.
-die Variablen werden als "private" definiert
-zB.: private String nachname die Methode kann dann diese Variablen mit "get" oder "set" ausbrechen
-zB.: public Student getNachname (...){...}
-diese Methode muss dann als "pubilc" definiert werden

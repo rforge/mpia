@@ -1,4 +1,0 @@
-4.3 Systemanforderungen
-Wird auf Basis der Systemstudie die Entscheidung für die Durchführung des Projekts getroffen, so
-sind im nächsten Schritt die Anforderungen an das System im Detail zu erfassen. Dabei wird in
-der Regel ein Lastenheft erstellt und daraus später ein Pflichtenheft.

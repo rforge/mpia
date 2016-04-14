@@ -1,7 +1,0 @@
-Elektronischer Katalog ist eine Datenbank mit Internet in der Produkte u. Services gespeichert werden.
-Komponenten: Verzeichnisse von Produkten, Anbieter, Produkte, Beschreibungen, Adressen
-Funktionsweise:
-Anbieter: Gibt Informationen ein und aktualisirt D. diese, Kundenprofil, Marketing, Auswertung, CRM
-Kunden: benutzt Datenbank, kann sich über Hierarchie zu bis zur entsprechenden Produktklasse "hinunterhanteln" u in 
-Registierung von persönlichen Daten
-dynamische u. aktuelle Datenbank 

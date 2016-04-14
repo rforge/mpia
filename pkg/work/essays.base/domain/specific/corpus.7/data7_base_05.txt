@@ -1,7 +1,0 @@
-Eine für die Klasse verteilter Objekte elementare Anforderung ist, dass
-die Beschreibung der publizierten Dienste in einer programmiersprachenunabhängigen
-Form vorliegt. Der Begriff des Dienstes wurde bereits
-in Kapitel 1.1 festgelegt. Dieser Begriff ist jedoch so abstrakt, dass er
-zunächst in einen Kontext gesetzt werden muss, der ihn greifbar macht.
-Dieser Kontext findet sich hier in den verteilten Objekten, welche eine Verteilte Objekte
-realisieren Dienste Funktionalität, also einen Dienst, realisieren.

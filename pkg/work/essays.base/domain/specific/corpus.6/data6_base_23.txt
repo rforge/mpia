@@ -1,2 +1,0 @@
-Eine Anfrage wird als Pseudodokument, bestehend aus den Suchtermen angesehen. Um mittels dieser Terme zu den relevanten Dokumenten gelangen zu können, müssen die Terme in derselben Struktur liegen, wie die Dokumente. Dann können auch neue Dokumente leichter nachträglich hinzugefügt werden.
-

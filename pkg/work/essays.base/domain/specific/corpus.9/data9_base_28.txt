@@ -1,3 +1,0 @@
-Beispiel: Bankomat
-Das use case - Diagramm listet die Nutzungsfälle und die beteiligten Nutzer (Systemumgebung)
-auf. Zusätzlich können durch Sequenzdiagrame Szenarien angegeben werden.

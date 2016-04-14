@@ -1,6 +1,0 @@
-spezifikation: konkrete abbildung der anforderung
-gem‰ﬂ jeweils aktuellen kenntnisst‰nden
-repr‰sentation: spezifikation muss kommuniziert
-werden; formelle oder informelle beschreibungsmittel
-verhandlung: unterschiedlich beteiligte personen
-bezogen auf vorwissen und interesse

@@ -1,7 +1,0 @@
-DAS SYSTEM
-Das DPNR-System(Diesel Particulate NOx Reduction System) unterscheidet sich mehrfach von europäischen Serien-Rußfiltern, die "geschlossene" Systeme sind, während DPNR für Ruß"offen" ist.
-
-Bei der Funktion: Es reduziert nicht nur Partikel, sondern zudem Stickoxide.
-
-Technisch(siehe Skizzen): Nach dem Motor kommt als erster ein Stickoxid-Speicherkat (NSR NOx Storage Reduction-Kat, nach dem Vorbild des NSR für Benzindirekteinspritzer), danach folgt das eigentliche DPNR-System (Diesel Particulate NOx Reduction), wo Ruß (C) mit dem vom NOx abgespaltenen O2 (Sauerstoff) zu umgewandelt wird. Es funktioniert wie ein Kat, ist "offen" und kann daher nicht verstopfen, da bei einem "Überangebot" an Partikeln das "Zuviel" zum Teil durchgeht. Daher der Ruß im Avensis-Auspuff, der bei Diesel mit geschlossenen Serien-Rußfiltern nie auftritt (vorher verstopft der Filter). Noch viel mehr geht durch Nachrüstsysteme durch (Partikel-Kat). Erst nach dem DPNR-Keramiktopf ist bei Toyota der für Diesel übliche Oxidationskat. Vom Volumen her ist der DPNR-Topf mit 2,0 l für einen 2,2-l-Motor deutlich kleiner als ein europäischer Rußfilter, der meist eineinhalb Mal so groß ist wie der Hubraum des Motors. Wie deutsche Rußfilter ist er wartungsfrei.
-

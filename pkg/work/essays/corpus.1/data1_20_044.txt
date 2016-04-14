@@ -1,3 +1,0 @@
-Als Information Hiding bezeichnet man das Verstecken von Informationen einer Klasse.
-Das heißt daß es nicht möglich ist direkt auf Variablen zuzugereifen, sondern nur über den Anruf einer entsprechenden Methode.
-Dieses Konzept der OOP wird auch "Data Encapsulation" oder Datenkapselung genannt.

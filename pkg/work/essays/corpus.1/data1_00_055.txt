@@ -1,5 +1,0 @@
-class test
-	private void method {}
-
-
-Diese Methode ist durch das Schlüsselwort privat nur in der Klasse test sichtbar jedoch kann man über eine Methode darauf zugreifen.

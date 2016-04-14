@@ -1,8 +1,0 @@
-Falls bei Suchanfragen nach Werten gesucht wird, die im Domänenmodell in eine
-Taxonomie (Konzepthierarchie) oder Partonomie (Teil/Ganzes-Relation) strukturiert
-wurden, lässt sich das modellierte Wissen bei der Abarbeitung der Suchanfrage
-ausnutzen. Somit kann beispielsweise bei der Suche nach Werkstofflieferanten nach
-Firmen aus einem einzelnen Bundesland gesucht werden, ohne dass explizit alle Städte
-des Bundeslandes in die Suchanfrage eingegeben werden müssen. Das Wissen,
-welche Städte innerhalb dieses Landes liegen, kann vorher explizit modelliert und bei
-verschiedenen Suchanfragen ausgenutzt werden.

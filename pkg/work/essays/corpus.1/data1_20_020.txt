@@ -1,4 +1,0 @@
-die mit dem Schlüsselwort private definierten Werte können nur innerhalb der Klasse ausgelesen werden.
-um der Wert der variablen auszulesen wird die Methode getnachname generiert.
-Von außen kann der Wert der mit private definierten variablen nicht ausgelesen werden.
-somit kann der wert sicher vorborgen werden.

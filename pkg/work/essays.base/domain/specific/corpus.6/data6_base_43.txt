@@ -1,2 +1,0 @@
-Betrachten wir indessen die Zeilen der Matrix T’ bzw. die Spalten der Matrix D’, so haben sie nur noch die Länge k, können also in einem Raum mit viel kleinerer Dimension k (<m) dargestellt werden!
-

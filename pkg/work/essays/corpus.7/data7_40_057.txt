@@ -1,8 +1,0 @@
-Interface ist wie eine abstrakte Klasse, aber
-ohne Methoden, die nicht abstract sind.
-Es ist eine Schnittstelle, die man
-verwenden kann, so dass alle Klassen,
-die eine (oder mehrere) Interface implementieren,
-gleiche Funktion haben.
-Alle Methoden und Variablen des Interfaces
-sind public und static.

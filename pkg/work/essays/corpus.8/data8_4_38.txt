@@ -1,9 +1,0 @@
-für die beibehaltung spricht, dass ein individualprodukt
-bestmöglich an schon bestehende geschäftsprozesse
-angepasst werden kann. sollte es jedoch nicht mehr
-den aktuellen anforderungen entsprechen, könnte ein
-teures Reengineering notwendig werden, insbesondere
-bei zu komplexen oder schlecht dokumentierten individualentwicklungen.
-ein standardsprodukt liesse sich dann vielleicht
-billiger installieren, allerdings könnte es nötig sein,
-die eigenen geschäftsprozesse daran anzupassen.

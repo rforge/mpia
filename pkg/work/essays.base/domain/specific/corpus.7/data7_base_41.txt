@@ -1,7 +1,0 @@
-Verteilte Objekte werden auf der .NET-Plattform durch Instanzen von
-Klassen repräsentiert (DistributedClass, Abbildung 3.2). Diese Klassen
-implementierenmindestens eine Schnittstelle (DistributedClass-
-Interface), die es gestattet, auf Instanzen des verteilten Objekts zuzugreifen.
-Damit Instanzen des verteilten Objekts auch über Prozessgrenzen
-hinweg erreichbar sind, haben die verteilten Objekte die Fähigkeit,
-eine verteilte Objektreferenz zu liefern.

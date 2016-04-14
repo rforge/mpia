@@ -1,8 +1,0 @@
-Private string nachname;
-Private boolean angemeldet
- 
-Zugriffbarkeit
-
-Private verhindert den Zugriff dieser Variablen von außen.
-Diese Variablen kann nur in Klasse "Student" nutzen und aufrufen sonst die anderen Klassen können diese nicht aufrufen.
-Protect die Informationen in einer Klasse von außen Zugriff.

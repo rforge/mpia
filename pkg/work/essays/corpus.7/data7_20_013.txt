@@ -1,6 +1,0 @@
-Bedeutet: Schnittstelle. 
-Man benötigt Interfaces, um einheitliche
-Schnittstellen herzustellen. Interfaces müssen anders
-als abstrakte Klassen nicht implementiert werden.
-Vorteil: Eine Klasse kan von mehreren Interfaces
-erben.

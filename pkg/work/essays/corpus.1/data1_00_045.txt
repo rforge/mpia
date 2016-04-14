@@ -1,3 +1,0 @@
-Die Instanz der Klasse wird hinter der Methode versteckt, d.h. es kann nur mittels der Methode auf die Instanzen zurückgegriffen werden, aufgerufen werden.
-z.B. Student Josef: new Student ()
-	josef.matrNr=0050863

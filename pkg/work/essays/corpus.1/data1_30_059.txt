@@ -1,3 +1,0 @@
-Der String Nachname + boolean angemeldet sind als private definiert, somit für andere Klassen nicht sichtbar.
-die Methoden istAngemeldet und getNachname habe ich public definiert. Sie sind somit in der Klasse Student, und können, da sie nach außen hier sichtbar sind.
-von anderen Klassen aufgerufen werden, und damit den Wert der als private deklarierten Variablen zurückliefern.

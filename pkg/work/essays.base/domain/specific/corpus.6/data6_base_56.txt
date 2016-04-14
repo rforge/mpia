@@ -1,2 +1,0 @@
-Wie wir gesehen haben, kann der Grad der Dimensionsreduktion frei gewählt werden. Je kleiner wir k wählen, desto ungenauer wird zwar die Term-Dokument-Matrix angenähert, aber desto  kleiner sind die Matrizen und somit auch der Rechenaufwand.
-

@@ -1,7 +1,0 @@
-Eine Subklasse kann von beliebig vielen Interfaces und
-einer Klasse erben (= Interface Implementierung)
-Möglichkeit eine Schnittstelle zu definieren und anzuwenden,
-ähnlich wie abstrakte Klassen. Jedoch keine Implementierung.
-Ein Interface definiert Namen von Methoden, deren
-Parameterliste, deren Rückgabewerttypen und Namen
-der Variablen (static, final)

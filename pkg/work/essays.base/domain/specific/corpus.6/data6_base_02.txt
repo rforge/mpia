@@ -1,2 +1,0 @@
-Die Arbeit gründet sich auf dem Artikel Indexing by Latent Semantic Analysis von Scott Deerwester und anderen, der 1990 im Journal of the American Society of Information Science erschien. Darin wird eine neue Methode für automatisches Indexieren und Retrieval beschrieben, dass vor allem die durch Synonyme verursachten schlechten Recall-Werte des Retrievals zu verbessern versucht.
-

@@ -1,5 +1,0 @@
-Eine ontologie-basierte Suchanfrage dient dazu, Objekte einer bestimmten Klasse mit
-bestimmten Eigenschaften zu finden. Für die Formulierung dieser Suchanfragen muss
-zunächst durch die Angabe einer Klasse bestimmt werden, nach welcher Art von Objekt
-gesucht wird (z.B. Stückliste). Nach der Wahl der Objektklasse können alle dafür
-definierten Attribute für die Suche eingesetzt werden.

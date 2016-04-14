@@ -1,3 +1,0 @@
-Der euklidische Abstand zweier Punkte ist definiert als die Länge des Vektors, welcher vom einen Punkt zum andern Punkt führt. Man bezeichnet die Formel für diesen Abstand oft als verallgemeinerten Pythagoras bezeichnet, weil für jede Dimension die Differenz der jeweiligen Koordinaten quadriert wird, und aus der Summe über alle Dimensionen die Wurzel gezogen wird:
-Abstand des Punkts A(a1, ... an) vom Punkt B(b1, ... bn):  	 
-

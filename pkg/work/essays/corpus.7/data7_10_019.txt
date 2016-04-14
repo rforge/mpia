@@ -1,6 +1,0 @@
-Ein Interface ist für die einheitliche Nützung
-von Variablen und Methoden gedacht.
-Zum Beispiel Ein Interface ist dann nötig wenn verschiedene
-Klassen (zum Beispiel Buch, Fußballfeld) eine gemeinsame abstrakte Methode haben und
-diese auch nützen wollen, was dann im Interface
-definiert ist.

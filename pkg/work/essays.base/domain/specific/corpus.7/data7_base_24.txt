@@ -1,3 +1,0 @@
-Sofern man jedoch über eine entsprechende Werkzeugunterstützung
-verfügt, kann man mit dieser Form der Dienstbeschreibung relativ einfach
-komplexe und interoperable Systeme aufbauen.

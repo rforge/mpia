@@ -1,2 +1,0 @@
-Die reine Übereinstimmung von Suchtermen und Indextermen ist daher ein unzuverlässiges Kriterium für die Relevanz eines Dokuments für die Anfrage. Eine Verbesserung des Antwortverhaltens müsste auf konzeptueller Basis, dh. auf Bedeutungsebene geschehen.
-

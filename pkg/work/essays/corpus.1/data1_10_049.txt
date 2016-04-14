@@ -1,1 +1,0 @@
-Information Hiding heißt, dass auf Grund der "Data Encapsulation" auf die Variablenwerte von Objekten (diese sind ja "private" definiert) nur über Anruf von Methoden zugriffen werden kann.

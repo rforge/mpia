@@ -1,6 +1,0 @@
-Ein Interface ist eine Schnittstelle.
-Ein Interface wird auch benötigt um
-"messages" verschicken zu können.
-In einem Interface sind die einzelnen
-Schnittstellen auch zu anderen Programmen
-definiert.

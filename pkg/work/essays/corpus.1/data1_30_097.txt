@@ -1,4 +1,0 @@
-Durch Information Hiding wird der Zugriff auf Variablen eingeschränkt. Es verhindert somit einen (ungewollte) direkten Zugriff auf die Variablen. Es kann nur indirekt Methoden auf die Variablen zugegriffen werden.
-Die Variablen müssen als private deklariert sein,
-Beispiel: private String nachname;
-private boolean angemeldet;

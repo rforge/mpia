@@ -1,1 +1,0 @@
-Kontaktdosis: Anzahl von Kontakten, die eine Person mit Medien hatte, in denen eine Kampagne geschaltet war. Diese Kontaktdosis schwankt zwischen 0 und (maximal) der Zahl der Schaltungen für eine Kampagne.

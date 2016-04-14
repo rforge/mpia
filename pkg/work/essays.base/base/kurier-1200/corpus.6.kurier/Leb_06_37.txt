@@ -1,3 +1,0 @@
-Wieso fliegen Flugzeuge?
-Das größte Passagierflugzeug der Welt, der Airbus A380, wiegt 421 t, beladen ca. 560 t. Um sich in der Luft halten zu können, muss es eine nach oben gerichtete Kraft (Auftrieb) erfahren, die gleich groß oder größer sein muss als sein eigenes Gewicht. Jeder Flugkörper (Jet, Vogel), der schwerer ist als Luft, verdankt diesen Auftrieb aerodynamischen Kräften, die wirksam werden, wenn Luft über tragende Flächen gleitet.
-

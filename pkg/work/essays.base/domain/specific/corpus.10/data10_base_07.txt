@@ -1,2 +1,0 @@
-Testobjekte im Integrationstest sind Software-Baugruppen, die aus einzelnen bereits
-getesteten Komponenten zusammengesetzt (Integration) wurden.

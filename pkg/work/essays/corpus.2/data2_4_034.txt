@@ -1,7 +1,0 @@
-Ein elektronischer Katalog ist eine web-Abbildung eines normalen Kataloges.
-Er erhält Produktinfos, Preise, Abbildung etc.
-Die Kundendaten + -einkaufsgewohnheiten können statistich ausgewertet + auch gleich f. den Kunden eingesetzt werden (siehe amazon.de, mit Buchvorschlägen für den eingelogten Kunden).
-Der Einkaufskorb kann zwischen Sitzungen gespeichert werden.
-Die Zahlungmögl. sind oft vielfältig.
-Meistens sind e-Kataloge schon Standardprod. + müssen nicht händisch programmiert werden.
-Die DB beinhalten Kundendaten, Artikeldaten u. -fotos, Preise, Liefer- u. Zahlungbedingungen, Statistiken 

@@ -1,6 +1,0 @@
-Das Problem, das hierbei entsteht, ist, dass Schnittstellen nahezu beliebig
-aufgebaut sein können. Um dieses Problem zu umgehen, definiert COM
-bspw. eine verbindliche Basisschnittstelle IUnknown, welche sicherstellt, Die Schnittstelle
-IUnknown dass alle COM-Komponenten über eine gewisse einheitliche Grundstruktur
-verfügen. Alle Operationen auf COM-Komponenten finden ihren Anfang
-bei dieser Schnittstelle.

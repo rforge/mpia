@@ -1,2 +1,0 @@
-Es müssen nicht alle Daten bei einer Implementierung neu geschrieben werden.
-Um das Programm nicht mit überflüssigen Infos zu überhäufen verbirgt man die Daten, die dann durch einen Code (getNachname) aufgerufen werden können.

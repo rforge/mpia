@@ -1,5 +1,0 @@
-IDL-Schnittstellen können ohne Kenntnis einer Zielsprache definiert Vorteile
-werden, sodass sie in verschiedenen Programmiersprachen realisiert
-werden können. Sehr oft wird hier das Beispiel aufgeführt, welches
-ein COM-Objekt in C++ oder Java definiert und dieses in Visual Basic
-verwendet.

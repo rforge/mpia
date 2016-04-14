@@ -1,8 +1,0 @@
-Interface = Schnittstelle nach auﬂen.
-Ein Interface ist wie eine abstrakte Klasse. Wenn eine
-Klasse ein Interface implementiert muss es seine Methoden
-implementieren oder die Klassenmethoden als abstrakt
-deklarieren. Eine Klasse kann von mehreren Interfaces
-erben.
-Zum Beispiel: Klassenname implements Interfacename
-Interfaces werden mit Interface deklariert: zum Beispiel Interface Writer

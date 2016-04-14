@@ -1,2 +1,0 @@
-Durch Informationen Hiding wird die Sicherheit und den Zugriff auf die Variable beschränkt.
-Man kann auf die variable durch eine public deklarierte Methode zugreifen.

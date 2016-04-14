@@ -1,2 +1,0 @@
-In der einfachsten Form wird eine Liste der für die Indexierung vorgesehenen Terme betrachtet (in der üblicherweise Terme, die in jedem Dokument vorkommen, weggelassen werden: sog. Stop-Listen) und für jedes Dokument ein Vektor, d.h. eine geordnete Liste von Zahlen erstellt, wobei jede Zahl für einen der Indexterme angibt, wie häufig er in diesem Dokument vorkommt.
-

@@ -1,4 +1,0 @@
-Der häufigste Verwendungszweck von eKatalogen im Web ist der des Online Shops.
-Dort werden die Hauptkomponenten Produkt / Service, Preis und Transaktionsweg festgehatten (jedoch ändern sich diese Komponenten kontinuierlich).
-Aus der Sicht des Kundens ist dies eine sehr praktische Lösung sich zu informieren da dieser Dienst 24 Stunden verfügbar ist.
-Aus Sicht des Anbieters ist diese Möglichkeit sehr interessant da die Aufträge automatisch in seine EDV einfliesen können (zb. automatische Rechnungsaustellung ...)

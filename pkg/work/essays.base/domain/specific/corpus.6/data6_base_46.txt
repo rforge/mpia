@@ -1,2 +1,0 @@
-Als Mass für die Nähe gibt es zwei häufig verwendete Alternativen. Dazu ist zu beachten, dass von einem Punkt im Raum immer auch als Vektor, genauer gesagt seinem Ortsvektor, gesprochen werden kann, dazu werden die Koordinaten des Punktes einfach als Komponenten eines Vektors, der im Ursprung startet, angesehen. Dadurch ist es möglich, statt dem (euklidischen) Abstand zweier Punkte das Skalarprodukt der entsprechenden Vektoren zu betrachten, wie im folgenden kurz erklärt wird.
-

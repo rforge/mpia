@@ -1,8 +1,0 @@
-Interface ist einheitliche Methodenbezeichnung
-(Methodennamen und Methodenparameter)
-sind Schnittstellen, benötigt um die Interaktionen
-zwischen Klassen (Systemkomponenten)
-durchzuführen. Man weiss dann, welche
-Funktion benötigt von anderen und welche
-zur Verfügung gestellt.
-Definition: interface interface-Name, Methoden

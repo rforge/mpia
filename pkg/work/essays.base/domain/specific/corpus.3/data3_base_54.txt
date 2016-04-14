@@ -1,2 +1,0 @@
-Das günstigste Maß ist sicherlich die kombinierte Reichweite, also die Nettoreichweite von mehreren Schaltungen in mehreren Medien. Mit der kombinierten Reichweite erhält man die Anzahl der Personen, die durch mehrere Schaltungen in mehreren Medien mindestens einmal erreicht werden. Jedoch sagt auch die kombinierte Reichweite nichts darüber aus, wieviele Kontakte eine einzelne Person erhält. Es könnte lediglich die durchschnittliche Kontaktzahl wie folgt errechnet werden:
-f Kontaktzahl = KontaktsummeKombinierteichweiteRe

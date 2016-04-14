@@ -1,3 +1,0 @@
-komponententest: es werden softwarekomponenten einzeln getestet, zum Beispiel quellcode
-integrationstest: komponenten integriert in das system wird getestet - gesamt
-systemtest: das ganze system wird getestet - meist der systemaufbau - meist mit black box verfahren, also ohne dass endbenutzer es merken würden

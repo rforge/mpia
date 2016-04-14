@@ -1,8 +1,0 @@
-verstecken der Variablen hinter der Implementierung der Methoden
-Variablen müssen private deklariert sein. die Methoden public
-es kann nur über die Methoden auf die Variablen zugegriffen werden
-Methode getNachname() gibt string machname aus
-schützt vor Datenmanipulation, vor unerwünschtem Zugriff, unerwünschter Veränderung der Variablen, "versehentlichem" verändern der Variablen
-
-zugriff mit get...();
-setzen mit set..();

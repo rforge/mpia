@@ -1,3 +1,0 @@
-Ein elektronischer Katalog ist eine Sammlung von Metadaten (z.B. Produkte: Produktinfo, Preis, ...)
-und Daten von (verschiedenen) Anbietern, der Kunden erlaubt effizient und schnell die gewünschte Ware zu suchen u. verschiedene Angebote zu vergleichen.
-Hat er die Ware gefunden, kann er auf elektronischem Weg eine Bestellung vornehmen, elektronisch bezahlen usw.

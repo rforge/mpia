@@ -1,3 +1,0 @@
-Mit Hilfe des Domänenmodells werden so alle Begriffe der Anwendungsdomäne und
-deren Zusammenhänge für alle Anwender des Modells festgelegt. Solche
-Begriffsdefinitionen werden auch als Ontologien bezeichnet (vgl. [2]).

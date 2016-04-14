@@ -1,5 +1,0 @@
-Interface ist eine Zusammenfassung von
-Variablendeklarationen und Methodendeklarationen,
-die jede Klasse übernehmen kann.
-Vorteil auch, dass Klassen mehrere
-Interfaces verwenden können.

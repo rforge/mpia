@@ -1,6 +1,0 @@
-Ein Interface ist eine Schnittstelle, die
-verschiedene Programm(teile) verbindet
-und gegenseitig mit informationen (Daten)
-versorgt. Es wird benögit, damit die
-Programme miteinander kommunizieren
-können.

@@ -1,4 +1,0 @@
-private string nachname
-private boolean angemeldet
-wenn wir benutzen "privat", einschränken wir die Zugriff auf fremden classe und verhindern wir irrtümliche Veränderungen.
-Es gibt noch set und get (public) Methoden zur Einschränkungen

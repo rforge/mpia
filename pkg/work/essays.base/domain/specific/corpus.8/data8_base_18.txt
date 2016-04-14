@@ -1,7 +1,0 @@
-Eine Vorgehensweise für die Priorisierung der Integrationskandidaten muß zum einen leicht
-und insbesondere kostengünstig durchzuführen sein, weil sie grundsätzlich in jedem Integrationsschritt
-erforderlich ist. Zum anderen muß die Berücksichtigung von mehreren und häufig
-inhomogenen Zielsetzungen möglich sein. Bei der Priorisierung der Integrationskandidaten
-müssen alle Ziele, die mit Hilfe der Ersetzung oder Modifikation der einzelnen Applikationen
-erreicht werden können, zusammengetragen und in den Entscheidungsprozeß eingebracht
-werden.

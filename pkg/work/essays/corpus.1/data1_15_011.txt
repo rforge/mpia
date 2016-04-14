@@ -1,1 +1,0 @@
-Mit d. Schlüsselwörtern private kann nur innerhalb d. eigenen Klasse auf d. Variablen zugegriffen werden. Außerhalb davon sind sie nicht erreichbar.

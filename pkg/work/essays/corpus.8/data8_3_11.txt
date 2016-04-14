@@ -1,6 +1,0 @@
-Reengineering: Vorteile: Nutzungsdauer eines
-Systems verlängern, die Wertbarkeit erhöhen,
-Neuentwicklung meist teurer, Komplexitätsprobleme
-Standardprodukt: meist Komplettlösung mit
-Installation und Wartung. Problematisch könnte
-die Einbindung von Altsystemen sein.

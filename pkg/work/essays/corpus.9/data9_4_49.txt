@@ -1,9 +1,0 @@
-anforderungsdefinition
-anforderungsspezifikation
-softwarespezifikation: prozesse bei anforderunganalyse
-sie müsen zerst spezifikationen ermitteln. die ergebnisse von anforderungsanalyse
-ist spezifikationen.
-dann diese spezifikationen kommunizieren. darstellung von anforderungen zu
-alle beteiligten repräsentation
-sie müssen ermgölichen, die alle beteiligten diese spezifikationen
-verstanden und angenommen haben -> verhandlung = agreement

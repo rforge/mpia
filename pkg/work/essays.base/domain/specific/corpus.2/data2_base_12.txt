@@ -1,3 +1,0 @@
-Die Bestelldaten sowie das Layout der Bestellung von Kunden orientieren sich
-an den im Katalog vorgegebenen Werten - Fehler/Rückfrage werden
-vermieden.

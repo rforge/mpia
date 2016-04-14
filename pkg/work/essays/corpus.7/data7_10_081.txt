@@ -1,5 +1,0 @@
-Interface ist die Möglichkeit, eine oder mehrere
-Klassen eine Schnittstelle zu definieren und
-anzuwenden.
-interfaces
-implement

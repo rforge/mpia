@@ -1,2 +1,0 @@
-Aus einer grossen Term-Dokument-Matrix wird ein „semantischer Raum“ konstruiert, in welchem Terme und Dokumente, die stark miteinander zu tun haben, auch nahe beieinander liegen. Mit „semantisch“ ist hier gemeint, dass ein Term auf das Dokument selbst bzw. auf den Inhalt des Dokuments (wovon es handelt) Bezug nimmt, und das semantische Indizieren bedeutet, dem Dokument einen Punkt in diesem Raum zuzuordnen. 
-

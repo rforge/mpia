@@ -1,3 +1,0 @@
-komponententest: nur einzelne komponenten werden getestet
-systemtest: gesamtsystem wird getestet
-mehrere komponenten werden zusammengefaßt

@@ -1,4 +1,0 @@
-Ein elektronischer Katalog ist die on-line zür Verfügung Stellung vom Katalog eines Unternehmen.
-Ein elektronischer Katalog besteht aus einem Artikelstamm mit mindestens einer Preisangabe.
-Er bietet auch Suchdienste für Kunden, nach Beschreibung, Preis usw.
-Er bietet Zahlungsmöglichkeiten.

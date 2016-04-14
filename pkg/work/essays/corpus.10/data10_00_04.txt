@@ -1,3 +1,0 @@
-extern - test findet draußen statt
-intern - test findet drinnen statt
-gesamt - von allen und überall

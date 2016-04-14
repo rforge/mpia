@@ -1,2 +1,0 @@
-Ähnlich sieht es beim Vergleich von Termen und Dokumenten untereinander aus oder bei der Bestimmung der Relevanz eines Terms für ein Dokument: Dokumente müssen durch Multiplikation von S, Terme von S-1 für den Vergleich untereinander gewichtet werden, und für Term-Dokument-Vergleiche beide mit S1/2 (wo jeweils die Wurzel aus den Singulärwerten gezogen wurde).
-

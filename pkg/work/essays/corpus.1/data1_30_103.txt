@@ -1,3 +1,0 @@
-Data Encapsulation
-Zugriff auf die Daten einer Klasse können nur durch Befehle erfolgen. Es besteht nicht die Mõglichkeit direkt auf die Variablen einer Klasse zuzugreifen.
-deklaration mit dem Schlüsselwort "private".

@@ -1,3 +1,0 @@
-Für jeden Nutzungsfall geben wir eine oder mehrere Beschreibungen (informell) an, die illustrieren,
-wie wir uns die Nutzung vorstellen. Zusätzlich können wir use case - Diagramme (a la
-UML) einsetzen.

@@ -1,4 +1,0 @@
-Reflexivität – QueryInterface() muss reflexiv sein, sodass ein Client,
-von COM-Schnittstellen der einen gültigen Zeiger auf eine Schnittstelle hat, eine weitere erfolgreiche
-Anforderung nach dieser Schnittstelle absetzen kann. Derartige
-Anforderungen müssen erfolgreich sein.

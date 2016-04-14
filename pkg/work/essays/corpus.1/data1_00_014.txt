@@ -1,1 +1,0 @@
-mit private wird ausgesagt, dass andere Klassen nicht mehr auf diesen String bzw. boolean zugreifen können

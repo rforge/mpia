@@ -1,3 +1,0 @@
-Interface ist Schnittstelle der Komponenten nach außen.
-Im Interface werden die eigenschaften und verhalten der Klasse
-definiert.

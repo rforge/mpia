@@ -1,7 +1,0 @@
-Als Beispiel fungiert die Software einer Telefongesellschaft, die u.a. in folgenden
-Bereichen eingesetzt wird:
-- Die Abteilung Verbindungsaufbau kümmert sich um den physikalischen Aufbau
-der Verbindungen zwischen Telefonanschlüssen.
-- Im Webportal können Privatkunden ihre Telefonrechnungen anschauen und
-personenbezogene Daten ändern.
-- Die Verwaltung ist für die Abwicklung der Kundenzahlungen zuständig.

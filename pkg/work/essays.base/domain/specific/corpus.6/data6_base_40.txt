@@ -1,3 +1,0 @@
-Was bringt uns diese Zerlegung? Nachdem die Singulärwerte absteigend geordnet wurden, befinden sich am unteren Ende der Diagonale vergleichsweise kleine Faktoren, welche vernachlässigt werden können. Wir wollen die Anzahl der Faktoren, welche wir für genügend gross und damit wichtig halten, k nennen, und alle andern ausser die ersten k Null setzen. 
-Diese Wahl von k ist völlig willkürlich und wird im nächsten Abschnitt diskutiert!
-

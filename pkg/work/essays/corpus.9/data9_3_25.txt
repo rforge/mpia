@@ -1,9 +1,0 @@
-anforderungsdefinition
-anforderungsdefinition - es sollen die anforderungen
-definiert werden - was soll das system machen können.
-anforderungsspezifikation
-anforderungsspezifikation - formale notation der anforderungen
-unter berücksichtigung verschiedener sichten
-möglichst genau, verständlich.
-softwarespezifikation
-software spezifikation

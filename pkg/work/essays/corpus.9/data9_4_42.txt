@@ -1,6 +1,0 @@
-anforderungsdefinition: welche anforderungen
-anforderungsspezifikation: notation der anforderungen in eine für die zielgruppe verständliche sprache
-softwarespezifikation: beschreibung der software-anforderungen
-programmierorientiert
-vollständige, widerspruchsfreie
-nur sinnvoll, wenn in einen kontext eingebettet

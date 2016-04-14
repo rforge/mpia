@@ -1,4 +1,0 @@
-Ein Interface ist eine Schnittstelle
-zwischen (Sub) Klassen in welchen Variablen
-und Methoden definiert werden können,
-die andere Klassen benutzen.

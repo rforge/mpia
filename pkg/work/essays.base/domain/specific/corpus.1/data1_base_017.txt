@@ -1,3 +1,0 @@
-Definition 3. Abhängigkeit zwischen zwei Rollen besteht genau dann, wenn
-mindestens eine Abhängigkeit zwischen Attributen oder Methoden dieser Rollen
-existiert.

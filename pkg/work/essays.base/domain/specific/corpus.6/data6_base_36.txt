@@ -1,1 +1,0 @@
-Jede Matrix X lässt sich als Produkt von drei Matrizen T, S, D schreiben, wobei S eine Diagonalmatrix ist (alle Werte ausserhalb der Diagonalen sind 0), und die Zeilen von T sowie die Spalten von D sind alle unabhängig, stehen nämlich senkrecht aufeinander.

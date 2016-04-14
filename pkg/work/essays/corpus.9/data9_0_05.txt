@@ -1,5 +1,0 @@
-man kann vier eigenschaften von anforderungen nennen
-anforderungstyp -> hat auswirkungen auf die schwierigkeiten die sich durch eine änderung der anforderungen ergeben.
-anwendungsbereiche der anforderung -> produkt-parameter (bezieht sich auf das zu entwickelnde produkt) projekt-parameter (bezieht sich auf die erstellung des produkts)
-einhaltung der anforderungen -> grad der notwendigkeit der umsetzung einer anforderung obligatorisch, anleitung, information
-prioriatäten -> relative wichtigkeit einer anforderung, Kosten, zeitlicher ablauf strategisch wichtige langfristige anforderungen quelle der anforderungen -> management

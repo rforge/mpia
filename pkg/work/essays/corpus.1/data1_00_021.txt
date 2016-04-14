@@ -1,5 +1,0 @@
-da die klasse student eine "Private" Klasse ist
-kann man sie nur innerhalb der Klasse aufrufen, und ist damit für anderen klassen sozusagen "unsichtbar"
-die "Nachname" ist private und für andere Klassen unsichtbar
-die "angemeldet" ist private und booleen   
-ob ein Student angemeldet ist oder nicht kann man nur dann sehen wenn man den Zugriff auf keine Klasse hat  

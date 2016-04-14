@@ -1,4 +1,0 @@
-Testobjekt und Testumgebung: Erläutern, warum die Testumgebung möglichst der
-späteren Zielumgebung/Produktivumgebung entsprechen soll. Begründen, warum es
-schädlich sein kann, wenn für den Systemtest die Produktivumgebung selbst verwendet
-wird, statt einer separaten Testumgebung.

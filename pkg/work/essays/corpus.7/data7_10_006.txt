@@ -1,3 +1,0 @@
-Interface = Schnittstelle. Definiert jenen Bereich
-wo Methoden und Variablen für andere Klassen
-zugänglich sind.

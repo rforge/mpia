@@ -1,3 +1,0 @@
-white box verfahren: überprüfung der implementierung nahe am quellcode
-black box verfahren: erfüllt die software die spezifikation
-manuelle verfahren: überprüfung des quellcodes ohne ausführung des programmes

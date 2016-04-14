@@ -1,3 +1,0 @@
-komponententest - test jeder komponente, ganz nahe an der eigentlichen implementierung
-integrationstest - einzelne subsysteme werden getestet
-black box test oder systemtest - das system wird ohne kenntnis der internen struktur getestet (eventuell mit dokumentation)

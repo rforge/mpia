@@ -1,7 +1,0 @@
-Zum tieferen Verständnis wollen wir an dieser Stelle ein Metamodell
-vorstellen (Abbildung 3.1), welches die Architektur des Remoting Frameworks
-beschreibt. Das Metamodell beschreibt die drei wesentlichen
-Aspekte des Remoting Frameworks:
-> das verteilte Objekt (DistributedClass),
-> den Nutzer des verteilten Objekts (ClientClass) und
-> die Kommunikation zwischen diesen (Channel).

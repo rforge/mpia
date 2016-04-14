@@ -1,2 +1,0 @@
-Das konkrete Verfahren zu diesem „Latent Semantic indexing“ (LSI) ist die sogenannte „Singular Value Decomposition“ (SVD), zu deutsch Singulärwertzerlegung. Dieses mathema¬tische Verfahren ermöglicht es, eine Matrix (in unserem Fall die Term-Dokument-Matrix) als Produkt kleinerer Matrizen angenähert darzustellen, und so den Rechenaufwand zu verkleinern. Dies ist dadurch möglich, dass das Verfahren eine Anzahl sogenannter Singulär¬werte für die Matrix liefert, und die vergleichsweise kleinen Singulärwerte vernachlässigt werden können.
-

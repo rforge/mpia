@@ -1,1 +1,0 @@
-Alle Grundlagen außer Rolle und Klasse werden aus dem Objektmodell übernommen.

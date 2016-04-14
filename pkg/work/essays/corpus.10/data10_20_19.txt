@@ -1,3 +1,0 @@
-integrationstest - integration ins system möglich oder wie bereits verlaufen
-systemtest - funktioniert die software im system? fehler?
-komponententest - erfüllt die jeweilige komponente des systems die jeweilige funktion?

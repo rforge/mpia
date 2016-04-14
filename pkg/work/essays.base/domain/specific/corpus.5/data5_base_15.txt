@@ -1,8 +1,0 @@
-Die Vorteile der ontologie-basierten Suche sind
-• Unterstützung bei der Modellierung von Suchanfragen,
-• Vermeidung von Tippfehlern oder falschen Begriffen durch ein festgelegtes
-Vokabular aus der Ontologie,
-• Ausnutzung des modellierten Wissens bei der Suche und
-• Formulierung von detaillierten Suchanfragen, auch über Objektgrenzen hinaus,
-d.h. Suche nach Informationsobjekten, die mit anderen Objekten verbunden sind,
-welche bestimmte Kriterien erfüllen müssen.

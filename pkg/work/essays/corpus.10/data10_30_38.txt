@@ -1,3 +1,0 @@
-komponententest: hier wird sehr nahe am quellcode gearbeitet, einzelne komponenten werden hier isoliert beobachtet und unter den testdaten getestet, ob sie die (ihre) funktionalitäten korrekt zur verfügung stellen
-integrationstest: hier schaut man sich gemeinsame komponenten an, wird gemeinsam getestet und schaut, ob jede komponenten auch ihre funktionalitäten korrekt zur verfügung stellt
-systemtest: ist immer black box verfahren, aus der sicht der enduser wird getestet, schaut ob die komponenten den spezifikationen entsprechen, ob funktionalitäten der enduser realisiert werden

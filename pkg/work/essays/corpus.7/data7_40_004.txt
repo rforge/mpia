@@ -1,6 +1,0 @@
-Interfaces dienen dazu eine einheitliche
-Schnittstelle zu erzeugen.
-In einem Interface kann man Variablen
-und Methoden definieren.
-Mit Interfaces ist eine Art
-Mehrfachvererbung möglich.

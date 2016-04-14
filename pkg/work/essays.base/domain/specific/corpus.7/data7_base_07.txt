@@ -1,8 +1,0 @@
-In COM und CORBA werden publizierte Dienste des Servers mithilfe
-einer IDL-Schnittstelle, wie der in Listing 3.1, beschrieben. Das Listing IDL-Schnittstellen
-zeigt eine Schnittstellendefinition in COM-IDL, welche die Schnittstelle
-eines Kontoobjekts festlegt. Sie definiert die Signatur der Methoden der
-Schnittstelle des COM-Objekts und bildet somit einen Vertrag zwischen
-Client und Server, der die Nutzung eines Kontoobjekts regelt. Die Schnittstelle
-wird dabei immer auf eine COM-Klasse abgebildet. Daher gibt es
-hier eine 1:1-Abbildung zwischen Dienstbeschreibung und Dienstrealisierung.

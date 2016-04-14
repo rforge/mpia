@@ -1,2 +1,0 @@
-Definition der Begriffe Komponente und Komponententest nach [BS7925-1]. Erläuterung,
-dass die entsprechenden Tests auch Modul-, Unit- bzw. Klassentest genannt werden.

@@ -1,5 +1,0 @@
-Das Rollenkonzept ist eine kanonische Erweiterung des Objektmodells. Es
-wird eine neue, aus Rollen bestehende Schicht eingeführt. Eine Klasse enthält
-Rollen und deren Abhängigkeiten. Rollen können sowohl gemeinsame als auch
-unabhängige Teile haben. Die Vererbung ist auf der Rollenebene angesiedelt. So
-können einige Aspekte der Mehrfachvererbung abgedeckt werden.

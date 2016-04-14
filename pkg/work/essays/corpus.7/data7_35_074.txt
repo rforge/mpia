@@ -1,7 +1,0 @@
-Interface (Schnittstelle) definiert die Menge
-der Methoden die von den Subklassen geerbt
-und implementiert werden können.
-Interfaces werden zur Mehrfacherbung
-benötigt, da eine Subklasse von nur einer 
-Superklasse, oder mehrere Interfaces erben
-kann.

@@ -1,5 +1,0 @@
-Ein elektronischer Katalog ist eine Liste von Gütern die man über das Internet beziehen kann.
-Er besteht meistens aus einer Produktdatenbank (wenn möglich mit Lagerstandsanzeige), eines Kunden, einer Bestellmöglichkeit, einer Zahlungsabwicklung, einer Verständigung des Kunden bei erfolgreicher Bestellung
-Der Administrator muß neue Produkte aufnehmen bzw. bestimmte Produkte herausnehmen, Lagerbestand überprüfen, sich um Produkangebote kümmern
-Der Kunde hat einen Warenkorb in den er bestimmte Güter aus dem Katalog übernimmt.
-Meist erfolgt die Zahlung über Kreditkarte.

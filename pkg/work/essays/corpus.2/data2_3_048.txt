@@ -1,5 +1,0 @@
-Elektronische Kataloge werden hauptsächlich in Form von Datenbanken ins Internet gestellt.
-Früher gab es oft Eigenentwicklungen, heutzutage wird jedoch immer mehr auf Standardsoftware wie SAP umgestellt
-Oberfäch ist eine Internetsite von der aus man auf eine Datenbank zugreifen kann.
-Anbieter hat eben einerseits die Internetseite und andererseits die Datenbank für Generierung von Kundenprofilen
-Kunde sieht die Datenbank auf der Internetseite integriert. wird verwendet für Suche, Vergleiche

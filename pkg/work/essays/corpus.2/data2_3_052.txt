@@ -1,5 +1,0 @@
-Ein elektronischer Katalog listet die Produkte, deren Preise, und Informationen zur Abwicklung des Geschäfts auf.
-Der e-Katalog greift bei Anfragen eines Klients auf Produktdatenbank zu.
-Aus der Sicht des Kunden bietet mir der e-Katalog Vorteile wie Zeitersparnis und Bequemlichkeit, da ich anhand von Kriterien gezielt im Katalog "blättern" kann.
-Man kann die Verfügbarkeit eines Produktes abfragen.
-Aus der Sicht des Anbieters bringt es Einsparungen im Werbebereich. Durch Zählen der Seiten- / Produktabfragen kann gezielter gearbeitet werden, bessere Plazierung der Produkte nach Kundeninteresse

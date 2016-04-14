@@ -1,2 +1,0 @@
-Was nun bei der Singulärwertzerlegung diese Distanzbestimmung etwas erschwert, ist der Umstand, dass wir, wenn wir als Basis für unseren k-dimensionalen semantischen Raum die k künstlichen Konzepte, welche gerade den Zeilen (die identisch sind mit den Spalten) der quadratischen Diagonal-Matrix S entsprechen, verwenden, alle Vektoren auf die Länge 1 normiert haben. Um wahre Aussagen über Entfernungen dieser Punkte voneinander zu erhalten, müssen wir jeweils wieder mit den Singulärwerten aus S gewichten und somit die entsprechende Skalierung wieder rückgängig machen.
-

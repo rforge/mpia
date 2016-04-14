@@ -1,6 +1,0 @@
-Wird jedoch die Basismaschine durch eine virtuelle Maschine (VM) hinreichend
-abstrahiert und existiert ein wohldefiniertes, homogenes Typsystem
-für diese VM, welches zudem noch vollständig selbstbeschreibend
-ist, sollte die Definition in Form von IDL überflüssig sein. In der Tat wird
-dies bereits durch die Java-Plattform mit der Remote Method Invocation
-(RMI) Technik umgesetzt.

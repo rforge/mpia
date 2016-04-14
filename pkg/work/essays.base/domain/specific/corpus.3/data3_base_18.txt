@@ -1,1 +1,0 @@
-LeserBlattBindung: Index aus Merkmalen, die als Indikatoren für die Kontaktqualität betrachtet werden. Das sind u.a.: Lesefrequenz, Anzahl der Lesetage, Lesedauer, Leseort, Lesemenge, Anzahl der Seitenkontakte (gemessen mit CopyTests), Werbeaufgeschlossenheit, Nähe zur Zeitschrift, Bewertung redaktioneller Beiträge, Grad der Enttäuschung wenn es das Blatt nicht mehr gäbe.

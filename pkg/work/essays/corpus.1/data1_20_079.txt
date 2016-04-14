@@ -1,3 +1,0 @@
-Information Hiding bedeutet den Zugriff auf Instanzvariablen zu erschweren, in dem man sie "private" deklariert. Dadurch müssen eigene Methoden geschrieben werden, mit denen auf die Variable zugegriffen werden kann.
-In obigen Bsp.: private String nachname;
-Dadurch kann von außerhalb der Klasse nur durch getVorname() zugegriffen werden.

@@ -1,6 +1,0 @@
-Ein Interface ist ein Programmteil der in die
-Klasse über das Keyword "implementiert" in die
-Klasse eingebunden wird. Ein Interface
-kann Methoden beinhalten
-interface = a
-class Aclass implements a

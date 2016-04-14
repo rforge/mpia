@@ -1,5 +1,0 @@
-Interface ist die Schnittstelle. Über die Schnittstelle
-werden die Objekte der Klasse(n) miteinander
-kommunizieren.
-Es ermöglicht das Verstecken von anderen Teilen
-des Programmes hinter dieses Interface.

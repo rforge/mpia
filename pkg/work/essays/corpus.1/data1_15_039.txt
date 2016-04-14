@@ -1,3 +1,0 @@
-Information Hiding dient dazu, gewisse hier z.B. die Variable
-"String nachname" zu verstecken, d.h. sie nicht von jeder beliebigen Klasse (oder Program) ausführbar zu machen.
-Das wird hier durch die Eigenschaft "privat" gekennzeichnet.

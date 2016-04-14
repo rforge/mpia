@@ -1,2 +1,0 @@
--> einheitliche Schnittstelle von verschiedene
-Klassen.

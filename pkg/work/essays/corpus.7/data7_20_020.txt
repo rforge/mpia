@@ -1,4 +1,0 @@
-Wird benötigt, um zu einer oder mehreren
-Klassen eine Schnittstelle herzustellen.
-Durch Interfaces kann gleichzeitig von
-mehreren Klassen geerbt werden.

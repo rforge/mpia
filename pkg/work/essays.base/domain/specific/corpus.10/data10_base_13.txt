@@ -1,4 +1,0 @@
-Integrationsstrategien: Der Aspekt der Testeffizienz, also des Verhältnisses zwischen
-Testkosten (Personalaufwand, Werkzeugeinsatz usw.) und Testnutzen (Anzahl und
-Schwere der aufgedeckten Fehlerwirkungen) in der nächsten Teststufe führt zur Frage, in
-welcher Reihenfolge die Einzelkomponenten integriert werden sollten.

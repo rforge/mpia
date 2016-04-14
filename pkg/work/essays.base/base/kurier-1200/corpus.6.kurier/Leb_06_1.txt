@@ -1,5 +1,0 @@
-Gefriert kaltes Wasser schneller als heißes?
-Kommt darauf an: Stellt man zwei Schraubgläser mit gleich viel Wasser (eines mit heißem, eines mit kaltem) in den Tiefkühler, gefriert das kalte schneller, weil das heiße schon mehr Zeit braucht, um auf Zimmertemperatur abzukühlen.
-
-Stellt man aber zwei offene Schalen hinein, friert das heiße vor dem kalten. Grund ist die Verdunstung: Bis zu einem Viertel des heißen Wassers geht beim Abkühlprozess verloren. Das beschleunigt das Gefrieren zweifach - es ist weniger Wasser da, das zu Eis werden muss. Und durch die Verdunstung entziehen die Moleküle der Flüssigkeit zusätzlich Energie.
-

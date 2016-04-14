@@ -1,5 +1,0 @@
-Sammlung von den verschiedensten Produkten (und deren Daten) in einem IT-System um diese den Kunden online zum Kauf anzubieten
-User Interface: optische Bereitstellung der Produkte
-Datenbank: Speicherung der Produktdaten und Kundendaten
-Anbieter: stellt die Produktdaten in die Datenbank, erhält die Bestellung vom Kunden, Auftragsbearbeitung, verschickt die Produkte
-Kunde: Auswahl der Produkte im User Interface, Registrierung beim Anwenden, Bestellung der Ware, Erhalt der Ware, Bezahlung der Ware (hängt von der Art der Bestellung ab)

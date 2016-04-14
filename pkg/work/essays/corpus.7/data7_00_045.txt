@@ -1,2 +1,0 @@
-Wir können auch eine Klasse
-als interface deklarieren.

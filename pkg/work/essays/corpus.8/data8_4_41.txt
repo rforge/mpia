@@ -1,6 +1,0 @@
-Beibehaltung: individuelles produkt kostet mehr als standard produkt.
-standardprodukt kann nicht alle probleme des betriebes lösen
-um zu Reengineering des individualprodukts brauchen
-wir IT Kräfte deshalb personalkosten höher werden.
-und also eine neue programerstellung kostet auch
-zu viel (zum Beispiel SAP)

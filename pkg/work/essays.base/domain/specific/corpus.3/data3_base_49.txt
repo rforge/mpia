@@ -1,2 +1,0 @@
-Das Verfahren besitzt jedoch auch einen Vorteil. Es ist damit möglich, aus der großen Anzahl der zur Verfügung stehenden Medien die interessanten herauszu-finden. Insofern hat dieses Verfahren eher die Funktion eine Vorauswahl an Me-dien zu treffen, die dann einer aufbauenden Optimierung unterzogen werden
-(kann problematisch sein, da u.U. nur suboptimale Lösungen gefunden werden können).

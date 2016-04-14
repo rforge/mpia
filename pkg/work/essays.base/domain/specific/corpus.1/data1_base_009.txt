@@ -1,4 +1,0 @@
-Die einzelnen Anwendungen haben gemeinsame Teile: Sowohl der Verbindungsaufbau
-als auch das Webportal arbeiten mit Telefonkunden; sowohl die
-Nutzer des Webportals als auch die Verwaltung sehen in Telefonrechnungen ein.
-Die Anwendungen werden zu einer komplexen Anwendung zusammengesetzt.

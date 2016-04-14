@@ -1,1 +1,0 @@
-Ausgangspunkt der Methode ist die Menge der klassisch gebildeten Vektoren für jedes Dokument, d.h. jeder Eintrag bezeichnet einfach die jeweilige Häufigkeit des entsprechenden Terms in diesem Dokument. Stellen wir diese Vektoren nebeneinander, erhalten wir ein rechteckiges Schema von Zahlen, genannt Matrix. Dabei stehen in den Zeilen die Terme, in den Spalten die Dokumente:

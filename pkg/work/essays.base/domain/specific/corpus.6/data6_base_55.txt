@@ -1,2 +1,0 @@
-dA = xAT’S’-1		(S’-1 bezeichnet die Inverse Matrix von S’)
-

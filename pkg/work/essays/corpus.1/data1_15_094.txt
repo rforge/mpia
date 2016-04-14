@@ -1,2 +1,0 @@
-Information Hiding verfolgt das Konzept der Sicherheit vor unauthorizierter Manipulation des Datenmaterials und ermöglicht eine nachfolgende einfache Änderung des Programmes, da nicht der gesamte Quellcode überarbeitet werden muß sondern die einzelen Methoden, die geändert werden sollen!
-In diesen Beispiel zum Beispiel könnte man in Get Nachname () noch weitere features einbauen (Bsp. Get Nachname ruft eine Methode auf die ein Logfile mit den Daten des Abfragers speist)

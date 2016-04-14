@@ -1,4 +1,0 @@
-Ein Interface ist eine Schnittstelle die
-Objekten erlaubt bestimmte Merkmale weiterzugeben.
-So kann eine Subjklasse nur von einer Superklasse
-erben, jedoch von mehreren Interfaces.

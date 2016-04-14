@@ -1,2 +1,0 @@
-Leider muss bei diesem Ersetzen der Term-Dokument-Matrix X durch eine Näherung X’ auch beachtet werden, dass das Retrieval nicht mehr auf dieselbe Weise durch Nachsehen der Einträge in X’ geschehen kann. Es müssen zusätzliche Regeln angegeben werden, wie das Retrieval nun zu geschehen hat, und die sind nicht ganz leicht zu verstehen. Trotzdem möchte ich kurz umreissen, wie dies von statten geht:
-

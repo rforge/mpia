@@ -1,4 +1,0 @@
-Definition 6. Eine Vererbungsabhängigkeit liegt genau dann vor, wenn ein gemeinsamer
-Vorfahre beider Rollen existiert und alle von diesem Vorfahren geerbten
-Attribute und nicht überschriebenen Methoden in den Rollen gleichheitsabhängig
-sind.

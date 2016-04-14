@@ -1,6 +1,0 @@
-Elektronischer Katalog
-ein Sortimentskatalog bei Firmen in elektronischer Form, der die Beschreibung der Produkte enthält.
-Hauptkomponente: Firmenname, Produktnummer, Produktbeschreibung, Preis, Zahlungs- und Lieferbedingungen Verwaltung von Kundenprofilen
-Vorteile für den Anbieter: er schafft sich eine neue Kundenbasis geringere Kosten für Marketing und Werbung
-Vorteile für den Kunden: Bequemlichkeit, 24h-Erreichtbarkeit, niedrige Preise, größere Auswahl, bessere Vergleichsmöglichkeiten, on-line Zahlungen
-kann auch mehrere Sprachen unterstützen

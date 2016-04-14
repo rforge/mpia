@@ -1,2 +1,0 @@
-Eine Anfrage wird als „Pseudo-Dokument“ im Schwerpunkt der gewichteten enthaltenen Terme als neuer Punkt im semantischen Raum platziert, ist also charakterisiert durch einen Vektor der Länge k von „Gewichten“, welche die Stärke der Assoziation mit jedem dieser zugrundeliegenden künstlichen Konzepten anzeigt. Die Dokumente in der Nähe werden zurückgegeben, wobei das oben beschriebene Cosinus-Mass verwendet wird.
-

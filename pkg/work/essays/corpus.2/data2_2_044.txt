@@ -1,4 +1,0 @@
-elektronischer Katalog listet Produkte eines Distributors auf auf und gibt genaue Beschreibung und Spezifikation dazu.
-Elektronische Kataloge vereinen vielfach das Angebot mehrerer Anbieter und haben somit größere Auswahl.
-Wenn mit dem Katalog die Möglichkeit eines tatsächlichen Einkaufs verbunden ist, spricht man von einem Verkaufskanal.
-=> Einsparung im Vertrieb u. Marketing -> 1:1 Marketing u. Cross-Selling; 24h erreichbar

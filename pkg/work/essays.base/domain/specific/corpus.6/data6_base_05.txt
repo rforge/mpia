@@ -1,3 +1,0 @@
-
-Die Hoffnung bei der Anwendung von SVD für LSI ist nun, dass die grossen Singulärwerte, die dann übrigbleiben, die zugrundeliegende semantische Struktur genauer wiedergeben.
-

@@ -1,4 +1,0 @@
-Die Festlegung und Analyse von Anforderungen erfolgt unter dem Stichwort Requirements
-Engineering. Bei der Festlegung der Anforderungen gibt es viele Interessenskonflikte. Typischerweise
-ist eine Gruppe sehr unterschiedlicher Personen in die Anforderungsanalyse einbezogen (Auftraggeber,
-Auftragnehmer, Nutzer, Projektleiter, Entwickler, . . . ).

@@ -1,5 +1,0 @@
-Quasi zum Warmlaufen wollen wir mit einem groben Überblick über Es geht los. . .
-die prinzipielle Architektur und die grundlegenden Vorgänge auf der
-.NET-Plattform beginnen. Bereits in den folgenden Abschnitten werden
-Sie auf viele Begriffe stoßen, die Sie durch das gesamte Buch begleiten
-werden.

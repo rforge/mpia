@@ -1,4 +1,0 @@
-Ein Interface ist eine einheitliche Schnittstelle in Java.
-Interfaces treten in Zusammenhang von Vererbung
-und Abstraktion auf. Subklassen können beliebig viele
-Interfaces beinhalten.

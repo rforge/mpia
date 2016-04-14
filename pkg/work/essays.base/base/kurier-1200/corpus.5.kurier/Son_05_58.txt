@@ -1,9 +1,0 @@
-ZUBEHÖR
-
-Aufgeklappt und aufgeschrieben
-Auf einem herkömmlichen Handy ein langes eMail oder gar einen "Roman" zu schreiben, stellt ob der viel zu kleinen Tasten, bzw. viel zu großen Finger bestimmt eine gewisse Herausforderung dar. Seither machen sich Entwickler auf der ganzen Welt Gedanken, wie sich die kleinen Tasten vergrößern lassen.
-
-Siemens hat etwa eine virtuelle Tastatur entwickelt: In einem Handy sind eine Infrarotkamera und eine Laserdiode eingebaut, die die Tastatur in roter Farbe auf diverse Oberflächen projiziert. Tippt man auf die virtuellen Tasten, so reflektieren die Finger den Laserstrahl und ein Chip erkennt, um welche Taste es sich handelt. Marktreife hat die virtuelle Tastatur bis dato noch nicht erlangt.
-
-Für Handys, die die Drahtlostechnologie Bluetooth beherrschen, gibt es bereits aufklappbare Tastaturen zu kaufen, wie etwa das Wireless Keyboard (149 Euro) von Nokia. Für jene, die es nicht stört, dass sie ein brieftaschengroßes Stück bei sich tragen müssen, eignet es sich gut für ein mobiles Büro. Energie kommt von zwei kleinen 1,5-Volt-Batterien, drei Leuchtdioden zeigen an, ob die Tastatur eingeschaltet ist und ob es eine Verbindung zum Handy gibt. Auf dem Drahtlos-Keyboard gibt es sogar Schnellzugriffstasten auf das Handy-Menü.
-

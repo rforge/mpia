@@ -1,5 +1,0 @@
-elektronischer Katalog:
-Es ist ein virtueller Katalog, der Infos über Preise, Menge, Produkte anbietet
-Ablauf: Kunde erhält einem elektronischem Warenkorb, in den er sogenannte Produkte ablegen kann -> Bestätigung gespeichert -> Lieferweg nachverfolgen -> Einsparen v. Kosten durch größeren Mengen (Auswahl)
-Ablauf Anbieter: kann Stammdaten besser verwalten -> es kommt zu einer neuen Art der Kundenregistrierung -> kann die Kundendaten verwenden als Profile  (Kaufverhalten, Altersgruppe, Anzahl der Produkte)
-E-Katalog -> dynamisch, virtueller Katalog

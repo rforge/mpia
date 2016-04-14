@@ -1,4 +1,0 @@
-Problem: Dies ist nur ein Szenario unter vielen. Die Schwierigkeit liegt darin, mit einer handhabbaren
-Menge von Szenarien die Funktionalität hinreichend genau zu beschreiben. Eine zweite
-Schwierigkeit ist die Erfassung von Abhängigkeiten zwischen den Nutzungsfällen (feature interaction
-). Wir unterscheiden zwischen erwünschten und unerwünschten Abhängigkeiten.

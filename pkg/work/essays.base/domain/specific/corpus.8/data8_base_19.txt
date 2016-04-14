@@ -1,8 +1,0 @@
-Grundsätzlich ist für multidimensionale Entscheidungsprobleme die Nutzwertanalyse [15] ein
-geeignetes Instrument, weil mehrere Ziele mit unterschiedlicher Gewichtung in die Entscheidung
-eingebracht werden können. Die kritischen Teilschritte einer Nutzwertanalyse sind die
-Festlegung von Gewichten für die einzelnen Ziele sowie die Bewertung aller Alternativen
-bzw. Möglichkeiten anhand der Ziele. Aus diesen Angaben wird jeweils der Nutzwert einer
-Alternative ermittelt, indem die Produkte aus Gewicht und Bewertung über alle Ziele summiert
-werden. Diese Vorgehensweise findet sich auch bei Scoring-Modellen und beim Analytic
-Hierarchy Process (AHP) [13].

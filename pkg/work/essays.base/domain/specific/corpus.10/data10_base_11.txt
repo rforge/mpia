@@ -1,2 +1,0 @@
-Sie begründen, warum o.g. Schnittstellenfehler im Komponententest nicht gefunden werden
-können.

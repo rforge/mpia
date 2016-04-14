@@ -1,1 +1,0 @@
-Nachteile einer nicht inkrementellen Integration – auch big bang genannt – darstellen.

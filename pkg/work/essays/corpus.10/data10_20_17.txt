@@ -1,3 +1,0 @@
-komponententest: die einzelnen komponenten werden auf ihre funktion getestet und ob diese den anforderungen entsprechen
-integrationstest: hier wird das zusammenspiel der funktionen der komponenten getestet
-systemtest: das komplette system wird getestet, ob es den spezifikationen entspricht

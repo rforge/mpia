@@ -1,4 +1,0 @@
-software test ist prozess, bei dem geprüft wird ob software bestimmten spezifikationen entspricht
-komplette fehlerfreiheit kann jedoch nicht nachgewiesen werden
-die diversen abstraktionsebenen der software-systeme bei denen getestet wird ist komponententest, integrationstest, systemtest
-testverfahren lassen sich in white box und black box unterteilen

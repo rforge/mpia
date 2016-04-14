@@ -1,2 +1,0 @@
-Interfaces werden wie Klassen definiert: Interface name {
-Interfaces bieten Schnittstellen an.

@@ -1,2 +1,0 @@
-Da beim Multiplizieren von Matrizen Produkte der Einträge addiert werden, und die Reihenfolge bei der Addition egal ist, können Zeilen und Spalten der Matrix S vertauscht werden, solange auch die entsprechenden Spalten von T oder Zeilen von D auf dieselbe Weise vertauscht werden (solange also wieder dieselben Einträge miteinander multipliziert werden.)
-

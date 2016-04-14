@@ -1,2 +1,0 @@
-I.H. meint das versteckte Übergeben von Informationen, die man nur bekommt, wenn man bestimmte Parameter kennt.
-Das soll verhindern, dass immer jeder auf alle Infos zugreifen und sie einsetzen kann.

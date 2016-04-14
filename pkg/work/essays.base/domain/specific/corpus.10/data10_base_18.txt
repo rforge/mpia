@@ -1,3 +1,0 @@
-Testziele: Der Systemtests validiert, ob die an das System gestellten Anforderungen erfüllt
-werden, wobei funktionale und nicht-funktionale Anforderungen unterschieden werden. Die
-entsprechenden Merkmale nach [ISO 9126] sind vorzustellen und kurz zu erläutern.

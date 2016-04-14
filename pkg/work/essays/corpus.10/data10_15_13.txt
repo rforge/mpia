@@ -1,3 +1,0 @@
-white box verfahren: es wird der quellcode überprüft auf richtigkeit
-black box verfahren: es wird überprüft ob das programm das tut, was es soll
-integrationstest: integration in anderen software-systemen wird überprüft

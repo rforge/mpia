@@ -1,2 +1,0 @@
-Die Methode liefert ein Mass für die Ähnlichkeit von Dokumenten oder Termen untereinander sowie die Relevanz eines Terms für ein Dokument.
-

@@ -1,1 +1,0 @@
-Leser: Anzahl der Personen, die eine Ausgabe einer Zeitung oder Zeitschrift gelesen oder durchgeblättert hat. Unter der Formulierung " Zeitung/Zeitschrift gelesen oder durchgeblättert" wird auch der ?WerbeträgerKontakt (im Gegensatz zum ?WerbemittelKontakt, der nur den Kontakt mit der jeweiligen Werbebotschaft umfasst) verstanden.

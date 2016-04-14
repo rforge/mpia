@@ -1,2 +1,0 @@
-Andererseits können reale konzeptuelle Beziehungen komplexe Strukturen wie lokale Hierarchien und Interaktionen zwischen Bedeutungen enthalten, die eine gewisse Dimension benötigen, um sinnvoll angenähert werden zu können. Eine Dimension, die dafür zu klein ist, ist somit nicht wünschenswert, aber wird auch gar nicht angestrebt, da wir die semantische Struktur nicht interpretieren wollen, auch nicht geometrisch visualisieren, verstehen oder die neuen Konzepte verbalisieren.
-

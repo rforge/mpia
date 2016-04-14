@@ -1,6 +1,0 @@
-verstecken der Implementierung der Klasse hinter einer Methode,
-ich habe Zugriff nur über Methoden
-class Student{}
-string name=new string
-string semester=new string {
-this.name=name;

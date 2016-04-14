@@ -1,4 +1,0 @@
-Ein Interface ist eine Schnittstelle die
-der Kommunikation nach auﬂen dient. Mit
-Hilfe eines Interfaces kann definiert werden
-worauf zugegriffen werden soll.

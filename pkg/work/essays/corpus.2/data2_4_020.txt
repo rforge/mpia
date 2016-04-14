@@ -1,3 +1,0 @@
-Ein elektronischer Katalog ist dadurch gekennzeichnet, daß er sich dynamisch Daten aus ein Datenbank holen kann.
-Aus Administratorsicht ist die Datenbankpflege und -wartung wichtig, um immer auf aktuellstem Stand zu sein.
-Aus Kundensicht ist ein elektr. Katalog dafür geeignet, in Webshops einzukaufen evtl. hat dieser die Funktion einer Online-Warenverfügbarkeitsabfrage (Bsp: NRE.at)zusätzlich gibt es die Möglichkeit sich über das Produkt zu informieren und evtl. Preisvergleiche anzustellen (Bsp.: Geizhals.at) 

@@ -1,8 +1,0 @@
-Die Reihenfolge der durchzuführenden Projekte wird beim integrationsorientierten Reengineering
-auch durch Ziele beeinflußt, die nicht mit der Integration selbst in Verbindung stehen.
-Die Anwendung einer um den Analytic Hierarchy Process ergänzten Nutzwertanalyse bei der
-Priorisierung der Integrationsschritte ermöglicht es, integrationsspezifische und sonstige Zielsetzungen
-in einem Modell zu erfassen und realistisch zu bewerten. Die wesentlichen
-Vorteile der Nutzwertanalyse (Einfachheit und niedrige Entscheidungskosten) bleiben
-erhalten, die häufig willkürliche Zielgewichtung und Bewertung der einzelnen Alternativen
-kann allerdings vermieden werden.

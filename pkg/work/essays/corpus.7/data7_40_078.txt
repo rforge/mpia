@@ -1,8 +1,0 @@
-In Java gibt es die Möglichkeit zu einer odermehreren
-Klassen eine Schnittstelle nach außen zu definieren und
-anzuwenden.
-Ein Interface ist ähnlich wie eine abstrakte Klasse enthält aber
-keine Implementierung.
-Interface definiert Namen und Methoden.
-Eine Subjklasse kann von beliebig vielen Interfaces und
-maximal einer abstrakten Klasse erben.

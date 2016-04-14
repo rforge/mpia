@@ -1,8 +1,0 @@
-Elektronische Katalog:
-Anbieter: 
-Zusammenfassen verstreuter Informationen über z.B. Produkte, Preise auf verschiedene Web-Seiten in eine Seite, anhand beliebiger Kriterien
-kann Branchenmäßig, Industriezweig (horizontal, vertikal) geschehen
-Kunde:
-Angebote verschiedener Hersteller in einer Webseite integriert 
-Vorteile: Schneller Informationsgewinn
-Nachteile: Aktualität der Information ist entscheidend 

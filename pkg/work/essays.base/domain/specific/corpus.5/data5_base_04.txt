@@ -1,6 +1,0 @@
-Als Metadaten bezeichnet man allgemein „Daten über Daten“, d.h. alle Informationen,
-die an Daten annotiert sind. Dies können inhaltsunabhängige Metadaten wie der
-Dateityp oder das Erstellungsdatum sein, oder aber inhaltsbezogene Metadaten wie z.B.
-Thema oder Kategorie eines Dokuments. Kashyap und Sheth nennen als Aufgabe der
-Metadaten, die wesentlichen Informationen über eine Datenquelle unabhängig von ihrer
-Repräsentation zu erfassen [1].

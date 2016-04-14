@@ -1,3 +1,0 @@
-Lastenheft: Dokument, das alle Anforderungen an das System aus Sicht des Auftraggebers / Nutzers
-festhält. Dies ist insbesondere bei Auftragsvergabe und / oder Ausschreibungen von
-Bedeutung.

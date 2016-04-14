@@ -1,7 +1,0 @@
-Information hiding wird im Java benutzt, um den zugriff auf klassen Methoden oder Variablen zu regeln.
-Das prinzip wird auch Datenkapselung genannt.
-Es gibt vier mögliche Einstellungen:
-public: der Zugriff aus allen Klassen möglich
-private: nur die Klasse, in der das als private erstellte Objekt deklariert wurde und daraus abgeleitete Klassen + Klassen des gleichen Packages können darauf zugreifen
-protected: nur die Klasse, in der es erstellt wurde + Klassen des gleichen Packages können darauf zugreifen
-wird kein Wert gesetzt wird automatisch der Standardwert package verwendet

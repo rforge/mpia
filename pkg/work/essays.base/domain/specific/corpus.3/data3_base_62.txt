@@ -1,5 +1,0 @@
-Die aus diesen Anforderungen resultierenden Konsequenzen für die Werbewirkung werden in der Mediaplanung durch eine Gewichtung der Kontakte (Reichweite) mit den drei Komponenten
-Personengewichtung
-Werbeträgergewichtung
-Kontaktmengengewichtung
-berücksichtigt  es wird also eine gewichtete Reichweite (bzw. gewichtete Kontaktsumme) errechnet. Die gewichtete Reichweite ist demnach noch aussagekräftiger als die qualifizierte Reichweite und erlaubt eine möglichst realitätsnahe Formulierung des Mediaselektionsproblems als Zielkriterium. Andererseits beansprucht die gewichtete Reichweite ein höheres Maß an Informationen. Dennoch stellt die gewichtete Reichweite das heute übliche Zielkriterium für die Mediaselektionsverfahren dar.

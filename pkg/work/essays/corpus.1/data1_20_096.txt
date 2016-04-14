@@ -1,1 +1,0 @@
-Man hat die Variablen nachname und angemeldet private deklariert. Damit können die Werte und der Zugriff nur über Methoden ausgelesen werden. Zugriffsbeschränkung weil man aus anderen Klassen nicht auf diese Variablen zugreifen kann.

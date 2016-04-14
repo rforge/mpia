@@ -1,7 +1,0 @@
-Ein Interface ist eine Schnittstelle
-für ein Programm beziehungsweise mehrere Klassen.
-code: interface anInterface;
-Durch das importieren mehrerer Interfaces
-ist eine Art Mehrfachvererbung möglich
-code class AClass implements anInterface1
-anInterface2;

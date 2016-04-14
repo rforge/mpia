@@ -1,5 +1,0 @@
-Ein Nutzungsfall (use case) bezeichnet eine Form der Nutzung eines Systems. Im Funktionenmodell
-führen wir als erstes eine Liste der Nutzungsfälle auf. Dadurch wird eine Abgrenzung der
-Funktionalität erreicht und die Entscheidung getroffen, welche Funktionen verfügbar sein sollen und
-welche nicht. Gegebenenfalls wird eine Priorisierung vorgenommen. Damit ist noch nicht festgelegt,
-was ein use case tatsächlich an detaillierter Funktionalität bedeutet.

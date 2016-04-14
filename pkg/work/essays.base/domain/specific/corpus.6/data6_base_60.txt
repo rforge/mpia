@@ -1,9 +1,0 @@
-Wert von k:		niedrig				hoch
-
-Vorteile :			schneller			exaktere Näherung
-(Motivation)			nur Wichtiges
-
-Nachteile:			zu ungenau für			langsamer
-(wenn zu extrem)		komplexe Strukturen		störende Details
-
-

@@ -1,1 +1,0 @@
-die Variablen nachname und angemeldet sind hidden Variablen; d.h. nur die Mitglied Funktion der Klasse können den Zugriff haben; Ausserhalb der Klasse kann man die Werte lesen noch ändern

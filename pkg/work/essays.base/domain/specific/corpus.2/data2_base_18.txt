@@ -1,4 +1,0 @@
-Während der Auftragsbearbeitung erhält der Händler detaillierte
-Informationen zu den einzelnen Artikel-Varianten (welche Farben und Typen
-existieren usw.). Dadurch werden Fehler vermieden und die Bestellung zum
-Lieferanten beinhalten nur tatsächlich lieferbare Artikelvarianten.

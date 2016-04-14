@@ -1,4 +1,0 @@
-Schnittstelle
-es können die Namen der Variablen
-und die Namen der Methoden (-> parameter
-und Rückgabewerte) definiert werden.

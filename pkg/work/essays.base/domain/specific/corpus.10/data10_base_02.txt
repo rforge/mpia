@@ -1,3 +1,0 @@
-Charakterisierung der Testobjekte: Kennzeichnend für den Komponententest ist, dass
-jeweils ein einzelner Softwarebaustein isoliert überprüft wird. Die zu testende Komponente
-kann auch eine aus mehreren Bausteinen zusammengesetzte Einheit sein.

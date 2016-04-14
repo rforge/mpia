@@ -1,5 +1,0 @@
-Interface = Schnittstellen zwischen
-verschiedenen Teilbereichen;
-Erst mit Hilfe von Interfaces wird eine
-Kommunikation zwischen den Bereichen
-möglich

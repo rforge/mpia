@@ -1,2 +1,0 @@
-Neben dieser rein technischen Motivation gilt es aber noch die Hypothese des zugrunde¬liegenden semantischen Raumes und die Unzuverlässigkeit der Daten zu beachten: Wir wollen den Raum nämlich gar nicht exakt wiedergeben, sondern nur vernünftig. Es besteht nun nämlich die Hoffnung, dass die grossen Singulärwerte gerade die wichtigen und zuverlässigen Strukturen der Daten modellieren, und die kleinen Details eher Störungen wie z.B. Redundanz darstellen, die wir lieber loswerden wollen.
-

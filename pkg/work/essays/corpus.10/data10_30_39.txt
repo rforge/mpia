@@ -1,3 +1,0 @@
-komponententest: einzelne komponenten werden für sich getestet. (testparameter für schnittstellen werden künstlich generiert - nicht von anderen komponenten)
-integrationstest: zusammenspiel von systemkomponenten wird getestet (einige / alle komponenten beteiligt)
-systemtest: das gesamtsystem aus endbenutzersicht wird getestet (typischer black box test)

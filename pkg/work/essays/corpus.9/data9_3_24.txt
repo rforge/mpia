@@ -1,7 +1,0 @@
-die hauptaufgaben bei der anforderungsanalyse sind:
-spezifizieren: man erstellt die spezifikation
-der aktuelle wissensstand
-repräsentieren: man kommuniziert die spezifikation
-verhandeln: man geht sicher, daß alle beteiligten damit
-einverstanden sind; probleme: da unterschiedlicher
-wissensstand, unterschiedliche interessen

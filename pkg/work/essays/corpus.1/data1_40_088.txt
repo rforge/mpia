@@ -1,4 +1,0 @@
-Datenkapselung.
-Verstecken der Implementierung hinter den Methoden.
-kein Zugriff von außen möglich. Erreicht man in dem man Varieblen private deklariert. Zugriff nur über Methodenaufruf möglich. Dazu braucht man Methoden get und set die public definiert werden müssen.
-Über Methode get kommt man zu Wert d. Methode und set kann Wert verändern bzw. setzen.

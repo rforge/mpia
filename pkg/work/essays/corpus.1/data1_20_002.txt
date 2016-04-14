@@ -1,3 +1,0 @@
-Dient dem Sicherheitaspekt
-die Werte der Variablen nachname und angemeldet können nur mit Hilfe von Methodenaufrufen ermittelt werden;
-ansonsten sind diese Variable nicht direkt aufrufbar/ versteckt (vor allem v für Klassen, die der Definition von private nicht entsprechen).

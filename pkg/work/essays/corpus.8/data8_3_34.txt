@@ -1,7 +1,0 @@
-Solange das Individualsystem, das in der Regel genau auf das
-Unternehmen und die Geschäftsprozesse abgestimmt ist, von den Anwendungen
-und der Benutzerfreundlichkeit, den Anforderungen des Unternehmens
-enspricht, sollte es beibehalten werden. Nur bei Mängeln
-oder nichtausreichender Funktionalität sollte auf ein
-Standardsystem, das in der Regel eher allgemeine Funktionen hat
-zurückgegriffen werden.

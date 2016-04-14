@@ -1,9 +1,0 @@
-In der ersten Phase des Vorgehensmodells ist jeweils die Definition des Integrationsschritts
-durchzuführen. Sie besteht im wesentlichen aus der Auswahl des nächsten zu integrierenden
-Systems aus der Menge aller Integrationskandidaten (integrierbare Applikationen). Um eine
-ökonomisch optimale Entscheidung treffen zu können, müßten alle Integrationskandidaten
-wie folgt untersucht bzw. miteinander verglichen werden:
-1. Für jeden Integrationskandidat wird durch Risikoanalysen die optimale Implementierungsmöglichkeit
-bestimmt.
-2. Durch Vergleich der in Phase 1 ermittelten optimalen Implementierungsalternativen aller
-Integrationskandidaten wird der optimale Integrationskandidat bestimmt.

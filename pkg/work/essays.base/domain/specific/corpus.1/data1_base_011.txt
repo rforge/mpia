@@ -1,4 +1,0 @@
-Die Rolle Payer hat eine Assoziation zur Rolle CustomerInvoice, er sieht
-nur die Attribute amount und callListing, nicht jedoch isPayed.Wenn amount
-durch die Verwaltung bei AdministrationInvoice geändert wird, erfährt das
-das entsprechende Objekt der Klasse PrivatePhoneCustomer.

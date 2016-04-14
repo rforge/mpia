@@ -1,6 +1,0 @@
-Die weitere Erarbeitung des Rollenkonzepts besteht darin, es formal zu spezifizieren
-und eine Entwicklungsumgebung dafür zu erstellen. An Letzterem arbeiten
-wir bereits, indem wir ein Plugin für Eclipse erstellen, ähnlich dem in
-[10] beschriebenen. Schließlich wollen wir das Konzept auf objektorientierte Datenbanken
-übertragen, da vor allem dort komplexe und persistente Objekte zu
-finden sind.

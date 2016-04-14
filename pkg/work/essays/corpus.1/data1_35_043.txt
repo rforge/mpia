@@ -1,4 +1,0 @@
-Information Hiding wird in Java durch Deklaration der klassen variablen mit privat erreicht.
-Das bedeutet, dass nur Methoden innerhalb der klasse auf diese Variablen zugreifen können.
-Die Methoden fungieren als Schnittstellen.
-Damit Verhindert man Manipulation oder z.B. versehentliches Löschen der Variablen.

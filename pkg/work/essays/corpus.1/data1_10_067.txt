@@ -1,1 +1,0 @@
-Auf die Variablen von einer Instanz der Klasse Student kann von außen nicht direkt zugegriffen werden. es können nur die Methoden aufgerufen werden um die Variablen anzusehen.

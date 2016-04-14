@@ -1,4 +1,0 @@
-Über Metadaten können heterogene Informationsquellen strukturiert werden, so dass
-über bestimmte Attribute ein einheitlicher Zugriff auf verschiedene Informationsquellen
-durchgeführt werden kann. Dies ermöglicht zielgerichtete Suchanfragen über den
-gesamten Dokumentenbestand und die aktive Bereitstellung von Informationen.

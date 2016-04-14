@@ -1,6 +1,0 @@
-In einem Interface werden definiert
-wie verschiedene Bestandteile
-kommunizieren können. In Superklassen
-wird eine Methode abstract definiert
-sie muß in Subklassen implementiert
-werden

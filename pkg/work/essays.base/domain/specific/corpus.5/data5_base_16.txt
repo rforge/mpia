@@ -1,3 +1,0 @@
-Durch den Zugriff auf das Domänenmodell können dem Benutzer bei der Modellierung
-der Anfrage auf der Oberfläche die möglichen Klassen, Attribute, Vergleichsoperatoren
-und ggf. auch Auswahlmengen für gesuchte Werte präsentiert werden.

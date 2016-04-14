@@ -1,7 +1,0 @@
-In Java gibt es nur einfache Vererbung,
-keine mehrfach Vererbung. Das bedeutet, daß
-jede Klasse nur von einer Superklasse
-erben kann. Durch interfaces wird dies möglich
-(mit implements). Man kann Variablen und
-Methoden definieren. Eine Klasse kann beliebig
-viele Interfaces implementieren.

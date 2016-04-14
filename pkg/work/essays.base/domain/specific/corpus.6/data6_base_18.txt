@@ -1,2 +1,0 @@
-Gemäss dem Thema des Seminars, soll dies nun Sprachdatenbasiert und automatisch, d.h. ohne jegliche menschliche Beurteilung der Semantik von Indizierungstermen geschehen.
-

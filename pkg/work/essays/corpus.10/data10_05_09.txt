@@ -1,6 +1,0 @@
-white box test
-einige artikel des subsystems testen
-black box test
-einige subsysteme des systems testen
-conquest test
-ganzes system wie gesamtheit testen

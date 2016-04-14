@@ -1,2 +1,0 @@
-Variable nachname ist mit "Private" deklariert. Kann nur in der Klasse Student verwendet und verändert werden.
-Sinn: Außerhalb der Klasse nicht sichtbar. veränderbar. Schutz von Außen Zugriff über get und set Befehle.

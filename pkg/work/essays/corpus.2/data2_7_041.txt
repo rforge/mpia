@@ -1,7 +1,0 @@
-elektr. Kataloge dienen der Aggregation v. Daten über bestimmte Produkte
-Aus der Sicht des Kunden kann ein elektr. Kat. Produkte suchen, Preisvergleiche machen, Summe der Einkäufe und daraus Steuern rechnen.
-Bei erfolgter Bestellung erhält der Kunde ein email, während der Lieferzeit kann der Kunde abfragen in welcher Phase das bestellte Produkt ist (bsp. ob es schon geliefert wird).
-Einkaufswagenfkt.
-Der Anbieter kann mit Hilfe der elektr. Kataloge die Kundenprofile verwalten, Statistiken erstellen, Entscheidungsbäume für Rabatte, Skonto rechnen.
-Unterstützt werden auch: Zahlung und Logistiksysteme
-Hauptkomponente: Homepage, Datenbanken

@@ -1,4 +1,0 @@
-Ein Interface ist eine Schnittstelle; Mit einem Interface kann
-definiert werden welche Klasse welche
-Schnittstellen erhält. Eine Klasse kann nur mit einer weiteren Klasse
-aber mit mehreren Interfaces verknüpft sein.

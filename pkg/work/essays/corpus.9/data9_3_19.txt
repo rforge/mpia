@@ -1,7 +1,0 @@
-anforderungsanalyse beinhaltet die aufzeichnung der geschäftsprozesse;
-sollte möglichst genau sein, fehlerfrei, widerspruchsfrei;
-außerdem verständlich;
-beinhaltet im wesentlichen die an das system
-gestellten anforderungen; -> was soll das system können.
-ergebnis der anforderungsanalyse = anforderungsspezifikation
-wichtig: kommunikation, präsentation

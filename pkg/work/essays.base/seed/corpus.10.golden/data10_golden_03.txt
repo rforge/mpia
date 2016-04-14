@@ -1,4 +1,0 @@
-komponenten, integrations- und systemtest
-komponententest: jede einzelne komponente wird separat getestet
-integrationstest: alle komponenten des gesamtsystems werden getestet und es wird überprüft ob sie miteinander ordentlich interagieren
-systemtest: das gesamtsystem wird getestet aus benutzersicht, vor allem ob die systemanforderungen und spezifikationen erfüllt werden.

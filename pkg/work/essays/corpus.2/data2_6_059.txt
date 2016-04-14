@@ -1,5 +1,0 @@
-Listen von Produkten / Services mit Preisen u. Beschreibungen; direkte Bestellung u. Geschäftsabwicklung / Initiierung von Transaktionen möglich;
-Komponenten: Listen, Bestellsystem, Einkaufskorb, Zahlung + Überprüfung + Bestätigung
-oft eingebaut: DB-Anbindung, Web-Server-Schnittstelle, Sicherheit (SSL, SET), WEB Tools, Offline-Testmoduls, Integration in betriebl. Standard-SW etc.
-für Anbieter: Kundenregistrierung, Kundenprofile (frw. Angaben / Kaufverhalten), Zugriffsstatistiken (-> Optimierung des Angebots / Produktpalette, Ranking der meistverkauften Güter)
-für Kunden: Suchmöglichkeiten (nach Produktgruppe, ...), virtueller Einkaufskorb (für später gespeichert), an induviduelle Interessen angepaßte Information aufgrund der Kundenprofile (z.b. amazon.com), Auftragsbestätigung per Mail, Abwicklungsstatus abrufbar, Online-Community

@@ -1,6 +1,0 @@
-Interface in Java ist die Möglichkeit zu
-einer oder mehreren Klassen eine 
-Schnittstelle zu definieren und anwenden.
-Es ist ähnlich wie eine abstrakte
-Klasse. Interface definiert namen der
-Methode und name der Variable.

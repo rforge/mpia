@@ -1,8 +1,0 @@
-anforderungsgewinnung (kontext, umwelt, vorgaben),
-hauptaufgaben: definition, repräsentation, verhandlung
-subprozesse: anforderungsdefinition
-anforderungsspezifikation
-softwarespezifikation
-typen: primäre anforderungen
-abgeleitete anforderungen
-es gibt obligatorische anforderungen, anleitungen und informationen

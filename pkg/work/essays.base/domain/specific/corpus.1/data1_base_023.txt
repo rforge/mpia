@@ -1,6 +1,0 @@
-Zusätzlich zu den Sichtbarkeitsstufen public, protected und private wird
-eine neue Stufe inner eingeführt. Diese ist auf der Ebene zwischen protected
-und public angesiedelt. Auf private darf nur innerhalb einer Rolle zugegriffen
-werden, auf protected innerhalb einer Vererbungshierarichie von Rollen,
-auf inner zusätzlich rollenübergreifend innerhalb einer Klasse und auf public
-klassenübergreifend. inner ist die Voreinstellung.

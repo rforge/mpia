@@ -1,5 +1,0 @@
-Dabei unterscheiden wir zwischen:
-funktionale Anforderungen: Dies sind alle Anforderungen, die den Funktionsumfang des Systems
-betreffen.
-nichtfunktionale Anforderungen: Dies sind Anforderungen an die Realisierung des Systems
-und seine Qualitätseigenschaften.

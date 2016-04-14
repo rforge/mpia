@@ -1,4 +1,0 @@
-Attribute und Methoden können in zwei Rollen einer Klasse verschieden heißen,
-jedoch äquivalent sein, wenn entsprechende Abhängigkeiten definiert sind.
-Sie können gleich heißen und sich unterscheiden, wenn keine Abhängigkeiten
-definiert sind.

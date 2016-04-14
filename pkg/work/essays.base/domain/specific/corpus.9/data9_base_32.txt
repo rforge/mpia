@@ -1,3 +1,0 @@
-Achtung: Nutzungsfälle dienen zunächst vor allem dazu, beispielhaft deutlich zu machen, welche
-Abläufe ein System unbedingt aufweisen soll. Daneben ist oft die Angabe genauso wichtig, welche
-Reaktionen ein System auf keinen Fall haben darf.

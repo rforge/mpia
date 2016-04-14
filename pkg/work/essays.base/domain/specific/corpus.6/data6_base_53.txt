@@ -1,2 +1,0 @@
-Das wichtigste Beispiel soll hier konkret angegeben werden. Eine Anfrage (A) wird als Pseudodokument im Raum platziert. Wo kommt sie zu liegen? Als neues Dokument würde sie ja eigentlich der Term-Dokument-Matrix X’ eine zusätzliche Spalte anfügen, wir nennen diese Spalte xA. Wir wissen, wie diese Spalte aussieht: Die Einträge sind einfach die Häufigkeiten der entsprechenden Terme. In der Zerlegung wäre es eine zusätzliche Spalte der Matrix D’, genannt dA, und diese suchen wir. Durch Umformen der Gleichung X’ = T’S’D’ ergibt sich:
-

@@ -1,4 +1,0 @@
-Information hiding wird mit dem Schlüsselwort private eingeleitet.
-Durch das Deklarieren der Variablen als "private" wird der Zugriff auf diese Variablen von aussen unmöglich.
-Dies ermöglicht (neben der erläuterten Zugriffssteuerung) auch eine leichtere Änderung der Variable ohne dass der äußere programcode geändert werden muß.
-Außerdem wird die Datenmnipulation oder versehentliche Änderung der Daten verhindert.

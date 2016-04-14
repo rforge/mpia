@@ -1,5 +1,0 @@
-Diese Software schlägt die Sat-Bilder der Google Maps im wahrsten...
-Diese Software schlägt die Sat-Bilder der Google Maps im wahrsten Sinn des Wortes um Welten: World Wind 1.3, entwickelt von der NASA, bietet faszinierende Einblicke auf den Planeten Erde aus dem All. Dazu werden Satellitenbilder mit Luftaufnahmen, Animationen der Raumfahrcenter und atmosphärischen Daten verknüpft. Das Ergebnis ist ein faszinierender Rundflug über den Globus.
-
-Die ca. 180 Megabyte große Software kann man kostenlos von worldwind.arc.nasa.gov herunterladen.
-

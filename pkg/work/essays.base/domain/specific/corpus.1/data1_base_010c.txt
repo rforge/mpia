@@ -1,9 +1,0 @@
-Wird z.B. name geändert, so ändert sich auch designation. Die Rolle Rechnung
-(Invoice) hat ein Attribut Betrag und eine Methode, die den Betrag ändert.
-Von Invoice erben zwei Rollen, die zu der Klasse PhoneInvoice zusammengefasst
-sind: Kundenrechnung (CustomerInvoice) und Verwaltungsrechnung
-(AdministrationInvoice). CustomerInvoice liefert eine Übersicht über die
-einzelnen Telefongespräche für den Kunden, und AdministrationInvoice gibt
-Auskunft für die Verwaltung, ob die Rechnung bereits bezahlt wurde. Das von
-Invoice geerbte Attribut amount soll in beiden Rollen immer den gleichen Wert
-haben; die geerbte Methode changeAmount ist semantisch äquivalent.
