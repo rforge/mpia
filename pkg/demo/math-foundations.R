@@ -89,9 +89,6 @@ b %*% x == diag(s) %*% x
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # do the math by hand
 
-library(MASS)
-library(pracma)
-
 space = lsa(dtm, dims=dimcalc_raw())
 
 round ( (space$tk) %*% ( diag(space$sk) %*% t(diag(space$sk)) ) %*% t(space$tk),1 ) # aat

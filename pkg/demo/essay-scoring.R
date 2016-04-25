@@ -3,16 +3,15 @@
 # essays
 
 dmgr = DomainManager()
-#d = dmgr$get("businessgeneric")
 data(essays.domain)
 
-plot(d, method="topographic")
-toponymy(d, method="mountains")
+plot(essays.domain, method="topographic")
+toponymy(essays.domain, method="mountains")
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # add student performances (in this case: essays from exams)
 
-ppl = HumanResourceManager(domainmanager=dmgr, domain=d)
+ppl = HumanResourceManager(domainmanager=dmgr, domain=essays.domain)
 
 data(essays)
 data(essays.students)
@@ -26,7 +25,7 @@ for (i in 1:length(essays)) {
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # group detection
 
-d$identityThreshold = 0.5 # lower identity threshold to get larger groups
+essays.domain$identityThreshold = 0.5 # lower identity threshold to get larger groups
 
 groups(ppl)
 lapply(ppl$groups, function(e) e$getName())
@@ -40,15 +39,15 @@ for (i in 1:length(ppl$groups)) {
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # detect competences
 
-plot(d, method="persp", rotated=TRUE)
-toponymy(d, method="mountains")
+plot(essays.domain, method="persp", rotated=TRUE)
+toponymy(essays.domain, method="mountains")
 plot(competences(ppl), col="green", connect=FALSE, label=F, component.labels=FALSE)
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # plot positions of the students
 
-plot(d, method="topographic")
-toponymy(d, method="gridprestige")
+plot(essays.domain, method="topographic")
+toponymy(essays.domain, method="gridprestige")
 
 for (i in 1:length(ppl$people)) {
    plot(position(ppl$people[[i]]), col="green", component.labels=FALSE, label=TRUE)

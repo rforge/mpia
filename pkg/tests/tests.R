@@ -9,10 +9,10 @@ library(mpia)
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # DEMOS
 
-#demo("sna-lsa-mpia")
-#demo("math-foundations")
-#demo("placement")
-#demo("essay-scoring")
+demo("sna-lsa-mpia")
+demo("math-foundations")
+demo("placement")
+demo("essay-scoring")
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # DOMAIN / DOMAINMANAGER / VISUALISER
