@@ -1,6 +1,4 @@
 
-setwd("~/Documents/werkstatt/mpia-package")
-
 m = diag(rep(1,6))
 rownames(m) = letters[1:6]
 colnames(m) = letters[1:6]
@@ -26,12 +24,10 @@ m["d","f"] = 1
 m["f","c"] = 1
 m["c","f"] = 1
 
-#pdf(file="kamadakawai.pdf", width=6, height=6)
 par(mfrow=c(3,3))
 for (n in c(0:5, (1:3)*50)) {
    p = plot(network(m), mode="kamadakawai", layout.par=list(niter=n*50), main=paste(n, "iteration(s)"), vertex.col="white", vertex.cex=3, usearrows=FALSE)
 }
-#dev.off()
 
 # - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -62,7 +58,6 @@ calculateReliefContour = function( netc, nrow=100, ncol=100 ) {
 
 res = calculateReliefContour(netc=p)
 
-#pdf(file="kamadakawai-wireframe.pdf", width=8, height=8)
 persp(res$hills, scale=FALSE,
 	expand=0.5,
 	border="white",
@@ -79,11 +74,9 @@ persp(res$hills, scale=FALSE,
 	shade=TRUE, ltheta=70, lphi=45 # light source position: ltheta=angle in xy plane; lphi: angle to z axis
 
 )
-#dev.off()
 
 # - - - - - - - - - - - - - - - - - - - - - - - -
 
-#pdf(file="kamadakawai-wireframe-smoothened.pdf", width=8, height=8)
 persp(res$wireframe, scale=FALSE,
 	expand=0.5,
 	border="white",
@@ -99,7 +92,6 @@ persp(res$wireframe, scale=FALSE,
 	shade=TRUE, ltheta=70, lphi=45 # light source position: ltheta=angle in xy plane; lphi: angle to z axis
 
 )
-#dev.off()
 
 # - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -116,9 +108,7 @@ topo.colors.pastel = function ( n = 21) {
    return(cs)
 }
 
-#pdf(file="topocolors.pdf", width=5, height=5)
 barplot(rep(0.05,21), ylim=c(0,1), col=topo.colors.pastel(), xaxt="n", yaxt="n", space=0, border="black")
-#dev.off()
 
 # - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -134,8 +124,6 @@ b = FALSE
 border = "black"
 theta = 10
 phi = 30
-
-#pdf(file="kamadakawai-wireframe-topocolors.pdf", width=8, height=8)
 
 mapData = persp(
 
@@ -158,5 +146,3 @@ mapData = persp(
 	shade=TRUE, ltheta=70, lphi=45 # light source position: ltheta=angle in xy plane; lphi: angle to z axis
 
 )
-
-#dev.off()

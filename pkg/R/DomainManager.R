@@ -29,15 +29,8 @@ DomainManager <- setRefClass( "DomainManager",
          
          signatures <<- NULL
          
-         ### NOT CONFORM!!! has to be in tempdir!!!
-         ### add a setCacheDir() method to ease access!!!
-         
-         mpiapath = path.package("mpia", quiet=TRUE)
-         if (is.null(mpiapath)) {
-          	# mpiapath = "~/Documents/werkstatt/mpia-package"
-            mpiapath = tempdir()
-         }
-         tempdir <<- path.expand(paste(mpiapath, "/cache/", sep=""))
+         tempdir <<- path.expand(paste(tempdir(), "/mpia-cache/", sep=""))
+         if (!dir.exists(.self$tempdir)) dir.create(.self$tempdir)
          
          caching <<- TRUE
          remoting <<- TRUE

@@ -2,12 +2,9 @@
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # essays
 
-#dmgr = DomainManager()
-#dmgr$tempdir = "~/Documents/werkstatt/mpia-package/cache/"
-#d = dmgr$get("essayscoring")
-
 dmgr = DomainManager()
-d = dmgr$get("businessgeneric")
+#d = dmgr$get("businessgeneric")
+data(essays.domain)
 
 plot(d, method="topographic")
 toponymy(d, method="mountains")
@@ -56,17 +53,4 @@ toponymy(d, method="gridprestige")
 for (i in 1:length(ppl$people)) {
    plot(position(ppl$people[[i]]), col="green", component.labels=FALSE, label=TRUE)
 }
-
-
-# -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
-# evaluate scoring accuracy #broken (goldstandards not included in corpus!)!!
-
-#essay2essay = proximity(performances(ppl))
-#rownames(essay2essay) = rownames(essays.scores)
-#colnames(essay2essay) = rownames(essays.scores)
-#goldstandard = c( "data6_golden_01.txt", "data6_golden_02.txt", "data6_golden_03.txt" )
-#machinescores=NULL
-#for (i in 1:nrow(essay2essay)) machinescores[i] = max( essay2essay[goldstandard, i] )
-#names(machinescores) = rownames(essay2essay)
-#cor.test(humanscores[,1], machinescores, exact=FALSE, method="spearman", alternative="two.sided")
 

@@ -267,8 +267,6 @@ for (p in 1:length(pf)) {
 d$visualiser$closeDevice()
 d$visualiser$newDevice()
 
-#d$visualiser$type="persp"
-
 plot.new()
 par(mar=c(0,0,0,0))
 toponymy(d, method="all", add=FALSE, col="darkgray", grid.col="black")
@@ -283,9 +281,6 @@ plot(path(alba), col="purple")
 plot(alba, col="purple")
 plot(ida, col="lightgreen")
 plot(simon, col="brown")
-
-#plot(paul, col="red")
-#plot(thomas, col="yellow")
 
 proximity(simon, alba)
 near(simon, alba)
@@ -306,9 +301,6 @@ overlap(competences(christina), competences(peter))
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # detect potential competences
-
-
-# <---- STOPPED HERE
 
 plot.new()
 toponymy(d, method="all", add=FALSE, col="darkgray", grid.col="black")
@@ -342,8 +334,3 @@ plot(competences(ppl), col="green", connect=FALSE)
 for (i in 1:length(ppl$groups)) {
    plot(position(ppl$groups[[i]]), col="pink")
 }
-
-# cleanup
-#for (p in rownames(im)) rm(get(tolower(p)))
-#rm(d)
-#rm(dmgr)

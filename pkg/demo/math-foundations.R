@@ -6,16 +6,16 @@ data(stopwords_en)
 docs = matrix(nrow=0, ncol=2)
 colnames(docs) = c("id", "title")
 
-docs = rbind( docs, c("c1", "a web interface for social media applications")) # web social interface
-docs = rbind( docs, c("c2", "Review of access time restrictions to web system usage")) # web access review system time user
-docs = rbind( docs, c("c3", "Content management system usage of the HTML 5 interface")) # interface system html management
-docs = rbind( docs, c("c4", "Error spotting in HTML: social system versus software system")) # social 2x system html
-docs = rbind( docs, c("c5", "Barriers to access and time spent in social mobile apps")) # access time social
+docs = rbind( docs, c("c1", "a web interface for social media applications"))
+docs = rbind( docs, c("c2", "Review of access time restrictions to web system usage"))
+docs = rbind( docs, c("c3", "Content management system usage of the HTML 5 interface"))
+docs = rbind( docs, c("c4", "Error spotting in HTML: social system versus software system"))
+docs = rbind( docs, c("c5", "Barriers to access and time spent in social mobile apps"))
 
-docs = rbind( docs, c("m1", "The generation of random unordered trees")) # trees
-docs = rbind( docs, c("m2", "A survey of divisive clustering along the intersection of partial trees")) # trees clustering intersection
-docs = rbind( docs, c("m3", "Width and height of trees in using agglomerative clustering with Agnes")) # trees clustering agglomerative
-docs = rbind( docs, c("m4", "Agglomerative clustering algorithms: a review")) # clustering agglomerative review
+docs = rbind( docs, c("m1", "The generation of random unordered trees"))
+docs = rbind( docs, c("m2", "A survey of divisive clustering along the intersection of partial trees"))
+docs = rbind( docs, c("m3", "Width and height of trees in using agglomerative clustering with Agnes"))
+docs = rbind( docs, c("m4", "Agglomerative clustering algorithms: a review"))
 
 docs = rbind( docs, c("p1", "The intersection of learning and organisational knowledge sharing"))
 docs = rbind( docs, c("p2", "A transactional perspective on teaching and learning"))
@@ -130,50 +130,7 @@ s[which(is.na(s))] = 0
 # s = sqrt(sqrt(eigen(ata)$value^2)) # to avoid complex numbers due to problematic eigen implementation
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
-# how the eigenvalues and eigenvectors construct the original matrix
-
+# how the eigenvalues and eigenvectors construct the original matrix:
 # the big roundabout through quadratification
 
 round ( pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u )[,1:14] %*% diag(s[1:14]) %*% (( t(v) %*% (t(a)%*%a) %*% v ) %*% t(v) %*% pinv(t(a) %*% a))[1:14,], 1)
-
-#ata x = l x
-#
-#round(ata %*% eigen(ata)$vectors, 1) == round( diag(eigen(ata)$values) %*% eigen(ata)$vectors,1) # not true!!
-#
-#ata x = x diag(l)
-#round(ata %*% eigen(ata)$vectors, 1) == round( eigen(ata)$vectors %*% diag(eigen(ata)$values),1) # true!!
-#
-#t(diag(l) x^-1) = x diag(l)
-#t(x^-1) diag(l) = x diag(l)
-#round(eigen(ata)$vectors,1) == round( t(pinv(eigen(ata)$vectors)),1) # true!!
-#
-#round ( t( diag(eigen(ata)$values) %*% pinv(eigen(ata)$vectors)), 1) == round(eigen(ata)$vectors %*% diag(eigen(ata)$values),1)
-#
-#ata x = t(diag(l) x^-1)
-#round(ata %*% eigen(ata)$vectors, 1) == round(  t( diag(eigen(ata)$values) %*% pinv(eigen(ata)$vectors)) ,1) # true!!
-#
-#ata x = t(x^-1) t(diag(l)) = t(x^-1) diag(l)
-#ata x = t(x^-1) diag(l)
-#round(ata %*% eigen(ata)$vectors, 1) == round( t(pinv(eigen(ata)$vectors)) %*% diag(eigen(ata)$values) ,1) # true!!
-#
-#ata x x^-1 = t(x^-1) diag(l) x^-1
-#round(ata %*% eigen(ata)$vectors %*% pinv(eigen(ata)$vectors), 1) == round( t(pinv(eigen(ata)$vectors)) %*% diag(eigen(ata)$values) %*% pinv(eigen(ata)$vectors),1) # true!!
-#
-#ata = t(x^-1) diag(l) x^-1
-#round(ata, 1) == round( t(pinv(eigen(ata)$vectors)) %*% diag(eigen(ata)$values) %*% pinv(eigen(ata)$vectors),1) # true!!
-#
-#t(ata) = t( t(x^-1) diag(l) x^-1 )
-#t(ata) = t(x^-1) diag(l) x^-1
-#
-
-#ata x x^-1 = l x x^-1 # proof fall out: ata == round(ata %*% eigen(ata)$vectors %*% pinv(eigen(ata)$vectors),1)
-#ata = l x x^-1
-#
-
-#ata = x diag(l) x^-1
-#ata == round( eigen(ata)$vectors %*% diag(eigen(ata)$values) %*% (pinv(eigen(ata)$vectors))  ,1)
-
-# -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
-
-# the s matrices are not the same! their length differs (n and m!)!
-#pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u ) %*% s %*% ( t(v) %*% t(a) %*% a %*% v ) %*% u %*% pinv(a%*%t(a))
