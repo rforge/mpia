@@ -92,7 +92,7 @@
 \examples{
 
 	d = Domain(name="test")
-	evidence = VectorSource( c("abc abc def", "def def ghi", "ghi ijk, lmno", "pqrs tuv wxyz") )
+	evidence = TermDocumentMatrix( Corpus( VectorSource( c("abc abc def", "def def ghi", "ghi ijk, lmno", "pqrs tuv wxyz") ) ) )
 	d$corpus(evidence)
 	d$spacify()
 

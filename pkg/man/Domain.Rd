@@ -23,7 +23,7 @@
 
 \arguments{
 	\item{name}{A human-readable name (preferably unique).}
-   \item{\dots}{Any additional arguments.}
+    \item{\dots}{Any additional arguments.}
 }
 
 \value{
@@ -44,7 +44,7 @@
 \examples{
 
 	d = Domain(name="test")
-	evidence = VectorSource( c("abc abc def", "def def ghi", "ghi ijk, lmno", "pqrs tuv wxyz") )
+	evidence = TermDocumentMatrix( Corpus( VectorSource( c("abc abc def", "def def ghi", "ghi ijk, lmno", "pqrs tuv wxyz") ) ) )
 	d$corpus(evidence)
 	d$spacify()
 
