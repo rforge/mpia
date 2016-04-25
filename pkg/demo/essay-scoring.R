@@ -4,6 +4,7 @@
 
 dmgr = DomainManager()
 data(essays.domain)
+essays.domain
 
 plot(essays.domain, method="topographic")
 toponymy(essays.domain, method="mountains")

@@ -298,8 +298,6 @@ plot(competences(christina), col="red", connect=FALSE)
 plot(competences(peter), col="green", connect=FALSE)
 plot(competences(simon), col="yellow", connect=FALSE)
 
-plot(competences(ppl), col="purple", alpha=0.3, connect=FALSE)
-
 # show cluster dendrogram
 
 ps = performances(ppl)
@@ -316,10 +314,7 @@ toponymy(d, method="all", col="black")
 
 groups(ppl)
 
-# show how group competences differ
-plot(competences(ppl), col="green", connect=FALSE)
-
 # show group positions
-for (i in 1:length(ppl$groups)) {
-   plot(position(ppl$groups[[i]]), col="pink")
-}
+plot(position(ppl$groups[[1]]), col="pink")
+plot(position(ppl$groups[[5]]), col="red")
+

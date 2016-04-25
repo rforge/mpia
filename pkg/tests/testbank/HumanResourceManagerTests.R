@@ -50,7 +50,7 @@ tryCatch({
    
       before = dim(ppl$currentDomain$traces)
    
-      max$currentDomain = dmgr$get("businessfull")
+      max$currentDomain = dmgr$get("essays")
       max$write("risk management text")
       a = max$position()
       max$currentDomain = dmgr$get("generic")

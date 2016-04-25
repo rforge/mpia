@@ -23,7 +23,7 @@ tryCatch({
    
       d = dmgr$get("generic")
    
-   	d$visualiser$newDevice(name="termplot", pdf=TRUE, filename="~/Documents/werkstatt/mpia-package/plot-termplot.pdf")
+   	d$visualiser$newDevice(name="termplot", pdf=TRUE, filename=paste(tempdir(),"plot-termplot.pdf", sep=""))
       d$visualiser$toponymy(method="all", add=FALSE)
    	d$visualiser$closeDevice()
    
@@ -53,7 +53,7 @@ cat("\n")
 cat("~~~ TEST generate PDF file with default map and toponymy (mountain+gridprestige):\n")
 tryCatch({
    
-      d$visualiser$newDevice(name="map", pdf=TRUE, filename="~/Documents/werkstatt/mpia-package/plot-map.pdf")
+      d$visualiser$newDevice(name="map", pdf=TRUE, filename=paste(tempdir(),"plot-map.pdf", sep="")
       d$visualiser$plotMap(rotated=TRUE, method="persp")
       d$visualiser$toponymy(method="mountains")
       d$visualiser$toponymy(method="gridprestige", gridsize=c(5,5))

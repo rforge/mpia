@@ -9,4 +9,4 @@ Depends: R (>= 3.0), methods, stats, lsa, tm, readbitmap, oce, network, lattice,
 Suggests: rgl
 Description: A computational model to understand, analyse, and advise on human learning.
 License: GPL (>= 2)
-LazyData: yes
+LazyData: no

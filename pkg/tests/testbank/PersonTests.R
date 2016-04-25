@@ -83,7 +83,7 @@ cat("\n")
 cat("~~~ TEST adding a performance in a different domain and testing whether this is ignored by getMeaningVectors():\n")
 tryCatch({
    
-      fw$currentDomain = dmgr$get("businessfull")
+      fw$currentDomain = dmgr$get("essays")
       fw$write("this is a test with risk involved", label="odd one")
       fw$currentDomain = dmgr$get("generic")
       
