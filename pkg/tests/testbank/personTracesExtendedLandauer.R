@@ -1,6 +1,5 @@
 
 
-#load("../../extended-landauer.RData")
 data(mpia.space)
 dmgr = DomainManager()
 id = dmgr$add(space, title="minimpia")
@@ -9,10 +8,8 @@ ids = dmgr$upgrade(force=TRUE)
 d = dmgr$get("minimpia")
 
 
-#load("../../docs.RData")
 data(mpia.docs)
 
-#load("../../im.RData")
 data(mpia.im)
 
 dmsg = c( 1,2,10,3,6,11,4,7,8,9,12,5 )

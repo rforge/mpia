@@ -22,3 +22,12 @@ Changes in 0.61
 
 o   Fridolin Wild (2013-10-02)
     * clean up
+
+Changes in 0.61
+---------------
+
+o   Fridolin Wild (2013-10-02)
+    * data directory cleaned up, cache directory removed
+    * tests paths fixed
+    * examples fixed to work with data()
+    * demos path fixed

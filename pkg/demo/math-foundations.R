@@ -48,12 +48,12 @@ u = eigen(ata)$vectors
 v = eigen(aat)$vectors
 
 s = sqrt( eigen(ata)$values )
-#s[which(is.na(s))] = 0
+s[which(is.na(s))] = 0 # avoid complex numbers due to problematic eigen implementation
 
 sred = s
 sred[4:length(s)] = 0
 
-round( u %*% diag(s)[,1:13] %*% t(v), 1)
+round( u %*% diag(s)[,1:ncol(v)] %*% t(v), 1) # 13, but let's use only the ones available from implementation
 
 dtm2 = u %*% diag(s)[,1:ncol(v)] %*% t(v)
 

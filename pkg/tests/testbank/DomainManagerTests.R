@@ -47,7 +47,8 @@ cat("\n")
 cat("~~~ TEST materialisation:\n")
 tryCatch({
 
-      load("~/Documents/werkstatt/knowledge-cartography/data/space80pcnt.RData")
+      data(generic.domain)
+      space = d$space
       id = dmgr$add(space, title="generic")
       dmgr$materialise(id)
       show(dmgr) # 1 domains in memory
@@ -76,12 +77,12 @@ cat("\n")
 cat("~~~ TEST adding a second space (businessfull):\n")
 tryCatch({
    
-      load("~/Documents/werkstatt/knowledge-cartography/data/spaceorig.RData")
-      id = dmgr$add(spaceorig, title="businessfull")
+      data(essays.domain)
+      id = dmgr$add(essays.domain, title="essays")
       dmgr$materialise(id)
       
       dmgr = new("DomainManager")
-      dmgr$get(name="businessfull")
+      dmgr$get(name="essays")
    
       test = dir(dmgr$tempdir) # should show at least one file with the id
 
@@ -110,7 +111,7 @@ tryCatch({
    dmgr = DomainManager()
    
    d = dmgr$get("generic")
-   d = dmgr$get("businessfull")
+   d = dmgr$get("essays")
    ids = dmgr$upgrade(force=TRUE)
    
    if (length(ids)==0) stop("No domains upgraded, should have been two!")
