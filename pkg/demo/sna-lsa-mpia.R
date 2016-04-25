@@ -154,17 +154,6 @@ text(space$tk[,1]-mdistx, space$tk[,2]+mdisty, labels=rownames(space$tk), col="r
 abline(h=0, lty="dotted", lwd=cf)
 abline(v=0, lty="dotted", lwd=cf)
 
-# uncomment for scatterplot demo (warning: no labels!)
-#s3d = scatterplot3d(space$tk[,1], space$tk[,2], space$tk[,3], pch=1, type="h", angle=60, color="black", lty.hplot=2, ylab="factor 2", xlab="factor 1", zlab="factor 3")
-#s3d$points3d(space$dk[,1], space$dk[,2], space$dk[,3], col="red", pch=2, type="h", lty=2)
-
-# uncomment for rgl 3D demo (warning: requires rgl!)
-#cf = 8
-#s3d = plot3d(space$tk[,1], space$tk[,2], space$tk[,3], pch=1, col="black", ylab="factor 2", xlab="factor 1", zlab="factor 3", size=cf)
-#points3d(space$dk[,1], space$dk[,2], space$dk[,3], col="red", pch=2, size=cf) # warning: p3 sometimes goes astray due to position overlap with p2
-#text3d(space$tk[,1]-mdistx, space$tk[,2]-mdisty, space$tk[,3]-mdistz, rownames(space$tk))
-#text3d(space$dk[,1]-mdistx, space$dk[,2]-mdisty, space$dk[,3]-mdistz, rownames(space$dk), col="red")
-
 
 # plot with all 3 factors in a perspective plot (and label)
 

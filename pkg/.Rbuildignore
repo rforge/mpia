@@ -7,6 +7,9 @@ TODO
 ./demo/.DS_Store
 ./inst/.DS_Store
 ./tests/.DS_Store
+./man/.DS_Store
+./tests/.DS_Store
+./tests/testbank/.DS_Store
 ./work
 ./R/.RData
 ./R/.Rhistory

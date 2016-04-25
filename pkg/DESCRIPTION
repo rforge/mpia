@@ -6,7 +6,7 @@ Authors@R: c(person("Fridolin", "Wild", role = c("aut", "cre"),email = "wild@bro
 Author: Fridolin Wild
 Maintainer: Fridolin Wild <wild@brookes.ac.uk>
 Depends: R (>= 3.0), methods, stats, lsa, tm, readbitmap, oce, network, lattice, fields, sna, Matrix, plotrix, digest, tools, scales, cluster, XML, pracma, ggplot2
-Suggests: rgl, scatterplot3d
+Suggests: rgl
 Description: A computational model to understand, analyse, and advise on human learning.
 License: GPL (>= 2)
 LazyData: yes

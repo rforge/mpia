@@ -48,7 +48,10 @@
 \examples{
 
 dmgr = DomainManager()
-d = dmgr$get("generic")
+
+data(generic.domain)
+dmgr$add(d, title="generic")
+#d = dmgr$get("generic")
 
 ppl = HumanResourceManager(dmgr, d)
 fridolin = ppl$add("fridolin")

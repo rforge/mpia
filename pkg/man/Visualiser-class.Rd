@@ -79,7 +79,10 @@
 \examples{
 
 dmgr = DomainManager()
-d = dmgr$get("generic")
+#d = dmgr$get("generic")
+data(generic.domain)
+dmgr$add(d, title="generic")
+
 summary(d$visualiser)
 
 plot(d)

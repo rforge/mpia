@@ -38,7 +38,10 @@
 \examples{
 
 dmgr = DomainManager()
-d = dmgr$get("generic")
+data(generic.domain)
+dmgr$add(d, title="generic")
+
+#d = dmgr$get("generic")
 dmgr$upgrade()
 dmgr$materialise(d$signature)
 

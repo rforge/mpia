@@ -50,9 +50,13 @@
 
 \examples{
 
-# load domain from cache
+# load domain
+
 dmgr=DomainManager()
-d=dmgr$get("generic")
+data(generic.domain)
+dmgr$add(d, title="generic")
+
+#d=dmgr$get("generic")
 
 # visualise terminology map
 plot(d)
