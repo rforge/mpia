@@ -18,7 +18,7 @@
 }
 
 \usage{
-	Performance( text=NULL, purpose=NULL, domain=NULL, name=NULL, weighting=NULL, logging=TRUE )
+	Performance(text=NULL,purpose=NULL,domain=NULL,name=NULL,weighting=NULL,logging=TRUE)
 }
 
 \arguments{

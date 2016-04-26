@@ -28,10 +28,10 @@ par(mar=c(3,2,3,2))
 par(mfrow=c(2,2))
 par(cex.lab=0.6)
 
-plot(network(im%*%t(im)), displaylabels=T, vertex.cex=2, main="Affiliations") # three communities
+plot(network::network(im%*%t(im)), displaylabels=T, vertex.cex=2, main="Affiliations") # three communities
 
 colors = c(rep("red",nrow(im)),rep("white",ncol(im)))
-plot(network(im), displaylabels=T, vertex.col=colors, vertex.cex=2, main="Incidences") # the communities are: TEL, CS, Math
+plot(network::network(im), displaylabels=T, vertex.col=colors, vertex.cex=2, main="Incidences") # the communities are: TEL, CS, Math
 
 # 3) manipulate data: merge courses
 
@@ -45,10 +45,10 @@ colnames(im_new) = c("ALL-TEL", "ALL-STATS")
 
 # 4) plot sociograms (again)
 
-plot(network(im_new %*% t(im_new), directed=FALSE), displaylabels=TRUE, vertex.cex=2, main="Affiliations (manipulated)")
+plot(network::network(im_new %*% t(im_new), directed=FALSE), displaylabels=TRUE, vertex.cex=2, main="Affiliations (manipulated)")
 
 colors = c(rep("red",nrow(im)),rep("white",ncol(im)))
-plot(network(im_new>0, directed=FALSE), displaylabels=TRUE, vertex.col=colors, vertex.cex=2, main="Incidences (manipulated)")
+plot(network::network(im_new>0, directed=FALSE), displaylabels=TRUE, vertex.col=colors, vertex.cex=2, main="Incidences (manipulated)")
 
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
@@ -85,20 +85,20 @@ docs2 = tolower(docs2)
 docs2 = gsub("[^[:alnum:]]", " ", docs2)
 docs2 = gsub("[[:space:]]+", " ", docs2)
 docs2 = lapply(docs2, function (e) { unlist(strsplit(e, " ")) })
-data(stopwords_en)
-docs2 = lapply(docs2, function (e) { e[! (e %in% stopwords_en) ] })
+data(lsa::stopwords_en)
+docs2 = lapply(docs2, function (e) { e[! (e %in% lsa::stopwords_en) ] })
 tabs = lapply(docs2, function(e){sort(table(e), dec=T)})
 tabs2 = lapply(tabs, function(e) { data.frame(docs = "", terms = names(e), Freq = e, row.names = NULL) })
 for (i in 1:nrow(docs)) { tabs2[[i]][,1]= docs[i,1] }
 
-dtm = t(xtabs(Freq ~ ., data = do.call("rbind", tabs2)))
+dtm = t(stats::xtabs(Freq ~ ., data = do.call("rbind", tabs2)))
 dtm = dtm[-which(rowSums(dtm)<=1),] # at least in more than a single document
 dtm
 
 # create lsa space with 3 dimensions
 
-space = lsa(dtm, dims=3)
-dtm2 = as.textmatrix(space)
+space = lsa::lsa(dtm, dims=3)
+dtm2 = lsa::as.textmatrix(space)
 class(dtm2) = c("matrix", "textmatrix")
 
 # get a bit of info on which cells are properly filled (>=0.3)
@@ -120,13 +120,13 @@ cosine(dtm)
 par(mfrow=c(1,2))
 par(mar=c(2,2,1,1))
 
-image(round(1-cosine(dtm),1), col=gray(1:10/10), xaxt="n", yaxt="n")
-axis(1, at=seq(0/ncol(dtm), 1, by=1/(ncol(dtm)-1))[1:ncol(dtm)], labels=colnames(dtm), cex.axis=0.7)
-axis(2, at=seq(0/ncol(dtm), 1, by=1/(ncol(dtm)-1))[1:ncol(dtm)], labels=colnames(dtm), cex.axis=0.7)
+graphics::image(round(1-cosine(dtm),1), col=gray(1:10/10), xaxt="n", yaxt="n")
+graphics::axis(1, at=seq(0/ncol(dtm), 1, by=1/(ncol(dtm)-1))[1:ncol(dtm)], labels=colnames(dtm), cex.axis=0.7)
+graphics::axis(2, at=seq(0/ncol(dtm), 1, by=1/(ncol(dtm)-1))[1:ncol(dtm)], labels=colnames(dtm), cex.axis=0.7)
 
-image(round(1-cosine(dtm2),1), col=gray(1:10/10), xaxt="n", yaxt="n")
-axis(1, at=seq(0/ncol(dtm2), 1, by=1/(ncol(dtm2)-1))[1:ncol(dtm2)], labels=colnames(dtm2), cex.axis=0.7)
-axis(2, at=seq(0/ncol(dtm2), 1, by=1/(ncol(dtm2)-1))[1:ncol(dtm2)], labels=colnames(dtm2), cex.axis=0.7)
+graphics::image(round(1-cosine(dtm2),1), col=gray(1:10/10), xaxt="n", yaxt="n")
+graphics::axis(1, at=seq(0/ncol(dtm2), 1, by=1/(ncol(dtm2)-1))[1:ncol(dtm2)], labels=colnames(dtm2), cex.axis=0.7)
+graphics::axis(2, at=seq(0/ncol(dtm2), 1, by=1/(ncol(dtm2)-1))[1:ncol(dtm2)], labels=colnames(dtm2), cex.axis=0.7)
 
 # plot it using the plot proposal from the seminal paper on LSA (Deerwester et al., 1989)
 
@@ -148,17 +148,17 @@ mdistx = (xmax-xmin)*0.02
 mdistz = (zmax-zmin)*0.02
 
 plot(space$tk[,1], space$tk[,2], ylim=c(ymin, ymax), xlim=c(xmin, xmax), xlab="factor 1", ylab="factor 2", pch=1, cex=cf, lwd=cf, cex.axis=cf, cex.lab=cf, col="red")
-points(space$dk[,1], space$dk[,2], pch=2, col="blue")
-text(space$dk[,1]+mdistx, space$dk[,2]-mdisty, labels=rownames(space$dk), col="blue", cex=0.7 )
-text(space$tk[,1]-mdistx, space$tk[,2]+mdisty, labels=rownames(space$tk), col="red", cex=cf )
-abline(h=0, lty="dotted", lwd=cf)
-abline(v=0, lty="dotted", lwd=cf)
+graphics::points(space$dk[,1], space$dk[,2], pch=2, col="blue")
+graphics::text(space$dk[,1]+mdistx, space$dk[,2]-mdisty, labels=rownames(space$dk), col="blue", cex=0.7 )
+graphics::text(space$tk[,1]-mdistx, space$tk[,2]+mdisty, labels=rownames(space$tk), col="red", cex=cf )
+graphics::abline(h=0, lty="dotted", lwd=cf)
+graphics::abline(v=0, lty="dotted", lwd=cf)
 
 
 # plot with all 3 factors in a perspective plot (and label)
 
 par(mar=c(1,0.1,0.1,0.1))
-p = persp(
+p = graphics::persp(
    x=-1:1,y=-1:1,
    z=matrix(
    c(
@@ -176,16 +176,16 @@ p = persp(
    axes=TRUE, nticks=10, ticktype="simple"
 )
 
-points( trans3d(space$dk[,1], space$dk[,2], space$dk[,3], pmat=p), bg="darkgray", col="darkgray", pch=22, cex=1)
-points( trans3d(space$tk[,1], space$tk[,2], space$tk[,3], pmat=p), bg="black", col="black", pch=21, cex=1)
+graphics::points( grDevices::trans3d(space$dk[,1], space$dk[,2], space$dk[,3], pmat=p), bg="darkgray", col="darkgray", pch=22, cex=1)
+graphics::points( grDevices::trans3d(space$tk[,1], space$tk[,2], space$tk[,3], pmat=p), bg="black", col="black", pch=21, cex=1)
 
-text(trans3d(space$tk[,1]-mdistx, space$tk[,2]-mdisty, space$tk[,3]-mdistz, pmat=p), rownames(space$tk), col="black", cex=0.8)
-text(trans3d(space$dk[,1]-mdistx, space$dk[,2]-mdisty, space$dk[,3]-mdistz, pmat=p), rownames(space$dk), col="darkgray", cex=0.8)
+graphics::text( grDevices::trans3d(space$tk[,1]-mdistx, space$tk[,2]-mdisty, space$tk[,3]-mdistz, pmat=p), rownames(space$tk), col="black", cex=0.8)
+graphics::text( grDevices::trans3d(space$dk[,1]-mdistx, space$dk[,2]-mdisty, space$dk[,3]-mdistz, pmat=p), rownames(space$dk), col="darkgray", cex=0.8)
 
 
 # fold-in demo
 
-query("Review of the html user interface of the system", rownames(dtm))
+lsa::query("Review of the html user interface of the system", rownames(dtm))
 
 
 
@@ -245,7 +245,7 @@ plot(d, method="persp", rotated=TRUE)
 par(mar=c(1,1,1,1))
 title(main="Peter's learning path (in shades of gray)")
 pf = path(peter)
-cs = gray(seq(1,0.5,length.out=length(pf) ))
+cs = grDevices::gray(seq(1,0.5,length.out=length(pf) ))
 for (p in 1:length(pf)) {
 	plot(pf[[p]], col=cs[p])
 }
@@ -301,10 +301,10 @@ plot(competences(simon), col="yellow", connect=FALSE)
 # show cluster dendrogram
 
 ps = performances(ppl)
-a = agnes( proximity(ps), diss=FALSE )
+a = cluster::agnes( proximity(ps), diss=FALSE )
 plot(a, which.plots=2, main="Cluster dendrogram over all meaningvectors", xlab="Meaningvectors", sub="", cex.main=1.2)
-abline(h=1-d$identityThreshold, lty="dashed", col="darkgreen", lwd=1.5)
-text(x=11, y=1-d$identityThreshold+0.2, adj=0.5, "cutoff", col="darkgreen", cex=1)
+graphics::abline(h=1-d$identityThreshold, lty="dashed", col="darkgreen", lwd=1.5)
+graphics::text(x=11, y=1-d$identityThreshold+0.2, adj=0.5, "cutoff", col="darkgreen", cex=1)
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # detect groups

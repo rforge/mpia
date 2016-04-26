@@ -59,7 +59,7 @@ Domain <- setRefClass( "Domain",
          
          visualiser <<- new("Visualiser", .self)
          
-         version <<- 0.59
+         version <<- 0.60
          
       },
 
@@ -211,18 +211,18 @@ corpus = function( x ) {
       
 	   # if corpus is a file/directory or list of files/directories
       
-      tm = Corpus(DirSource(x), readerControl=list(reader=readPlain(), language="en", load=TRUE, removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE))
-      tm = tm_map(tm, tolower)
+      tm = tm::Corpus(tm::DirSource(x), readerControl=list(reader=tm::readPlain(), language="en", load=TRUE, removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE))
+      tm = tm::tm_map(tm, tolower)
       tmorig = tm
-      tm = tm_map(tm, stemDocument, language="en")
-      dict = Terms(TermDocumentMatrix(tmorig, control=list(removePunctuation=TRUE, stopwords=FALSE, minWordLength=1, removeNumbers=TRUE)))
-      dtm = TermDocumentMatrix(tm, control = list(
+      tm = tm::tm_map(tm, tm::stemDocument, language="en")
+      dict = tm::Terms(tm::TermDocumentMatrix(tmorig, control=list(removePunctuation=TRUE, stopwords=FALSE, minWordLength=1, removeNumbers=TRUE)))
+      dtm = tm::TermDocumentMatrix(tm, control = list(
 	      removePunctuation = TRUE, removeNumbers = TRUE, stopwords = TRUE,
 	      minWordLength = 3, bounds = list(global=c(1,Inf))
       ))
       
       dtms = dtm
-      sc = as.character( stemCompletion(rownames(dtms), dictionary=dict, type="shortest") )
+      sc = as.character( tm::stemCompletion(rownames(dtms), dictionary=dict, type="shortest") )
       sc[which(is.na(sc))] = rownames(dtms)[which(is.na(sc))]
       
       dtmsold = dtms
@@ -254,21 +254,21 @@ corpus = function( x ) {
 
    } else if (any(class(x) == "Source")) {
 
-      tm = Corpus(x, readerControl=list(reader=readPlain, language="en", load=TRUE, removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE))
-      tm = tm_map(tm, tolower)
+      tm = tm::Corpus(x, readerControl=list(reader=tm::readPlain, language="en", load=TRUE, removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE))
+      tm = tm::tm_map(tm, tolower)
       
       # save full dictionary for stem completion
-      dict = Terms(DocumentTermMatrix( tm, control=list(removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE)))
+      dict = tm::Terms(tm::DocumentTermMatrix( tm, control=list(removePunctuation=TRUE, stopwords=TRUE, minWordLength=3, removeNumbers=TRUE)))
       
       # stemming
-      tm = tm_map(tm, stemDocument, language="en")
-      dtm = TermDocumentMatrix(tm, control = list(
+      tm = tm::tm_map(tm, tm::stemDocument, language="en")
+      dtm = tm::TermDocumentMatrix(tm, control = list(
          removePunctuation = TRUE, removeNumbers = TRUE, stopwords = TRUE,
          minWordLength = 3, bounds = list(global=c(1,Inf))
       ))
 
       # stem completion
-      sc = as.character( stemCompletion(rownames(dtm), dictionary=dict, type="shortest") )
+      sc = as.character( tm::stemCompletion(rownames(dtm), dictionary=dict, type="shortest") )
       sc[which(is.na(sc))] = rownames(dtm)[which(is.na(sc))]
       
       rownames(dtm) = sc
@@ -309,7 +309,7 @@ corpus = function( x ) {
       # if corpus is a TermDocumentMatrix object
       textmatrix <<- x
       processed <<- FALSE
-      signature <<- digest(textmatrix)
+      signature <<- digest::digest(textmatrix)
       
       invisible(TRUE)
       
@@ -330,7 +330,7 @@ Domain$methods(
       tr = sum(.self$textmatrix * .self$textmatrix) # faster
       #was tr = Trace(as.matrix(.self$textmatrix) %*% as.matrix(t(.self$textmatrix)))
       
-      space <<- lsa::lsa(.self$textmatrix, dims=dimcalc_raw())
+      space <<- lsa::lsa(.self$textmatrix, dims=lsa::dimcalc_raw())
       
       eigenv = space$sk^2
       eigenvsum = NULL
@@ -343,7 +343,7 @@ Domain$methods(
       space$dk <<- space$dk[, 1:dims80]
       space$sk <<- space$sk[1:dims80]
       
-      signature <<- digest(space) # update signature to point to space signature
+      signature <<- digest::digest(space) # update signature to point to space signature
       processed <<- TRUE
          
       invisible(signature)
@@ -392,7 +392,7 @@ Domain$methods(
       # threshold could also be autocalculated? in a way that a certain amount of density is achieved?
 
       cosines[ which( cosines < .self$proximityThreshold ) ] = 0
-      comps = component.dist(cosines,connected="weak")
+      comps = sna::component.dist(cosines,connected="weak")
       
       # precalc to see if isolates will be generated
       # subsequently attach isolates to closest term node(s) (see below)
@@ -409,7 +409,7 @@ Domain$methods(
             members = which(comps$membership == isolateComps[i])
             
             if (length(members)>1) {
-                btwness = betweenness(cosines[members,members], gmode="graph")
+                btwness = sna::betweenness(cosines[members,members], gmode="graph")
                 centernode = which(btwness == max(btwness))[1]
             } else {
                 centernode = 1

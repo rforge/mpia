@@ -28,13 +28,13 @@ docs2 = tolower(docs2)
 docs2 = gsub("[^[:alnum:]]", " ", docs2)
 docs2 = gsub("[[:space:]]+", " ", docs2)
 docs2 = lapply(docs2, function (e) { unlist(strsplit(e, " ")) })
-data(stopwords_en)
-docs2 = lapply(docs2, function (e) { e[! (e %in% stopwords_en) ] })
+data(lsa::stopwords_en)
+docs2 = lapply(docs2, function (e) { e[! (e %in% lsa::stopwords_en) ] })
 tabs = lapply(docs2, function(e){sort(table(e), dec=T)})
 tabs2 = lapply(tabs, function(e) { data.frame(docs = "", terms = names(e), Freq = e, row.names = NULL) })
 for (i in 1:nrow(docs)) { tabs2[[i]][,1]= docs[i,1] }
 
-dtm = t(xtabs(Freq ~ ., data = do.call("rbind", tabs2)))
+dtm = t(stats::xtabs(Freq ~ ., data = do.call("rbind", tabs2)))
 dtm = dtm[-which(rowSums(dtm)<=1),] # at least in more than a single document
 dtm
 
@@ -72,7 +72,7 @@ round(dtmred,1)
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # compare this with the standard package routines
 
-round( as.textmatrix(lsa(dtm, dims=3)), 1)
+round( as.textmatrix(lsa::lsa(dtm, dims=3)), 1)
 
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
@@ -89,7 +89,7 @@ b %*% x == diag(s) %*% x
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # do the math by hand
 
-space = lsa(dtm, dims=dimcalc_raw())
+space = lsa::lsa(dtm, dims=lsa::dimcalc_raw())
 
 round ( (space$tk) %*% ( diag(space$sk) %*% t(diag(space$sk)) ) %*% t(space$tk),1 ) # aat
 dtm %*% t(dtm)
@@ -102,7 +102,7 @@ v = space$dk
 s = space$sk
 a = dtm
 
-round ( pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u )[,1:14] %*% diag(s[1:14]) %*% (( t(v) %*% (t(a)%*%a) %*% v ) %*% t(v) %*% pinv(t(a) %*% a))[1:14,], 1)
+round ( pracma::pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u )[,1:14] %*% diag(s[1:14]) %*% (( t(v) %*% (t(a)%*%a) %*% v ) %*% t(v) %*% pracma::pinv(t(a) %*% a))[1:14,], 1)
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 # by hand using eigen instead
@@ -130,4 +130,4 @@ s[which(is.na(s))] = 0
 # how the eigenvalues and eigenvectors construct the original matrix:
 # the big roundabout through quadratification
 
-round ( pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u )[,1:14] %*% diag(s[1:14]) %*% (( t(v) %*% (t(a)%*%a) %*% v ) %*% t(v) %*% pinv(t(a) %*% a))[1:14,], 1)
+round ( pracma::pinv(a%*%t(a)) %*% u %*% ( t(u) %*% a %*% t(a) %*% u )[,1:14] %*% diag(s[1:14]) %*% (( t(v) %*% (t(a)%*%a) %*% v ) %*% t(v) %*% pracma::pinv(t(a) %*% a))[1:14,], 1)

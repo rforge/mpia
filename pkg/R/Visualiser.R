@@ -47,7 +47,7 @@ Visualiser <- setRefClass( "Visualiser",
          mode <<- "terminology"
          perspective <<- TRUE
          
-         version <<- 0.59
+         version <<- 0.60
          
       },
 
@@ -102,15 +102,15 @@ calculateNetCoords = function( method="network" ) { # , cluster=FALSE
    }
    
    fn = tempfile()
-   pdf( width=10, height=10, file=fn)
+   grDevices::pdf( width=10, height=10, file=fn)
    
-   xy = dev.size("px")
+   xy = grDevices::dev.size("px")
    width = round(xy[1])
    height = round(xy[2])
    
    if (method=="network") {
       
-      prestigeTerms <<- prestige(as.matrix(domain$termProximities))
+      prestigeTerms <<- sna::prestige(as.matrix(domain$termProximities))
       
       v2 = round(log(round(prestigeTerms)),1)*10
       v2[which(is.infinite(v2))] = 0
@@ -125,7 +125,7 @@ calculateNetCoords = function( method="network" ) { # , cluster=FALSE
       #   displayisolates=TRUE, usecurve=FALSE
       #)
       
-      p = gplot.layout.kamadakawai(as.matrix(domain$termProximities), layout.par=list())
+      p = sna::gplot.layout.kamadakawai(as.matrix(domain$termProximities), layout.par=list())
       colnames(p) = c("cx","cy")
       
    } else {
@@ -195,7 +195,7 @@ Visualiser$methods(
       } # for each node
       
       # smoothen
-      wireframe <<- image.smooth(image.smooth(hills)$z, theta=1)$z
+      wireframe <<- fields::image.smooth(fields::image.smooth(hills)$z, theta=1)$z
       
       # alternative smootheners
       # wireframe = matrixSmooth(hills)
@@ -240,16 +240,16 @@ Visualiser$methods(
          nw = ncol(wf)*5
          nh = nrow(wf)*5
          obj = list( x=(1:ncol(wf)), y=(1:nrow(wf)), z=wf )
-         loc = make.surface.grid( list( x=seq(1,ncol(wf),,nw), y=seq(1,nrow(wf),,nh) ) )
-         wf2 = interp.surface( obj, loc)
+         loc = fields::make.surface.grid( list( x=seq(1,ncol(wf),,nw), y=seq(1,nrow(wf),,nh) ) )
+         wf2 = fields::interp.surface( obj, loc)
          dim(wf2) = c(nw,nh)
          #wf2 = image.smooth(image.smooth(wf2)$z, theta=4)$z # was 2 = nice hills!
-         wf2 = image.smooth(wf2, theta=1)$z # was 2 = nice hills!
+         wf2 = fields::image.smooth(wf2, theta=1)$z # was 2 = nice hills!
          
          #image( wf2, col = cs, xaxt="n", yaxt="n")
-         .self$mapData = image( wf2, col = cs, xaxt="n", yaxt="n")
+         .self$mapData = graphics::image( wf2, col = cs, xaxt="n", yaxt="n")
          
-         if (contour) contour( wireframe,nlevels=21, add=TRUE, col=gray(0,alpha=0.3), lty=1, lwd=2, method="simple", drawlabels=FALSE)
+         if (contour) graphics::contour( wireframe,nlevels=21, add=TRUE, col=gray(0,alpha=0.3), lty=1, lwd=2, method="simple", drawlabels=FALSE)
          
       } else if (method=="wireframe") {
          
@@ -309,7 +309,7 @@ Visualiser$methods(
             phi = 90
          }
          
-         .self$mapData = persp(
+         .self$mapData = graphics::persp(
          
             .self$wireframe,
             col=tileColours(.self$wireframe, col=.self$topo.colors.pastel()), #topo.colors(40)
@@ -338,7 +338,7 @@ Visualiser$methods(
          
          .self$perspective = FALSE
          
-         .self$mapData = filled.contour( .self$wireframe,
+         .self$mapData = graphics::filled.contour( .self$wireframe,
             color.palette=.self$topo.colors.pastel, axes=F, frame.plot=F,
             key.axes=list(draw=F)
          )
@@ -364,9 +364,9 @@ Visualiser$methods(
       i = n - j - k # blues
       alpha = 1
       cs = c(
-         hsv(h = seq.int(from = 38/60, to = 31/60, length.out = i), s=0.5, v=0.8, alpha = alpha),
-         hsv(h = seq.int(from = 18/60, to = 8/60, length.out = j), s=0.3, v=seq.int(from=0.6,to=1, length.out=j), alpha = alpha),
-         hsv(h = seq.int(from = 7.8/60, to = 6/60, length.out = k), s=seq.int(from = 0.3, to = 0.1, length.out = k), alpha = alpha, v = seq.int(from = 0.85, to = 1, length.out = k))
+         grDevices::hsv(h = seq.int(from = 38/60, to = 31/60, length.out = i), s=0.5, v=0.8, alpha = alpha),
+         grDevices::hsv(h = seq.int(from = 18/60, to = 8/60, length.out = j), s=0.3, v=seq.int(from=0.6,to=1, length.out=j), alpha = alpha),
+         grDevices::hsv(h = seq.int(from = 7.8/60, to = 6/60, length.out = k), s=seq.int(from = 0.3, to = 0.1, length.out = k), alpha = alpha, v = seq.int(from = 0.85, to = 1, length.out = k))
       )
       
       return(cs)
@@ -594,8 +594,8 @@ Visualiser$methods(
          v2 = (v2+1)/max(v2+1)
          
          colours = round( (v2-min(v2))/(max(v2)-min(v2)), 1) * 10 + 1
-         hypsometricTints = heat.colors(11, alpha=0.8)[11:1]
-         shades = gray(seq(0.9,0,by=-1/12), alpha=0.3)
+         hypsometricTints = grDevices::heat.colors(11, alpha=0.8)[11:1]
+         shades = grDevices::gray(seq(0.9,0,by=-1/12), alpha=0.3)
          if (is.null(col)) cs = hypsometricTints[colours] else cs = rep(col, nrow(.self$netcoords))
          
          labels = rownames(.self$netcoords)
@@ -624,7 +624,7 @@ Visualiser$methods(
 
 Visualiser$methods(
 
-   labelFlag = function( x, y=NULL, label, border="black", bg=gray(1,alpha=0.9), cex=0.5, box=TRUE, col=NULL, marker.col=c(gray(0,alpha=1), gray(1, alpha=1)) ) {
+   labelFlag = function( x, y=NULL, label, border="black", bg=grDevices::gray(1,alpha=0.9), cex=0.5, box=TRUE, col=NULL, marker.col=c(grDevices::gray(0,alpha=1), grDevices::gray(1, alpha=1)) ) {
       
       if (missing(y)) {
          if (length(x)==2) {
@@ -657,12 +657,12 @@ Visualiser$methods(
          z = .self$wireframe[ yr, xr  ]
 
          pixelx = 2 / dev.size(units="px")[1]
-         coords3d = trans3d( y, x, z+0.1, pmat = .self$mapData)
-         coords3d2 = trans3d( y, x, z, pmat = .self$mapData)
+         coords3d = grDevices::trans3d( y, x, z+0.1, pmat = .self$mapData)
+         coords3d2 = grDevices::trans3d( y, x, z, pmat = .self$mapData)
 
          # +pixelx
-         segments( coords3d$x, coords3d$y, coords3d2$x, coords3d2$y, col=marker.col[1], lwd=4)
-         segments( coords3d$x, coords3d$y, coords3d2$x, coords3d2$y, col=marker.col[2], lwd=2)
+         graphics::segments( coords3d$x, coords3d$y, coords3d2$x, coords3d2$y, col=marker.col[1], lwd=4)
+         graphics::segments( coords3d$x, coords3d$y, coords3d2$x, coords3d2$y, col=marker.col[2], lwd=2)
          
          if (box) {
             plotrix::boxed.labels(coords3d$x, coords3d$y, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
@@ -688,7 +688,7 @@ Visualiser$methods(
          x = y
          y = x2
          
-         points(x,y, cex=cex, pch=4, col=marker.col[1], lwd=2)
+         graphics::points(x,y, cex=cex, pch=4, col=marker.col[1], lwd=2)
          
          if (box) {
             plotrix::boxed.labels(x+pixelx, y+pixely, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
@@ -752,13 +752,13 @@ Visualiser$methods(
                      if (xr==0) xr = 1
                      if (yr==0) yr = 1
                      z = .self$wireframe[yr, xr]
-                     c3d1 = trans3d(wfp["cy"], wfp["cx"],z+0.1, pmat=.self$mapData)
-                     c3d2 = trans3d(wfp["cy"]+cxY, wfp["cx"]+cxX, z+0.1, pmat=.self$mapData)
-                     arrows( c3d1$x, c3d1$y, c3d2$x, c3d2$y, col=col, length=0.05, lwd=ceiling(log(cx+1)))
+                     c3d1 = grDevices::trans3d(wfp["cy"], wfp["cx"],z+0.1, pmat=.self$mapData)
+                     c3d2 = grDevices::trans3d(wfp["cy"]+cxY, wfp["cx"]+cxX, z+0.1, pmat=.self$mapData)
+                     graphics::arrows( c3d1$x, c3d1$y, c3d2$x, c3d2$y, col=col, length=0.05, lwd=ceiling(log(cx+1)))
                      
                   } else {
                      
-                     arrows( wfp["cy"], wfp["cx"], wfp["cy"] + cxY, wfp["cx"]+cxX, col=col, length=0.05, lwd=ceiling(log(cx+1)))
+                     graphics::arrows( wfp["cy"], wfp["cx"], wfp["cy"] + cxY, wfp["cx"]+cxX, col=col, length=0.05, lwd=ceiling(log(cx+1)))
                      
                   }
                   
@@ -773,11 +773,11 @@ Visualiser$methods(
                     if (xr==0) xr = 1
                     if (yr==0) yr = 1
                     z = .self$wireframe[yr, xr]
-                    c3d1 = trans3d(wfp["cy"], wfp["cx"],z+0.1, pmat=.self$mapData)
-                    c3d2 = trans3d(wfp["cy"]+cxY, wfp["cx"]+cxX, z+0.1, pmat=.self$mapData)
-                    points( c3d1$x, c3d1$y, pch=21, col="darkgray", cex=dot.cex, bg=col, lwd=0.5)
+                    c3d1 = grDevices::trans3d(wfp["cy"], wfp["cx"],z+0.1, pmat=.self$mapData)
+                    c3d2 = grDevices::trans3d(wfp["cy"]+cxY, wfp["cx"]+cxX, z+0.1, pmat=.self$mapData)
+                    graphics::points( c3d1$x, c3d1$y, pch=21, col="darkgray", cex=dot.cex, bg=col, lwd=0.5)
                 } else {
-                    points( wfp["cy"], wfp["cx"],  pch=21, col="darkgray", cex=dot.cex, bg=col, lwd=0.5)
+                    graphics::points( wfp["cy"], wfp["cx"],  pch=21, col="darkgray", cex=dot.cex, bg=col, lwd=0.5)
                 }
 
             } # if no component arrows
@@ -807,17 +807,17 @@ Visualiser$methods(
                   if (xr==0) xr = 1
                   if (yr==0) yr = 1
                   z = .self$wireframe[yr, xr]
-                  c3d1 = trans3d(tnc["cy"], tnc["cx"],z, pmat=.self$mapData)
+                  c3d1 = grDevices::trans3d(tnc["cy"], tnc["cx"],z, pmat=.self$mapData)
                   
 	               #segments( c3d1$y+5*pixely, c3d1$x+5*pixelx, c3d1$y-5*pixely, c3d1$x-5*pixelx, col=col, lwd=3)
 	               #segments( c3d1$y-5*pixely, c3d1$x+5*pixelx, c3d1$y+5*pixely, c3d1$x-5*pixelx, col=col, lwd=3)
-                  points(c3d1, pch=4, col=col, cex=1 )
+                  graphics::points(c3d1, pch=4, col=col, cex=1 )
 
                } else {
                   
 	               #segments( tnc["cy"]+2*pixely, tnc["cx"]+2*pixelx, tnc["cy"]-2*pixely, tnc["cx"]-2*pixelx, col=col, lwd=3)
 	               #segments( tnc["cy"]-2*pixely, tnc["cx"]+2*pixelx, tnc["cy"]+2*pixely, tnc["cx"]-2*pixelx, col=col, lwd=3)
-                  points(tnc["cy"], tnc["cx"], pch=4, col=col, cex=1 )
+                  graphics::points(tnc["cy"], tnc["cx"], pch=4, col=col, cex=1 )
                   
                }
                
@@ -905,9 +905,9 @@ Visualiser$methods(
                z = c(z, .self$wireframe[ xr, yr ])
             }
             if (nrow(path)>2) {
-               xspline(trans3d(x=x, y=y, z, pmat=.self$mapData), s=-1, border=col, lwd=3, open=TRUE) # c(0,rep(-1,nrow(path)-2),0)
+               graphics::xspline(grDevices::trans3d(x=x, y=y, z, pmat=.self$mapData), s=-1, border=col, lwd=3, open=TRUE) # c(0,rep(-1,nrow(path)-2),0)
             } else if (nrow(path)==2) {
-               lines(trans3d(x=path[,2],y=path[,1], z, pmat=.self$mapData), col=col, lwd=3)
+               graphics::lines(grDevices::trans3d(x=path[,2],y=path[,1], z, pmat=.self$mapData), col=col, lwd=3)
             }
 
          } else {
@@ -915,9 +915,9 @@ Visualiser$methods(
             # 2D
             
             if (nrow(path)>2) {
-               xspline(path[,c(2,1)], s=c(0,rep(-1,nrow(path)-2),0), border=col, lwd=3, open=TRUE)
+               graphics::xspline(path[,c(2,1)], s=c(0,rep(-1,nrow(path)-2),0), border=col, lwd=3, open=TRUE)
             } else if (nrow(path)==2) {
-               lines(path[,c(2,1)], col=col, lwd=3)
+               graphics::lines(path[,c(2,1)], col=col, lwd=3)
             }
 
          } # 3D/2D xspline/line connection
@@ -938,17 +938,17 @@ Visualiser$methods(
       height = 9
       
       if (pdf) {
-         pdf(width=width, height=height, file=filename)
+         grDevices::pdf(width=width, height=height, file=filename)
       } else {
          
          platform = sessionInfo()$platform
          if (grepl("linux",platform)) {
-            x11(width=width, height=height)
+            grDevices::x11(width=width, height=height)
          } else if (grepl("pc",platform)) {
-            windows(width=width, height=height, xpinch=1024/width, ypinch=768/height)
+            grDevices::windows(width=width, height=height, xpinch=1024/width, ypinch=768/height)
          } else if (grepl("apple", platform)) {
-            quartz(title=name, width=width, height=height, dpi=100)
-         } else { dev.new() }
+            grDevices::quartz(title=name, width=width, height=height, dpi=100)
+         } else { grDevices::dev.new() }
          
       }
       
@@ -960,7 +960,7 @@ Visualiser$methods(
 
 Visualiser$methods(
    closeDevice = function() {
-      dev.off()
+      grDevices::dev.off()
    }
 ) # method: closeDevice()
 

@@ -192,8 +192,8 @@ HumanResourceManager$methods(
       #a = agnes( prox, diss=FALSE )
       #b = cutree(as.hclust(a), h= 1- .self$currentDomain$identityThreshold) # added 1-
       
-      a = hclust( as.dist((1+prox)/2), method="complete")
-      b = cutree(as.hclust(a), h=(1+.self$currentDomain$identityThreshold)/2)
+      a = stats::hclust( stats::as.dist((1+prox)/2), method="complete")
+      b = stats::cutree(stats::as.hclust(a), h=(1+.self$currentDomain$identityThreshold)/2)
 
       .self$groups = list(NULL)
       d = unique(b)

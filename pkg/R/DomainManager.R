@@ -396,7 +396,7 @@ DomainManager$methods(
             # see if Domain.corpus can handle it
             added = domain$corpus(x)
             if ( added ) {
-               id = domain.lsa()
+               id = domain$spacify()
             } else {
                stop ("DomainManager$add(): x is not a corpus, adding failed.")
             }

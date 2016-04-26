@@ -26,7 +26,7 @@ m["c","f"] = 1
 
 par(mfrow=c(3,3))
 for (n in c(0:5, (1:3)*50)) {
-   p = plot(network(m), mode="kamadakawai", layout.par=list(niter=n*50), main=paste(n, "iteration(s)"), vertex.col="white", vertex.cex=3, usearrows=FALSE)
+    p = plot(network::network(m), mode="kamadakawai", layout.par=list(niter=n*50), main=paste(n, "iteration(s)"), vertex.col="white", vertex.cex=3, usearrows=FALSE)
 }
 
 # - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -52,13 +52,13 @@ calculateReliefContour = function( netc, nrow=100, ncol=100 ) {
       if (y == 0) y = 1
       hills[ y, x ] = hills[ y, x ] + 1
    } # for each node
-   wireframe <- image.smooth(image.smooth(hills)$z, theta=1)$z
+   wireframe <- fields::image.smooth(fields::image.smooth(hills)$z, theta=1)$z
    return(list(hills=hills, wireframe=wireframe))
 }
 
 res = calculateReliefContour(netc=p)
 
-persp(res$hills, scale=FALSE,
+graphics::persp(res$hills, scale=FALSE,
 	expand=0.5,
 	border="white",
 
@@ -77,7 +77,7 @@ persp(res$hills, scale=FALSE,
 
 # - - - - - - - - - - - - - - - - - - - - - - - -
 
-persp(res$wireframe, scale=FALSE,
+graphics::persp(res$wireframe, scale=FALSE,
 	expand=0.5,
 	border="white",
 
@@ -101,14 +101,14 @@ topo.colors.pastel = function ( n = 21) {
    i = n - j - k # water
    alpha = 1
    cs = c(
-	   hsv(h = seq.int(from = 38/60, to = 31/60, length.out = i), s=0.5, v=0.8, alpha = alpha),
-   	hsv(h = seq.int(from = 18/60, to = 8/60, length.out = j), s=0.3, v=seq.int(from=0.6,to=1, length.out=j), alpha = alpha),
-	   hsv(h = seq.int(from = 7.8/60, to = 6/60, length.out = k), s=seq.int(from = 0.3, to = 0.1, length.out = k), alpha = alpha, v = seq.int(from = 0.85, to = 1, length.out = k))
+     grDevices::hsv(h = seq.int(from = 38/60, to = 31/60, length.out = i), s=0.5, v=0.8, alpha = alpha),
+     grDevices::hsv(h = seq.int(from = 18/60, to = 8/60, length.out = j), s=0.3, v=seq.int(from=0.6,to=1, length.out=j), alpha = alpha),
+     grDevices::hsv(h = seq.int(from = 7.8/60, to = 6/60, length.out = k), s=seq.int(from = 0.3, to = 0.1, length.out = k), alpha = alpha, v = seq.int(from = 0.85, to = 1, length.out = k))
    )
    return(cs)
 }
 
-barplot(rep(0.05,21), ylim=c(0,1), col=topo.colors.pastel(), xaxt="n", yaxt="n", space=0, border="black")
+graphics::barplot(rep(0.05,21), ylim=c(0,1), col=topo.colors.pastel(), xaxt="n", yaxt="n", space=0, border="black")
 
 # - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -125,7 +125,7 @@ border = "black"
 theta = 10
 phi = 30
 
-mapData = persp(
+mapData = graphics::persp(
 
 	res$wireframe,
 	col=tileColours(res$wireframe, col=topo.colors.pastel()), 

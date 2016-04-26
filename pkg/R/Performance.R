@@ -56,7 +56,7 @@ Performance <- setRefClass( "Performance",
          txt = gsub("[[:space:]]+", " ", txt)
          txt = unlist(strsplit(txt, " ", fixed = TRUE))
          nrwords = length(txt)
-         stopwords = sum( txt %in% stopwords() )
+         stopwords = sum( txt %in% tm::stopwords() )
          
          if ( sum(docvecs)<10 && ( (nrwords-stopwords) - 0.2*(nrwords-stopwords)) > sum(docvecs)) {
             cat(paste("WARNING: of ~", nrwords," words (incl. ~", stopwords," potential stopwords) only ",
@@ -402,8 +402,8 @@ function ( x ) {
       #a = agnes( proximity(ps), diss=FALSE )
       #b = cutree(as.hclust(a), h= 1- x[[1]]$domain$identityThreshold) # added 1-
 
-      a = hclust( as.dist((1+proximity(ps))/2), method="complete")
-      b = cutree(as.hclust(a), h=(1+x[[1]]$domain$identityThreshold)/2)
+      a = stats::hclust(stats::as.dist((1+proximity(ps))/2), method="complete")
+      b = stats::cutree(stats::as.hclust(a), h=(1+x[[1]]$domain$identityThreshold)/2)
       
       newps = list(NULL)
       d = unique(b)
