@@ -45,7 +45,7 @@ Please note, that there is currently no known interpretation of the difference b
 }}
 
 \seealso{
-	\code{\link{Person}}, \code{\link{Performance}}, \code{\link{lsa::cosine}}
+    \code{\link{Person}}, \code{\link{Performance}}, \code{\link[lsa:cosine]{cosine}}
 }
 
 \keyword{mpia}

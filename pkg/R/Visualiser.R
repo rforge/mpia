@@ -665,9 +665,9 @@ Visualiser$methods(
          segments( coords3d$x, coords3d$y, coords3d2$x, coords3d2$y, col=marker.col[2], lwd=2)
          
          if (box) {
-            boxed.labels(coords3d$x, coords3d$y, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
+            plotrix::boxed.labels(coords3d$x, coords3d$y, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
          } else {
-            boxed.labels(coords3d$x, coords3d$y, label, bg="transparent", border="transparent", xpad=1.5, ypad=2, cex=cex, col=col)
+            plotrix::boxed.labels(coords3d$x, coords3d$y, label, bg="transparent", border="transparent", xpad=1.5, ypad=2, cex=cex, col=col)
          }
          
       } else {
@@ -691,9 +691,9 @@ Visualiser$methods(
          points(x,y, cex=cex, pch=4, col=marker.col[1], lwd=2)
          
          if (box) {
-            boxed.labels(x+pixelx, y+pixely, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
+            plotrix::boxed.labels(x+pixelx, y+pixely, label, bg=bg, border=border, xpad=1.5, ypad=2, cex=cex, col=col)
          } else {
-            boxed.labels(x, y+6*pixely, label, bg="transparent", border="transparent", xpad=1.5, ypad=2, cex=cex, col=col)
+            plotrix::boxed.labels(x, y+6*pixely, label, bg="transparent", border="transparent", xpad=1.5, ypad=2, cex=cex, col=col)
          }
          
          # fix for trellis graphics (wireframe):
@@ -868,7 +868,7 @@ Visualiser$methods(
 		alpha = if (length(performanceList)>1) seq(0.3, 1, length.out=length(performanceList)) else 1,
 		label = TRUE, component.labels = TRUE, component.arrows=TRUE, dot.cex=1, box = TRUE, connect = TRUE ) {
       
-      if (length(performanceList)>1 && length(alpha)==1) shades = rep(alpha(col, alpha), length(performanceList)) else shades = alpha(col, alpha)
+      if (length(performanceList)>1 && length(alpha)==1) shades = rep(scales::alpha(col, alpha), length(performanceList)) else shades = scales::alpha(col, alpha)
          
       path = NULL
 

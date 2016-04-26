@@ -89,7 +89,7 @@ terms(p)
 
 \seealso{
 	\code{\link{terms}}, \code{\link{overlap}}, \code{\link{near}}, \code{\link{proximity}}, \code{\link{competences}}, 
-   \code{\link{names}}, \code{\link{position}}, \code{\link{plot.performance}}, \code{\link{Domain-class}}, \code{\link{Domain}}
+   \code{\link{names}}, \code{\link{position}}, \code{\link{plot}}, \code{\link{Domain-class}}, \code{\link{Domain}}
 }
 
 \keyword{ mpia }

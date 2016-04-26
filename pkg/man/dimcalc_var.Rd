@@ -33,7 +33,7 @@
 \references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
 
 \seealso{
-	\code{\link{lsa::dimcalc_raw()}}
+    \code{\link[lsa:dimcalc_raw]{dimcalc_raw()}}
 }
 
 \examples{

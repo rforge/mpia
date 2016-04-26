@@ -54,7 +54,7 @@ terms(fridolin)
 \references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
 
 \seealso{
-   \code{\link{Performance}}, \code{\link{Person}}, \code{\link{getActivatedTerms}}
+   \code{\link{Performance}}, \code{\link{Person}}, \code{\link{Performance-class}}
 }
 
 \keyword{ mpia }

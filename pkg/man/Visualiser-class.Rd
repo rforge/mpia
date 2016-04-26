@@ -58,7 +58,7 @@
     \item{\code{labelFlag(x, y, label, border, bg, cex, box, col, marker.col)}:}{ Helper method to plot a label flag onto a particular location on the map. }
 
 
-    \item{\code{plotPath(performanceList, col, alpha, label, component.labels, component.arrows, dot.cex, box, connect)}:}{ Plot a sequence of markers on the map, each indicating the exact location of a performance. If \code{connect} is set to \code{TRUE}, a \code{\link{graphics::x-spline}} will be used to connect the locations. }
+    \item{\code{plotPath(performanceList, col, alpha, label, component.labels, component.arrows, dot.cex, box, connect)}:}{ Plot a sequence of markers on the map, each indicating the exact location of a performance. If \code{connect} is set to \code{TRUE}, a \code{\link{xspline}} will be used to connect the locations. }
     \item{\code{plotPerformance(performance, polyMax, col, label, component.labels, component.arrows, dot.cex)}:}{ Plot a marker onto the exact location of a performance (and add markers for the top loading terms activated by it). If \code{component.arrows} is \code{TRUE}, arrows will be plotted starting from the location of the performance and pointing towards the position of the constituting key terms; if it is \code{FALSE}, a dot will be plotted (with \code{dot.cex} size). \code{polyMax} sets the number of component terms to be highlighted, per default 3. }
 
     \item{\code{summary()}:}{ Display summary statistics about the visualisation data held (use generic \code{summary} instead). }

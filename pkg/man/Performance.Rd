@@ -60,7 +60,7 @@
 
 \seealso{
 	More detailed information: \code{\link{Performance-class}},
-   \code{\link{terms}}, \code{\link{performances}}, \code{\link{overlap}}, \code{\link{plot.performance}}, \code{\link{Domain-class}}, \code{\link{Domain}}
+   \code{\link{terms}}, \code{\link{performances}}, \code{\link{overlap}}, \code{\link{plot}}, \code{\link{Domain-class}}, \code{\link{Domain}}
 }
 
 \examples{

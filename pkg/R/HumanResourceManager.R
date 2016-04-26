@@ -186,7 +186,7 @@ HumanResourceManager$methods(
          } # for l
       } # for i
 
-      rownames(prox) = names(ppl)
+      rownames(prox) = names(people)
       colnames(prox) = rownames(prox)
       
       #a = agnes( prox, diss=FALSE )

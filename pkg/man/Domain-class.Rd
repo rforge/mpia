@@ -79,7 +79,7 @@
     \item{\code{getSpace()}:}{ Returns the space object. }
     \item{\code{setSpace(x)}:}{ Set the space object (an \code{LSAspace}). }
 
-	 \item{\code{submit()}:}{ Not yet implemented: hook for remoting via \link{http://cRunch.kmi.open.ac.uk}. }
+	 \item{\code{submit()}:}{ Not yet implemented: hook for remoting via http://cRunch.kmi.open.ac.uk. }
 
     \item{\code{print()}:}{ Pretty printing of the domain object. }
 	 \item{\code{show()}:}{ Display the object by printing its key characteristics. }
@@ -99,7 +99,7 @@
 }
 
 \seealso{
-\code{\link[lsa]{lsa}}, \code{\link[tm]{tm}}, \code{\link[lsa:textmatrix]{textmatrix}}
+\code{\link[lsa]{lsa}}, \code{\link[tm:Corpus]{tm}}, \code{\link[lsa:textmatrix]{textmatrix}}
 }
 
 \keyword{mpia}

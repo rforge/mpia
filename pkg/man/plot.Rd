@@ -48,7 +48,7 @@
 }}
 
 \seealso{
-   \code{\link{Visualiser}} and \code{\link{Visualiser-Class}} for more details on how to configure the map and marker display.
+   \code{\link{Visualiser}} and \code{\link{Visualiser-class}} for more details on how to configure the map and marker display.
 }
 
 \author{Fridolin Wild <fridolin.wild@open.ac.uk>}

@@ -86,7 +86,7 @@ function( a, b, method="cosine") {
          } # for l
       } # for i
       
-      rownames(prox) = names(ppl)
+      rownames(prox) = names(a$people)
       colnames(prox) = rownames(prox)
 		
       return(prox)

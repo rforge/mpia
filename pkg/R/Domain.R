@@ -215,7 +215,7 @@ corpus = function( x ) {
       tm = tm_map(tm, tolower)
       tmorig = tm
       tm = tm_map(tm, stemDocument, language="en")
-      dict = Dictionary(TermDocumentMatrix(tmorig, control=list(removePunctuation=TRUE, stopwords=FALSE, minWordLength=1, removeNumbers=TRUE)))
+      dict = Terms(TermDocumentMatrix(tmorig, control=list(removePunctuation=TRUE, stopwords=FALSE, minWordLength=1, removeNumbers=TRUE)))
       dtm = TermDocumentMatrix(tm, control = list(
 	      removePunctuation = TRUE, removeNumbers = TRUE, stopwords = TRUE,
 	      minWordLength = 3, bounds = list(global=c(1,Inf))

@@ -1,12 +1,12 @@
 Package: mpia
 Title: Meaningful Purposive Interaction Analysis
-Version: 0.63
-Date: 2016-04-25
+Version: 0.64
+Date: 2016-04-26
 Authors@R: c(person("Fridolin", "Wild", role = c("aut", "cre"),email = "wild@brookes.ac.uk"))
 Author: Fridolin Wild
 Maintainer: Fridolin Wild <wild@brookes.ac.uk>
-Depends: R (>= 3.0), methods
-Imports: tm, digest, lsa, sna, stats, fields, graphics, lattice, grDevices, plotrix, scales, pracma, network, cluster
+Depends: R (>= 3.0), methods, tm, lsa
+Imports: digest, sna, stats, fields, graphics, lattice, grDevices, plotrix, scales, pracma, network, cluster
 Description: A computational model to understand, analyse, and advise on human learning.
 License: GPL (>= 2)
 LazyData: no
