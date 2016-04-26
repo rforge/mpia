@@ -75,7 +75,8 @@
 \examples{
 
 d = Domain(name="test")
-evidence = TermDocumentMatrix( Corpus( VectorSource( c("abc abc def", "def ghi", "ghi abc, lmno", "lmno abc wxyz") ) ) )
+evidence = TermDocumentMatrix( Corpus( VectorSource( c("abc abc def",
+    "def ghi", "ghi abc, lmno", "lmno abc wxyz") ) ) )
 d$corpus(evidence)
 d$spacify()
 

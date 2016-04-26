@@ -46,6 +46,6 @@ importFrom(scales, alpha)
 importFrom(pracma, pinv)
 importFrom(network, network, plot.network)
 importFrom(cluster, agnes)
-
+import(Matrix)
 import(methods)
 import(grDevices)
