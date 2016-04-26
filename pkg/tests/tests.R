@@ -37,7 +37,7 @@ source("testbank/PersonTests.R")
 # -  -  -  -  -  -  -  -  -  -  -  -
 # INTROSPECTION
 
-source("testbank/introspectionTests.R")
+source("testbank/IntrospectionTests.R")
 
 # -  -  -  -  -  -  -  -  -  -  -  -
 # PROXIMITY
