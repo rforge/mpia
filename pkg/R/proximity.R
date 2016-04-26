@@ -190,7 +190,7 @@ function( x, y, ... ) {
 
 setMethod("cosine", signature=list(x="vector", y="matrix"),
 function( x, y, ... ) {
-   cat("hu")
+   cat("hu?")
    co = NULL
 	for (i in 1:nrow(y)) {
       co = c(co, cosine(x, y[i,]))

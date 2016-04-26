@@ -32,5 +32,17 @@ exportClasses(
      "Visualiser" 
 )
 
-export("DomainManager")
-
+importFrom(tm, Corpus, DirSource, readPlain, tm_map, VectorSource, stemDocument, tolower, TermDocumentMatrix, Dictionary, stemCompletion, Terms)
+importFrom(digest, digest)
+importFrom(lsa, lsa, dimcalc_raw, as.textmatrix, query)
+importFrom(sea, component.dist, betweenness, gplot.layout.kamadakawai, prestige)
+importFrom(stats, hclust, cutree, as.hclust, as.dist, xtabs)
+importFrom(fields, image.smooth, make.surface.grid, interp.surface)
+importFrom(graphics, image, contour, persp, filled.contour, segments, arrows, points, xspline, lines, barplot, axis, text, abline)
+importFrom(lattice, wireframe)
+importFrom(grDevices, hsv, heat.colors, trans3d, dev.size, gray, pdf, x11, quartz, windows, dev.off)
+importFrom(plotrix, boxed.labels)
+importFrom(scales, alpha)
+importFrom(pracma, pinv)
+importFrom(network, network, plot.network)
+importFrom(cluster, agnes)
