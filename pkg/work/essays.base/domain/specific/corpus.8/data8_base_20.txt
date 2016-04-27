@@ -1,0 +1,6 @@
+Die Relevanz der Ziele sollte vom Entscheider bzw. vom Entscheidungsgremium möglichst
+in Form intervallskalierter Werte (Gewichte) z.B. mit Hilfe einer Prozentskala angegeben
+werden. Darüber hinaus müssen auch die Alternativen bezogen auf einzelne Ziele intervallskaliert
+eingeschätzt werden. Allerdings ist es kaum möglich, für eine größere Menge von
+Zielen simultan realistische Gewichte zu vergeben. Auch die Bewertung der einzelnen Alternativen
+bezüglich ihrer Zielerreichung in numerischer Form ist schwierig.

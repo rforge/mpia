@@ -1,0 +1,4 @@
+Auch Data Encapsulation genannt
+Man verhindert hier den direkten zugriff auf Variablen im Beispiel realisiert durch zB private (essenzielles Keyword).
+Auf Instanzvarablen kann nur mittels Methoden zugegriff. werden, die public deklariert sein müssen,
+vorteile: gewährleistet zB keine Datenmanipulation,...

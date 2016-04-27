@@ -1,0 +1,7 @@
+Ein Interface ist ähnlich einer Klasse zu
+implementieren, kann jedoch nur konstante
+Variablen haben.
+Es definiert eine Schnittstelle zwischen verschiedenen
+Klassen und Objekten.
+Es legt die Verhaltensweise der Objekte
+miteinander fest.

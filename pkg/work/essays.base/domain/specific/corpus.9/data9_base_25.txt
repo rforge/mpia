@@ -1,0 +1,2 @@
+Im Funktionenmodell werden alle Funktionen des Systems aus Nutzersicht beschrieben. Eine gute
+Möglichkeit, das Funktionenmodell aus Anforderungssicht zu beschreiben, sind use cases.

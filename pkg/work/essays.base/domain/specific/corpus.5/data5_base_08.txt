@@ -1,0 +1,4 @@
+Ein Domänenmodell der Organisationsstruktur eines Unternehmens kann z.B.
+folgendermaßen aussehen: Es gibt einen Oberbegriff Organisationseinheit. Eine
+Organisationseinheit kann eine Abteilung oder eine Person sein. Eine Abteilung
+wiederum kann aus mehreren Organisationseinheiten bestehen.

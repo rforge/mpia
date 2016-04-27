@@ -1,0 +1,10 @@
+Eine Individualentwicklung ist den Bedürfnissen des Unternehmens
+angepasst. Bei einem Standardprodukt ist dies nicht der Fall, hier
+muss sich die Firma oft der Software anpassen. Vorteile von
+Standardsfotware sind, dass diese im Vergleich günstiger sind,
+sie für verschiedene Sprachen erhältich sind (neue Mitarbeiter
+in Osteuropa). Das Standardprodukt hat schon definierte
+Schnittstellen, bei der Selbstentwicklung muss dies nicht immer der
+Fall sein. Ein Reengineering könnte kompliziert werden, wenn nicht gut
+und auführlich dokumentiert wurde. Sollten nur kleine Anpassungen notwendig
+sein ist ein Reengineering sicher vorteilhaft.

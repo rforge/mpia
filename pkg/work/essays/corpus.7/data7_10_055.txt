@@ -1,0 +1,6 @@
+Ein Interface ist eine Schnittstelle zu verschiedenen
+Klassen, welche miteinander kommunizieren
+sollen. Es erleichtert den Programmieraufwand
+und Klassen können Klassen aufeinander zugreifen.
+In eine Interface wird die Schnittstelle der Klasse
+definiert.

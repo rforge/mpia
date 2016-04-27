@@ -1,0 +1,11 @@
+anforderungsdefinition: vollständige gewinnung sämtlicher anforderungen
+an ein system -> anforderungstype -> primär -> abgeleitet
+meist auf abstrakter ebene. einhaltung der anforderungen -> obligatorisch -> kann-bestimmung: bis zu einem bestimmten grad einzuhalten -> information
+art der anforderung -> produkt-bezogen, projektbezogen
+priorität
+anforderungsspezifikation: verbindung zum entwickler. meist werden
+modelle zur darstellung einesetzt.
+repräsentation: darstellung der anforderungen. schriftliche
+form und modelle
+verhandlung: einigung auf eine anforderungsanalyse
+software-spezifikation: modelle für den entwickler, systementwurf, implementierung

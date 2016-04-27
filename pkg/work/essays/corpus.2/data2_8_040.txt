@@ -1,0 +1,24 @@
+Interagent mit dem User
+Einkaufswagen: merkt sich Ware für das nachste Mal
+für Anbieter: Kundendatenverwaltung, Kundenadministration
+
+
+Web Browser <-> WWW Server <-> el. Katalog <-> Produktdatenbank, Kundendatenbank
+Kunde        HTTP                Händler
+
+Katalog der dynamisch ist -> Applicationsserver
+Ständige Abstimmung und unternehmensinternen Daten -> auf Website
+Anpassung an Kundendaten
+Kunde
+24 Bereitschaft
+schneller Preisvergleich
+höhere Bequemlichkeit
+rasche Suche
+Anpassung an Kundendaten
+
+
+Anbieter:
+Kundenprofile sammeln, bessere Verwaltung der Kundendaten
+spart sich Intermediare und kann Preisvorteil zu Kunde weitergeben
+Kostenersparnis in Marketing
+Auswertungen, CRM Marketing

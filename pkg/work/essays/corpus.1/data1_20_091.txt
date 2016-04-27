@@ -1,0 +1,1 @@
+Information Hiding: Variable sind nur über Methoden zugänglich, werden als private deklariert, können nicht geändert werden (nachname, angemeldet)

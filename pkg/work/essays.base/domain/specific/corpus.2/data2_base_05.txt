@@ -1,0 +1,4 @@
+Genau diese Aufgabe übernehmen elektronische Kataloge!
+Die von den einzelnen Herstellern erstellten Kataloge werden von den Händlern
+in ihr Warenwirtschaftssystem importiert und stehen damit umgehend zur
+Verfügung.

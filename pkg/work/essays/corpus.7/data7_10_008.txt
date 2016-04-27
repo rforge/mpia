@@ -1,0 +1,5 @@
+Programmteil, um externe Daten öffnen und darauf
+schreiben zu können. Dadurch
+verteilte Programmierung möglich
+=> jeder schreibt Package-Teil, der dann
+über Interfaces abgerufen wird

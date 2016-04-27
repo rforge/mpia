@@ -1,0 +1,3 @@
+komponententest: einzelne komponenten werden getestet
+integrationstest: komponenten und umgebung auf integrität getestet
+systemtest: voll check aus der sicht des anwenders

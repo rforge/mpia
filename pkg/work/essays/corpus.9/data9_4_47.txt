@@ -1,0 +1,21 @@
+zuerst müssen alle nötigen anforderungen gesammelt
+werden, diese müssen als ergebnis
+eine fehlerlose und widerspruchsfreie spezifikation
+ergeben.
+die anforderungne müssen eben definiert werden und danach
+spezialisiert. dabei muss man aber darauf auchten, dass
+diese auch allgemein verständlich ist und von jedem
+akzeptiert wird, denn es sind viele verschiedene
+personen mit verschiedenen anforderungsvorstellungen, wissen,
+interesse, etc. beteiligt. durch verhandlungen muss
+man für die anforderung eben einen konsens finden,
+damit diese letztendlich auch von allen akzeptiert
+und verstanden wird. die anforderung soll auch
+dementsprechend repräsentiert werden, durch formale
+oder informale darstellung.
+bei der anforderungsanalyse sind auch noch
+zu beachten -> die prioritäten und zwar in bezug
+auf zeit (ist es eine langfristige anforderung), in bezug auf das
+budget (monetäre rahmen) und auch auf die quelle
+(von wem diese anforderung kommt, es macht einen unterschied
+ob sie vom lagerarbeiter oder vom geschäftsführer kommt)

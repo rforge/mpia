@@ -1,0 +1,2 @@
+In einem Interface wird eine Schnittstelle definiert
+über die eine Klasse angesprochen werden kann.

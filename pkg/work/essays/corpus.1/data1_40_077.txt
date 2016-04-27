@@ -1,0 +1,4 @@
+Information Hiding verhindert, das aus anderen Klassen die Instanzvariablen der Klasse direkt referenziert werden können.
+In diesem Beispiel werden die Instanzvariablen nachname und angemeldet der Klasse Student als private deklariert. dh sie können nur innerhalb der eigenen Klasse geändert (referenziert) werden. Die Variable Vorname könnte auch außerhalb der eigenen Klasse referenziert werden ( Standardeinstellung. package).
+die Methoden istAngemeldet und getNachname werden als public deklariert. Dh sie können von der eigenen Klasse aber nicht von allen anderen Klassen aufgerufen werden. Diese beiden Methoden geben den Wert von angemeldet bzw. nachname vom jeweiligen aufrufenden Objekt zurück.
+I.H. verhindert Datenmanipulation aber auch irrtümmliche Änderung der Daten. Außerdem ermöglicht es eine Zugriffskontrolle.

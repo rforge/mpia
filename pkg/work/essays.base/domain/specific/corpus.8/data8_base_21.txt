@@ -1,0 +1,16 @@
+Eine Möglichkeit, die Gewichtung bzw. die Bewertung objektiver und auch für den Entscheidungsträger
+einfacher zu gestalten, ist die Anwendung des AHP, der Ähnlichkeiten mit der
+Bildung von Rangreihen durch einen vollständigen, ordinalen Paarvergleich [15] hat. Die Gewichte
+werden nicht in numerischer Form festgelegt, sondern durch paarweisen Vergleich der
+Ziele bestimmt. Die Ergebnisse der Vergleiche werden in eine Matrix eingetragen. Die Ziele
+werden zunächst nach abnehmender Wichtigkeit geordnet. Der Entscheidungsträger wird
+dann jeweils befragt, wieviel wichtiger Ziel A im Vergleich zu Ziel B ist. Mögliche
+Antworten (Werte für die Matrix in Klammern) sind “gleich wichtig” (1) über verschiedene
+Abstufungen bis hin zu “wesentlich wichtiger” (9). Der Wert für den umgekehrten Vergleich
+wird nicht erfragt, sondern es wird der reziproke Wert in die Matrix eingetragen. Wenn bei
+den Vergleichen intransitive Urteilsverkettungen auftreten, war die Anordnung der Ziele
+nicht korrekt und der Vorgang muß wiederholt werden. Sobald die Matrix vollständig besetzt
+ist, wird der größte Eigenwert sowie der zugehörige Eigenvektor errechnet. Der Eigenvektor
+wird schließlich so normalisiert, daß die Summe seiner Komponenten den Wert 1 ergibt. Die
+Komponenten repräsentieren die relative Wichtigkeit der einzelnen Ziele. Ein Beispiel zur
+Ermittlung der Gewichte von drei Zielen ist in Abbildung 3 dargestellt.

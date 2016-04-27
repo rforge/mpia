@@ -1,0 +1,2 @@
+Wie schon aus dem Titel von Deerwesters Artikel hervorgeht, gründet sich der Ansatz zu dieser Methode auf der Annahme, dass die in den Dokumenten verwendeten Terme eine „semantische Struktur“ höherer Ordnung besitzen. Grob gesagt, gibt es Abhängigkeiten und Korrelationen zwischen den Indextermen. Durch Ausnutzen dieser Struktur beim Indexieren kann das Auffinden relevanter Dokumente mittels Suchtermen verbessert werden.
+

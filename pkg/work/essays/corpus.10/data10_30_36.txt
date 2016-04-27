@@ -1,0 +1,3 @@
+komponententest - die funktionalitäten der software-komponenten werden auf dieser abstraktionsebene getestet
+integrationstest - testätigkeiten, die das ziel befolgen, die interaktionen und zusammenhänge zwischen den software-komponenten zu testen und zu vergleichen, ob diese interaktionsbeziehungen der anforderungsspezifikation entsprechen
+systemtest - testverfahren, das das system als ganzes und die beziehungen des systems mit der software-umgebung (kontext) testet (höchste abstraktionsebene)

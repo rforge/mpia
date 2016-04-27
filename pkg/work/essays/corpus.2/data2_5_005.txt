@@ -1,0 +1,26 @@
+Der Trend geht hin zur Verwendung von gekaufter Software.
+Hierbei werden meist vom Lieferanten die Daten in den Katalog eingegeben.
+Strukturierte Aufbereitung der Artikel/Informationen
+
+Anbieter <-> E-Katalog <- Produktdaten, Kundendaten
+
+Kunde: 
+Möglichkeit Communities beizutreten
+elektronische Bestellung
+Auftragsbestätigung
+Man kann genau feststellen, wo sich das Produkt befindet
+Abrechnung
+Einkaufskorb
+aktuelle Bestellmenge
+
+Ein elektronischer Katalog bietet dem Kunden die Möglichkeit, aus vorhandenen Produkten durch strukturierte Suche auszuwählen, zu bestellen und den Wareneingang abzuwickeln
+
+Produzent/Anbieter
+
+Gutschriftverfahren
+leichtere/papierlose Abwicklung von Bestellungen und Rechnungen
+Verwaltet Katalog, da Dienst für Kunden (könnte besser sein, da dadurch Loyalität gewährleistet wird)
+			Produktupdates von ihm am besten vorgenommen werden können
+Auswertung der Bestellstatistik
+Transaktionsnachverfolgung
+Generierung von Kundendaten

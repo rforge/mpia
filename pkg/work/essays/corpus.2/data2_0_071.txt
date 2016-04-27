@@ -1,0 +1,2 @@
+Elektronische Katalog: Anbieter, Kunde
+DB (Datenbank)

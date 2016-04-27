@@ -1,0 +1,3 @@
+systemtest - test des quellcodes
+komponententest - code / kontext test
+integrationstest - test der spezifikation

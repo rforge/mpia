@@ -1,0 +1,3 @@
+modulebene - die einzelnen komponenten werden einzeln getestet
+systemebene - die kooperation der komponenten miteinander wird getestet
+kontextebene - die software wird so getestet, als daß in den einsatz wäre, also wie das die endbenutzer sehen

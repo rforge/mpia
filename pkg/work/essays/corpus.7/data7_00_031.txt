@@ -1,0 +1,3 @@
+Wird zwischen der Superklasse und der Subklasse
+errichtet, ist ein Zwischenplatz, dass von beiden
+benutzt werden kann

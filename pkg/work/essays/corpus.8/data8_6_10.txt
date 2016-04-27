@@ -1,0 +1,7 @@
+Standardprodukt ist möglicherweise für die internationale Erweiterung
+besser gerüstet durch lokalisierungsoptionen.
+Reengineering ist nur ratsam, wenn das Legacy Stem gut dokumentiert ist und
+der Code leicht verständlich und gut strukturiert. Es gäbe die Möglichkeit
+des Reverse- & Forward Engineering. Standardprodukt würde bei einer
+Big Bang Einführung möglicherweise große Umstellungsaufwände / Schulungsaufwände
+bedeuten.

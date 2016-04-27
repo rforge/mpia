@@ -1,0 +1,3 @@
+Das Rollenkonzept ist einerseits ein Beitrag zur Kapselung, da Rollen zu einer
+Klasse zusammengefasst werden, andererseits zu Information Hiding, da Clients
+nur eine Rolle sehen.

@@ -1,0 +1,4 @@
+Es kann nicht direkt auf die Variablen nachname und angemeldet zugegriffen werden, da private definiert.
+Schützt vor unerlaubtem Zugriff
+Schützt vor Fehlern beim programmieren
+Damit die genannten Variablen geschützt werden können, muss der Zugriff mit einer eigenen Methode erfolgen. getNachname ist Angemeldet

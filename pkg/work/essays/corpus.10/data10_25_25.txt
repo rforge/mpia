@@ -1,0 +1,3 @@
+systemebene: hier wird das komplette software system auf seine lauffähigkeit und funktion geprüft
+integrationseben: hier wird das zusammenspiel der verschiedenen komponenten auf funktionsfähigkeit überprüft
+komponenteneben: hier werden die einzelnen softwarekomponenten / -bausteine auf ihre funktionsfähigkeit überprüft

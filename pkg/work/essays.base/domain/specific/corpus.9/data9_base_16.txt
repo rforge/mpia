@@ -1,0 +1,7 @@
+Inhalte:
+vollständige, eindeutige, testbare Beschreibung der Systemanforderungen
+- Vollständig heißt hier, dass alle Details der Anforderungen definiert sind.
+- Eindeutig heißt hier, dass Formulierungen und Darstellungen gewählt werden, die
+anschaulich und unmissverständlich sind.
+- Testbar heißt, dass zu jeder Anforderung Kriterien angegeben werden (z.B. Testfälle),
+die deutlich machen, wie die Erfüllung der Anforderung überprüft werden kann.

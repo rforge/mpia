@@ -1,0 +1,12 @@
+Ontologie-basierte Suche und Navigation
+Andreas D. Lattner1, René Apitz2, Christian Schäffer1, Thomas Sindt1
+1Technologie-Zentrum Informatik (TZI), Universität Bremen
+2Institut für Fertigungstechnik und Werkzeugmaschinen (IFW), Universität Hannover
+Die Bereitstellung von Informationen ist eine technische Grundvoraussetzung, um Wissen
+erfolgreich managen zu können. Bei großen und heterogenen Informationsbeständen, wie
+sie im Umfeld von Produktentwicklung und Fertigung vorliegen, werden die Grenzen
+herkömmlicher Retrievaltechnologien jedoch deutlich. Es ist daher sinnvoll, nicht nur den
+textuellen Inhalt einer Informationsquelle, sondern vielmehr auch die Struktur der miteinander
+vernetzten Informationsobjekte für die Suche einzusetzen. Ontologie-basierte Suche und
+Navigation ermöglichen es, auf einfache Art komplexe, zielgerichtete Anfragen zu stellen und
+gleichzeitig die assoziative Intelligenz des Anwenders zu nutzen.

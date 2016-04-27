@@ -1,0 +1,18 @@
+Invidividualprodukt:
+Produkt ist den Mitarbeitern bekannt
+hat sich bewährt
+erweiterbar
+kostengünstiger als Neuentwicklung
+Verlängerung des Lebenszyklus
+einfachere Wartung
+international nicht umsetzbar
+entspricht nicht den neuen Anforderungen
+sprachliche Barrieren
+
+Standardprodukt:
+hoher Standardisierungsgrad
+Einschulung und Wartung des Produktes
+durch SAP
+hohe Lizenzgebühren - teuer
+Einschulung der Mitarbeiter
+jetziges Programm wertlos

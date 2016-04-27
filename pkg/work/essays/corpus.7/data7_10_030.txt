@@ -1,0 +1,3 @@
+Interface ist eine Schnittstelle
+Zur Kommunikation zwischen Dateien und Programmen auﬂerhalb
+des "eigenen Programms" (zum Beispiel Datenimport, Ausgabe am Bildschirm, Drucker)

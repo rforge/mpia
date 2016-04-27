@@ -1,0 +1,4 @@
+Information Hiding wird auch Data Encapsulation genannt.
+Es werden die Variablen private deklariert.
+Dadurch können die Variablen nur in der Klasse selbst aufgerufen werden, es kann nicht direkt auf sie zugriffen werden, sondern über die Methoden get und set.
+Sie dient dazu, um Veränderungen aus anderen Klassen zu vermeiden.

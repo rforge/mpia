@@ -1,0 +1,20 @@
+die anforderungsanalyse (requirements engineering) besteht grob gesagt aus drei
+zusammenhängenden teilen:
+der anforderungsdefinition: hier wird in verbaler sprache
+festgelegt, welche ziele ein system
+haben soll, was zunächst nur
+sehr abstrakt möglich ist
+(=> lastenheft)
+der anforderungsspezifikation: hier wird die definition 
+aus dem lastenheft
+verfeinert und zum
+pflichtenheft, das bereits
+alle programmiereigenschaften
+beinhaltet, weiterentwicklung
+repräsentation / spezifikation / verhandlung
+und der software-spezifikation
+die anforderungsspezifikation wird
+dann in technisches vokabular
+übergeleitet, um für techniker
+verständlich eine implementierung
+zu ermöglichen.

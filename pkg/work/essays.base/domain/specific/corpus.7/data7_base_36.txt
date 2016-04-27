@@ -1,0 +1,7 @@
+Die einzelnen Basistechnologien sind aufgrund der Homogenität der
+.NET-Plattform beliebig miteinander kombinierbar. Für die Programmierung
+unter Windows stellt dies einen zukunftsweisenden Schritt und Ein großer Fortschritt
+bei der Windowsentwicklung
+großen Fortschritt dar. Die komplexen Zusammenhänge und das Zusammenspiel
+der einzelnen Basistechnologien stellen wir ab Kapitel 13
+anhand mehrerer komplexer Anwendungsbeispiele dar.

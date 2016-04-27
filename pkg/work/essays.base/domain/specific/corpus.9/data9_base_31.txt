@@ -1,0 +1,3 @@
+Reichen Nutzungsfälle und Szenarien nicht aus, um das gewünschte Systemverhalten hinreichend
+genau zu beschreiben, so können auch Zustandsautomaten und andere Formalismen (temporale
+Logik, Relationen zwischen Ein- / Ausgaben) verwendet weden.

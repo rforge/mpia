@@ -1,0 +1,2 @@
+Das Hauptproblem, wie es im Kapitel 2 ausformuliert wurde, lässt sich in einem Wort als Unzuverlässigkeit der Daten zusammenfassen. Diese Unzuverlässigkeit ist aber bei jeder gegebenen Dokumentenbasis verschieden, und wir können von vornherein nichts über den Grad der Unzuverlässigkeit aussagen. Daher sollte eine Methode in irgendeiner Weise an das Problem angepasst werden können.
+

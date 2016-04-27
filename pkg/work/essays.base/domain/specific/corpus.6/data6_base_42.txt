@@ -1,0 +1,2 @@
+An der Grösse der resultierenden Produktmatrix X’ hat sich hingegen nichts geändert, denn T’ enthält nach wie vor t Zeilen (d.h. weiterhin alle Terme) und D’ nach wie vor d Spalten (d.h. weiterhin alle Dokumente). Es gibt lediglich weniger zu Rechnen, wenn wir X durch X’ annähern. 
+

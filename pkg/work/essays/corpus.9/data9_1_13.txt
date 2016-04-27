@@ -1,0 +1,5 @@
+zuerst müssen die ziele der entwicklung definiert sein, um feststellen
+zu können welche komponenten das softwaresystem benötigen wird. dabei
+wird zum beispiel der geschäftsprozess (beziehungsweise die prozesse) in der personalverwaltung
+analysiert. danach kann man ermitteln welche module
+benötigt werden.

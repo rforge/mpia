@@ -1,0 +1,5 @@
+API = Application Programming Interface
+-> genaue Beschreibung der Inhalte und
+Funktionen der Packages
+Dient zur Schnittstellendefinition zwischen verschiedenen
+Programmteilen und Packages

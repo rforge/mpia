@@ -1,0 +1,11 @@
+Unter einem elektronischen Katalog versteht man die "Portierung" eines Produktkataloges (mit Preisen etc.) in eine Datenbank.
+Diese läßt sich meist über ein Webinterface abfragen.
+Bsp. geizhals.at
+Auch Einbindungen für den online-Einkauf sind möglich und üblich -> Auch Suchfunktionen und Shop-Lösungen (mit Warenkorb Bsp. amazon.de) heute an der Tagesordnung.
+Vorteile von einem Elektronischem Katalog:
+Kunde kann die genauen Spezifikationen, Preis ... 24h online abfragen und sich zB.: dr. Java.Applets mit dem Produkt beschäftigen
+Preisvergleiche werden dr. Elektr. Kat. erheblich vereinfacht. -> Markttransparenz -> weiterer Absatzkanal für den Produzenten
+Funktionsweise aus Sicht des Einkäufers
+Suche im Katalog -> gewähltes Produkt zum Warenkorb hinzufügen -> Einkauf abschicken (Bezahlungsart wählen, Adresse ...) -> Abwicklung der Bez. dr. zB. Kreditkartenorganisation
+Sicht d. Verkaufers:
+Erstellung d. Kataloges -> Programmierung der DB Abfrage -> ... ev. automatische Preisänderungen mit einprogrammieren (hohe Nachfrage erhöht generisch den Preis ..

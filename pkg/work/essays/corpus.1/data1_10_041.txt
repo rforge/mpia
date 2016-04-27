@@ -1,0 +1,2 @@
+In Instanz-Variablen in der Klasse wird vor Zugriff von klassen von außerhalb geschützt
+Data-Kapselung

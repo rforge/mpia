@@ -1,0 +1,5 @@
+Ein elektr. Katalog ist sie digitale Abbildung eines analogen Kataloges
+Funktion:
+aus Sicht d. Kunden: Es werden Produkte, die digital vermarktbar sind, beschrieben; Es kann gezielt u. schnell n. nach Produkten bzw. Produkteigenschaften gesucht werden
+Hauptbestandteile: Daten, Datenbank, Metadaten über Daten
+Funkt. d. (Admin.) Anbieter: Statistiken über Anzahl d. Käufe bzw. Verkäufer können erhoben worden; Eis können Customer Profile angelegt werden z.B.: demographische Daten d. Kunden

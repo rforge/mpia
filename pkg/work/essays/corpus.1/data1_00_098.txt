@@ -1,0 +1,1 @@
+Schützen Methoden gegen Zugriff von Aussen. Dadurch wird verhindert dass durch die anderen Zugriffe der Inhalt geändert werden kann

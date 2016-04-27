@@ -1,0 +1,8 @@
+Im elektronischen Katalog werden Produkte (Infos, Preise, usw.) gespeichert und ermöglichen es dem Kunden z.B: Informationen über Produkte einzuholen und zu bestellen;
+Katalog besteht aus einer Datenbank, in der Produkte gespeichert sind;
+diese DB liegt auf einem Server;
+Kunden greifen über Internet auf die Informationen zu;
+Anbieter: füllt DB mit Daten; meistens schon mit Artikelverwaltungsprogramm verbunden; hat Softwarekomponente die Bestellung wartet
+Kunde: öffnet Katalog im Internet; informiert sich über Produkte;
+hat Suchmöglichkeiten; kann sich als Benutzer registrieren (ev. Rabatte) ,
+wählt Produkt aus -> Warenkorb -> speichert Artikel -> kann Bestellung abschicken; sichere Verbindung (z.B: SSL) -> verschiedene Zahlungsarten

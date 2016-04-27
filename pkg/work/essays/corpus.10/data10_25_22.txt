@@ -1,0 +1,3 @@
+komponententest: zusammenspiel der komponenten getestet
+systemtest: das system selbst getestet ob es anforderungen entspricht
+integrationstest: interaktion zwischen system und seiner umgebung testen

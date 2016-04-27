@@ -1,0 +1,11 @@
+Ein Interface wird über den Klassennamen als solches definiert.
+interface anInterface
+Es beinhaltet Klassen und Methoden.
+Der Zweck eines Interfaces besteht darin, Schnittstellen
+zu definieren. Im Interface wird nur die Signatur einer
+Methode implementiert. Der Rumpf wird erst in den untenstehenden
+Klassen implementiert.
+In Java gibt es keine Mehrfach-Vererbung. Eine Subjklasse
+kann aber quasi von mehreren interfaces "erben". Mit Interfaces
+kann daher auch in Java eine Art von Mehrfachvererbung
+erreicht werden.

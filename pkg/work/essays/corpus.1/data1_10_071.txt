@@ -1,0 +1,1 @@
+die Variable nachname ist als private definiert, kann also von außerhalb der klassendefinition nicht geändert werden.

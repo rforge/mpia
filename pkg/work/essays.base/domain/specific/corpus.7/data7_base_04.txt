@@ -1,0 +1,10 @@
+Weiterhin besitzt die betrachtete Klasse verteilter Objekte Eigenschaften,
+die es gestatten, eine Dienstbeschreibung in einer programmiersprachenunabhängigen
+Form zu formulieren (z. B. eine IDL-Beschreibung)
+und die korrespondierende Implementation zu verbergen. Für die
+Kommunikation zwischen einzelnen Exemplaren verteilter Objekte ist
+ein Nachrichtenaustausch vorgesehen, der entweder durch Aufrufe von
+Schnittstellenmethoden oder die Verarbeitung von Ereignissen stattfindet.
+Eine weitere Forderung ist eine hinreichende Abstraktion, sodass die
+Kommunikation orts- und zugriffstransparent über eine entsprechende
+Middleware erfolgen kann.

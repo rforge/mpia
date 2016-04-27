@@ -1,0 +1,7 @@
+In ähnlicher Weise werden anschließend die Bewertungen der Alternativen vorgenommen.
+Für jedes Ziel wird eine Matrix aufgebaut, in die die Ergebnisse der Befragung eingetragen
+werden. Die Fragestellungen haben hier die Form “wieviel besser erfüllt Alternative 1 das
+Ziel A im Vergleich zu Alternative 2?”. Verwendet wird eine modifizierte Skala mit
+Antworten wie “gleich gut” (1) bis “wesentlich besser” (9). Schließlich wird analog ein
+Vektor ermittelt, der die relative Zielerfüllung der einzelnen Alternativen für das Ziel
+widerspiegelt.

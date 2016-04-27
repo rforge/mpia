@@ -1,0 +1,8 @@
+Dennoch erfreuen sich Systeme mit einer derartigen Dienstbeschreibung
+großer Beliebtheit wie man der Verbreitung von CORBA entnehmen
+kann. Gerade CORBA wird, aus aktuellen Entwicklungen in den Entwicklerforen
+schließend, auch für .NET zunehmend als Integrationsplattform
+interessanter. Es finden sich bereits heute mehrere Ansätze, welche eine
+Zusammenführung von CORBA und .NET propagieren. Hierzu sind schon
+sowohl passende IDL-Compiler als auch angepasste Kommunikationswrapper
+verfügbar.

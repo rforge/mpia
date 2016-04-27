@@ -1,0 +1,6 @@
+zuerst empirische methoden (beobachtungen, befragungen)...
+anforderungsdefinition: verbale definition der anforderungen
+anforderungsspezifikation: formalere notation der spezifischeren anforderungen
+dient als schnittstelle zu endanwendern
+software spezifikation: abstrakte beschreibung, dient für das design und
+durchführung für die entwickler

@@ -1,0 +1,7 @@
+personengruppe stellt anforderungen
+beachten ist hierbei, daß auf bestimmte anforderungen
+geachtet wird: rechtliche rahmenbedingungen
+konkurrenzprodukte
+anforderungen der kunden
+kunde / benutzer
+test / qualitätssicherung

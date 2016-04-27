@@ -1,0 +1,18 @@
+Tabelle 3.1 Realisierbare Typen verteilter Systeme, die mit Standardtechniken
+von .NET realisierbar sind
+Framework Systemtyp Vergleichbare Produkte
+und Technologien
+ASP.NET Webanwendungen ASP (klassisch)
+JSP, PHP
+XML
+WebServices
+WebServices verschiedene Frameworks,
+z. B. IBM WebSphere
+Sun Java WSDP
+.NET Remoting Verteilte Objekte COM, CORBA
+Java RMI
+.NET Enterprise
+Services
+Verteilte Komponenten z. B. Enterprise JavaBeans,
+CORBA-Components,
+COM+

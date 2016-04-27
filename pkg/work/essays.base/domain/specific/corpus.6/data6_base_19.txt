@@ -1,0 +1,3 @@
+Das Problem der Polysemie kann nur schwer automatisch angegangen werden. Die Anfrage müsste um Terme erweitert werden, welche die Bedeutung des polysemen Terms einschränken.
+Ansätze zur automatischen Behandlung der Synonymie finden sich z.B. in Synonymlisten, welche eine Anfrage automatisch um Terme erweitern, um vielleicht noch weitere relevante Dokumente zu finden. In beiden Fällen führen aber die zusätzlichen Terme selbst wieder zu weiteren unrelevanten Dokumenten, sozusagen in einen Teufelskreis.
+

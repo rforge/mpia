@@ -1,0 +1,12 @@
+Das integrationsorientierte Reengineering ist ein Ansatz, der auf die Integration von alten
+und neu entwickelten Anwendungssystemen in ein integriertes Gesamtsystem abzielt. Auf
+diese Weise können verschiedene Vorteile integrierter Systeme auch bei kostengünstiger
+Weiterverwendung von Altsystemen erschlossen werden. Die gleichzeitige Integration
+vorhandener sowie neuer Anwendungssysteme ist allerdings eine Aufgabe von hoher Komplexität,
+die zudem i.d.R. Kapazitäten und Budgets überschreitet. Der Ansatz sieht deshalb
+vor, daß die Integration in Form einzelner Integrationsschritte erfolgt. Jeder Schritt erfordert
+zunächst eine Priorisierung aller intergrierbaren Systeme, bevor ein konkretes System ausgewählt
+und ein Projekt geplant bzw. durchgeführt werden kann. Der vorliegende Aufsatz
+stellt zum einen die heterogenen Ziele vor, die bei der Integrationsplanung relevant sind, und
+beschreibt zum anderen eine Vorgehensweise zur Ermittlung der Prioritäten einzelner
+Anwendungssysteme.

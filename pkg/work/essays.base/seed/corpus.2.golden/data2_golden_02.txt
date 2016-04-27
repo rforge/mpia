@@ -1,0 +1,9 @@
+el. Katalog: zumindest eine Liste von Produkten und Preisen die von potentiellen Kunden aufgerufen werden kann und entsprechende Information bietet
+Katalog besteht aus Datenbank-Informationen, die über Schnittstelle zum WWW Server transportiert werden
+Funktionweise f. Kunden: 
+ermöglicht online-Suche bei Hersteller / Händler eines bestimmten Produktes
++ Bestellung und evtl. Zahlung übers Internet, Auftragsstatus abrufen
+uU: auch von mehreren Herstellern - aggregierte Kataloge -> Netzwerkeffekt nützen (Anbieter)
+f. Anbieter: 
+Möglichkeit Kundeninteresse zu erschließen
+Kundendaten erfahren und verwalten, Kunden Profiling click through-rate ermitteln erspart sich Verschicken per Post, leichter aktualisierbar

@@ -1,0 +1,11 @@
+Das Client-System (Abbildung 3.3) erhält Zugriff auf ein verteiltes Objekt Clients
+durch ein Stellvertreterobjekt, den Proxy. Dieser bietet dem Client die
+fachliche Schnittstelle des verteilten Objekts an. Hierzu ist es notwendig,
+dass der Client über Metainformationen, insbesondere die Schnittstellendefinitionen,
+des verteilten Objekts verfügt. Wie gerade festgestellt wurde,
+sind diese Metainformationen durch die mit den einzelnen Objekten
+assoziierten Typobjekte verfügbar. Der Proxy ist als lokales Stellvertre- Proxy-Objekte
+terobjekt der Kommunikationspartner des Clients. Er delegiert entfernte
+Methodenaufrufe an das verteilte Objekt und besitzt Informationen zur
+Objektidentität und über den Zugang zum Kommunikationskanal, über
+den das verteilte Objekt erreichbar ist.

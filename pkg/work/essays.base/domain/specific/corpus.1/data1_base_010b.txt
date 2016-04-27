@@ -1,0 +1,5 @@
+Firmenanschluss wäre eine
+andere Art. Die zusätzliche Eigenschaft von PrivateCaller ist eine spezielle
+Telefonnummer, mit der er billiger telefonieren kann. Payer erbt von
+Person und hat Attribute und Methoden für Telefonrechnungen. Das Attribut
+designation in PrivateCaller soll mit name von Payer identisch sein.

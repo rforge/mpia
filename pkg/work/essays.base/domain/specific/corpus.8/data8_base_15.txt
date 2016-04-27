@@ -1,0 +1,4 @@
+Hinter der Frage, welcher Integrationsschritt als nächster durchzuführen ist, verbirgt sich ein
+multidimensionales Entscheidungsproblem, da die Optimierung anhand mehrerer Ziele erfolgt.
+Im folgenden werden zunächst die für die Projekt-Priorisierung relevanten Ziele klassifiziert.
+Anschließend wird eine Vorgehensweise zur Lösung des Entscheidungsproblems beschrieben.

@@ -1,0 +1,3 @@
+die Klasse wird hinter der Methode versteckt
+mit der get, set Methode sind immer public
+und die Klasse privat

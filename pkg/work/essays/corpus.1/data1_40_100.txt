@@ -1,0 +1,1 @@
+"Information Hiding" dient dazu die Sichtbarkeit und Zugriffsmöglichkeiten von Variablen zu beschränken. Hierzu werden innerhalb einer Klasse Variablen als "private" definiert (z.B.: private String nachname) und diese als Rückgaben einer mit "public" deklarierten Methode ausgegeben. Außerhalb der Klasse kann auf die Variable dadurch nur über die Methode zugegriffen werden.

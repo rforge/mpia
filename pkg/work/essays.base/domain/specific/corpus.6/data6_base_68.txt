@@ -1,0 +1,2 @@
+Der modellierte semantische Raum enthält Terme und Dokumente zugleich, sodass eine Anfrage als Pseudodokument im Schwerpunkt der Suchterme in diesem Raum platziert werden kann, und Dokumente in der Nähe dieses Punktes werden zurückgegeben.
+

@@ -1,0 +1,4 @@
+Objektorientierte Entwicklung ermöglicht sowohl Kapselung als auch Information
+Hiding und hat sich bereits als Standard etabliert. Die Funktionalität
+wird in Klassen auf verschiedenen Abstraktionsebenen gekapselt, wobei die konkrete
+Implementierung oft geheim bleibt [3][4].

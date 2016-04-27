@@ -1,0 +1,4 @@
+Die Preisberechnung von Einkaufs- und Verkaufspreis erfolgt zu 100% richtig
+(dazu müssen zusätzlich die Rabattkonditionen des Kunden im
+Warenwirtschaftssystem enthalten sein - diese Rabattkonditionen sind nicht im
+Katalog enthalten).

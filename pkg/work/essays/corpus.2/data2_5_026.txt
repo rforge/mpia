@@ -1,0 +1,17 @@
+Ein elektronischer Katalog ist im Prinzip die digitale Abbildung eines gedruckten Kataloges
+listet Produkte mit deren Eigenschaften und Preisen (eventuell auch Bildern) auf
+man kann gezielt nach Produkten suchen
+Haupkomponenten: Daten, Datenbank über Produkte -> und Webserver, der allen Clienten die Suche im Katalog ermöglicht
+Anbieter:
+Kundenprofil erstellen, verwalten
+weltweite Verfügbarkeit -> kann weltweit anbieten
+diverse Zahlungssysteme möglich (auch alternativ zB.: SET oder Nachnahme)
+diverse Verkaufs / Marketingmechanismen anwendbar
+
+Kunde:
+24h Shopping
+Preisvergleiche
+Überblick über Produkt, Eigenschaft, Verfügbarkeit
+online Zahlung
+Währungsunabhängig bei Kreditcard payment Möglichkeit
+Produktvergleiche

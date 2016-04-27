@@ -1,0 +1,3 @@
+Ein Interface bildet eine Schnittstelle zum Beispiel:
+Ein Ausgabe -> Ausgabe von Zeichen auf
+dem Bildschirm

@@ -1,0 +1,2 @@
+will man die Klassenvariablen (hier nachName / angemeldet) vor Zugriff hinter den Methoden verstecken, muß man sie mit private deklarieren.
+Methoden, die auf diese Variablen zugreifen können, müssen mit public deklariert werden. (hier bei istAngemeldet + getVorname.

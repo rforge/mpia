@@ -1,0 +1,4 @@
+Symmetrie – QueryInterface() muss symmetrisch sein, sodass ein
+Client, wenn er einen gültigen Schnittstellenzeiger hat, weitere erfolgreich
+anfordern kann. Die Anforderungen müssen auch hier erfolgreich
+sein.

@@ -1,0 +1,5 @@
+Die Informationen einer Klasse sollen so gut wie möglich geschützt werden um Datenmanipulation und ungewünschte änderungen zu vermeiden.
+In der Klasse Student sind die Var, nachname u. angemeldet private deklariert. Dies bedeutet, dass nur aus der klasse Student auf diese Variablen zugriffen werden kann.
+Die Variable Vorname  es wird package angenommen
+Nur aus der eigenen Klasse und den package
+			(Student)

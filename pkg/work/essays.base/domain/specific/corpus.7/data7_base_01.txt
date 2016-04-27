@@ -1,0 +1,11 @@
+In diesem Kapitel überführen Sie die Grundlagen aus dem letzten Kapitel auf
+.NET Remoting.
+Zuerst greifen wir wieder den Begriff des Dienstes auf und stellen Ihnen
+dar, welche verschiedenen Möglichkeiten Sie haben, Dienste und ihre Schnittstellen
+zu beschreiben. Hierbei stellen wir Ihnen mehrere gleichberechtigte
+Varianten vor. Für dieses Buch wählen wir exemplarisch eine Variante (native
+Schnittstellen), mit denen wir die Beispiele erstellen.
+Zum Abschluss dieses Kapitels lernen Sie die Basisarchitektur des Remoting
+Frameworks auf einer abstrakteren Ebene kennen. Hier stellen wir allgemeine
+Zusammenhänge dar, die das Grundverständnis für den Umgang mit
+dieser Middleware bilden.

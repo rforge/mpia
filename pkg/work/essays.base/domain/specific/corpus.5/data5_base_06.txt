@@ -1,0 +1,6 @@
+Domänenmodelle als technische Basis
+Wissen wird oft in Form von Objekten und deren Zusammenhängen sowie in
+Objektklassifikationen (sog. Klassen oder Konzepten) angelegt und verwaltet. In diesem
+Zusammenhang wird von Objektorientierung gesprochen. Es gibt noch viele weitere
+Möglichkeiten, Wissen zu repräsentieren, wie z.B. Grammatiken oder Logiken. Im
+Folgenden wird nur auf die objektorientierte Repräsentation eingegangen.

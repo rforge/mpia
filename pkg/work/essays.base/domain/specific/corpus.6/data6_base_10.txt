@@ -1,0 +1,2 @@
+Die Vektordarstellung, auf welche die Methode des LSI mit SVD führt, welche im Kapitel 4 beschrieben wird, unterscheidet sich grundsätzlich von solchen Term-Häufigkeits-Vektoren, denn die Einträge des Vektors gewichten nicht Indexterme, sondern aus der Term-Dokument-Matrix gewonnene, künstliche „semantische Konzepte“, welche im Gegensatz zu den meisten Indextermen wirklich unabhängige Faktoren darstellen.
+

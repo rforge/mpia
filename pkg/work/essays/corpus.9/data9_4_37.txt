@@ -1,0 +1,13 @@
+anforderungsanalyse -> requirement engineering
+1. schritt = anforderungsdefinition
+2. schritt = anforderungsspezifikation - formalere, genauere anforderungen
+3. schritt = softwarespezifikation - anforderungen an design und implementierung
+in der anforderunganalyse geht es um eine
+möglichst vollständige auflistung der aller anforderungen
+ergebnis = anforderungsspezifikation
+detaillierte vollständige formale
+beschreibung aller anforderungen
+das lastenheft = erster entwurf der planungsphase und wird
+in der definitionsphase zum pflichtenheft verfeinert.
+überlegungen bezüglich art der anforderungen funktionale (welche funktionen)
+qualitätsanforderungen (wartung, bedienbarkeit) sonstige (zeit, budget)

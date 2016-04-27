@@ -1,0 +1,2 @@
+Interface = Schnittstelle
+Interfaces kann man von auﬂen in Klassen implementieren

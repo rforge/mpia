@@ -1,0 +1,10 @@
+Möglichkeit zu einer oder mehreren Klassen eine
+Schnittstelle zu definieren und anzuwenden. Ähnlich
+abstrakten Klassen jedoch beinhalten sie keine Implementierung.
+Sie definieren Signaturen von Methoden:
+Namen von Methoden
+(deren Parameterliste und Rückgabewerttyp)
+Name von Variablen
+(implizit static und final)
+Interface besteht ausschließlich aus Konstanten
+und abstrakten Methoden.

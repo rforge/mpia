@@ -1,0 +1,6 @@
+Die Charakteristika dieser Klasse, die sie für die weiteren Betrachtungen
+interessant machen, erlauben eine elementare Abbildung auf Konstrukte
+des objektorientierten Paradigmas, was der Grundintention der
+.NET-Plattform entgegenkommt. Dieses Paradigma umfasst insbesondere
+die eindeutige Identifizierbarkeit von Objekten, die Verkapselung von Eigenschaften
+verteilter Objekte Daten sowie Vererbung und Polymorphie.

@@ -1,0 +1,13 @@
+Ein elektr. Katalog ist eine Datenbank, in der sämliche Produkte / Artikel gesucht und gefunden werden können = Online Shop
+Webclient -> CGI -> DB
+Sicht des Anbieters:
+Übersicht über die Interessen des Kunden 
+-> d.h. es läßt sich leicht feststellen, welche Kunden sich für welche Waren interessieren
+Einsparung von Personalkosten
+neuer Distributionskanal
+interaktive Features die das Bewerben der Produkte erleichtern / verbessern / optimieren
+Sicht des Kunden:
+Shopping rund um die Uhr
+Erfahrungsaustausch mit anderen Kunden (Bsp. Amazon -> Recommendation)
+mehr Auswahl
+Einkaufsmanager Funktion d.h. Kunde kann Waren aussuchen, aber erst später kaufen (bleiben im Einkaufswagen)

@@ -1,0 +1,2 @@
+Da der semantische Raum nur mit sinnvoller Näherung dargestellt werden kann, wenn genügend Dimensionen modelliert werden, und  wie im Abschnitt 2.1. erwähnt, die Verwendung vieler Terme pro Dokument zur Lösung der Hauptprobleme des IR nötig sind, muss eine brauchbare Methode mit grossen Term-Dokument-Matrizen umgehen können.
+

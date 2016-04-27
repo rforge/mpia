@@ -1,0 +1,2 @@
+Im Gegensatz / als Ergänzung dazu ist das Pflichtenheft zu sehen:
+Pflichtenheft: Detaillierte Anforderungen und Vorgaben für bzw. aus Sicht des Entwicklers.

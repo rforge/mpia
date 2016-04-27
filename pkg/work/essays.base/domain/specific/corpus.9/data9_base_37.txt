@@ -1,0 +1,4 @@
+Jeder Nutzungsfall wird vom System an seine Umgebung über Nutzungsschnittstellen herangetragen.
+Es ist eine wesentliche Aufgabe der Anforderungsdefinition, die Benutzungsoberfläche festzulegen.
+Dies betrifft die graphische Oberfläche, aber auch die Detaillierung der Dialogführung und
+der Nutzerinteraktion.

@@ -1,0 +1,5 @@
+Information Hiding versteckt die Klasse hinter der Methode. 
+Es wird mit "private" deklariert (Klassen Name)
+Die Methode wird durch "public" (veröffentlich) weil jede Klasse an die Methode noch zusätzlich "get x" und "set x" haben damit es überhaupt funktioniert
+Sonst kommt ein fehler raus
+Bei Information Hiding können wir die Variablen oder anders gesagt die Klasse durch die Methode aufrufen

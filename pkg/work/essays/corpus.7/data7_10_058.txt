@@ -1,0 +1,6 @@
+Interface ist ein Paket aus Methoden und Variablen
+die in jeder Klasse implementiert werden
+können.
+class ... implements Interface 1 (...
+es müssen allerdings die Variablen einzeln
+übernommen werden.

@@ -1,0 +1,3 @@
+komponententest: die komponenten der software werden jeweils einzeln auf ehler untersucht
+integrationstest: wie die einzelnen bausteine der software zusammen funktionieren
+systemtest: funktioniert die programmierte software in den verschiedenen vorhandenen systemen?

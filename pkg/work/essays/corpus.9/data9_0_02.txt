@@ -1,0 +1,7 @@
+Zunächst ist es einmal wichtig festzustellen,
+für welche einsatzgebiete im speziellen unser system
+eingesetzt werden soll. dabei sollten die
+personen befragt werden, die später damit
+arbeiten sollen. aus den unterschiedlichen
+ist- und soll-zustand ergeben sich die anforderungen
+für die beschaffung der neuen hard- und software.

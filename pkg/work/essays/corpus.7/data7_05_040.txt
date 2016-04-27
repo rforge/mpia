@@ -1,0 +1,2 @@
+Interfaces bestehen aus gleichartige Daten
+Schnittstellen

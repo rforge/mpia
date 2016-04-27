@@ -1,0 +1,25 @@
+anforderungsanalyse: requirement engineering:
+hauptaufgaben: 1) spezifikation: spezifizieren, genau
+die anforderungen; was muß / sollte
+mein personal - verwaltungssystem
+können
+2) repräsentation: formal und informale
+betrachtungsweise; auf verschiedene sichten
+des beobachtungsgegenstandes
+3) verhandlung: kommunikation mit
+beteiligten -> unterschiedliche perspektiven,
+interesse, wissen, anforderungen
+subprozesse des requirement engineering:
+1) anforderungsdefinition
+2) anforderungsspezifikation
+3) software spezifikation
+es gibt verschiedene arten von anforderungen: funktionale und
+qualitätsanforderungen;
+lastenheft -> dient in der zum pflichtenheft: lastenheft
+besteht aus: 1) zielbestimmung   5) produktfunktion
+2) produkteinsatz   6) produktdaten
+3) produktleistung   7) qualitätsanforderung
+4) produktumgebung   8) ergänzungen
+anofrderungstypen (primär, abgeleitet)
+einhaltung der anforderungen
+prioritäten (kosten, zeit, etc.)

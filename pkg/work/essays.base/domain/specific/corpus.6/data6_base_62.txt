@@ -1,0 +1,2 @@
+Es gibt keine allgemeingültige Aussage über die richtige Wahl von k, der Wert muss für jede Datenbasis empirisch ermittelt werden. Dies war jedoch auch eine Anforderung an die Methode,
+dass sie sich an die jeweils vorliegende Unzuverlässigkeit anpassen lässt, siehe Kapitel 3.

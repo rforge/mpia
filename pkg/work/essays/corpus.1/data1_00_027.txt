@@ -1,0 +1,2 @@
+﻿Durch die Deklarierung der Variablen "nachname" + "angemeldet" ist der Zugriff eingeschränkt.
+Auf diese Variablen kann nur aus der Klasse zugegriffen werden in der die Variablen erstellt worden sind.

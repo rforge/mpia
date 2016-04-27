@@ -1,0 +1,1 @@
+NettoReichweite: Differenz aus der ?BruttoReichweite und der ?externen Überschneidung oder der ?internen Überschneidung.

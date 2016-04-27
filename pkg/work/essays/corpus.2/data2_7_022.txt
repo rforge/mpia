@@ -1,0 +1,15 @@
+Der Kunde hat verschiedene Möglichkeiten seine "Ware" zu suchen, mittels Detail-Suche, Volltext-Suche etc.
+Er kann mittels E-Mail eine Auftragsbestätigung erhalten.
+Er hat die Möglichkeit zwischen verschiedenen Sprachen zu wählen.
+Und mittels eines Einkaufwagen kann er seine Waren speichern und beim nächsten Aufruf wieder darauf zugreifen.
+Der Administrator kann die Kd-Daten verwalten, er kann Profile erstellen.
+Und er kann verschiedene Statistiken für seine Waren erstellen.
+Beim einem elektr. Katalog, ist ein Katalog online abrufbar.
+Er besteht aus den Hauptkomponenten:
+Waren
+Bestellung
+Anmeldung
+Anfragen
+E-Mail
+Suchdienste
+Werbebanner

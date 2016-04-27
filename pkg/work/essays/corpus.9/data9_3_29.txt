@@ -1,0 +1,5 @@
+anforderungsdefinition: aufnahme der anforderungen (lückenlos und verständlich)
+ergebnis: lastenheft
+anforderungsspezifikation: genaue spezifizierung der anforderungen
+ergebnis: pflichtenheft
+anforderungspräsentation

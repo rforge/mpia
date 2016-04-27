@@ -1,0 +1,20 @@
+elektron. Katalog ist ein Katalog der dynamisch aus einer Datenbank generiert wird -> Vorteil d. ständigen Übereinstimmung d. unternehmensinternen Daten mit dem Katalog auf d. Website
+Handling meist über Applicationserver und Enterprise Java Beans bzw. über aktive Server Seiten oder Servlets
+
+Vorteile f. den Kunden
+rasche Suche
+Anpassung möglich
+Einkaufskorb kann auch später wieder aufgerufen werden (Sessionhandling zB über Session Beans und Entity Beans)
+Bestätigunsmails
+Ständige Abfrage des Lieferstarts möglich
+Bequemlichkeit
+24 Stunden Verfügbarkeit
+evtl. mehrsprachig
+
+Vorteile f. Unternehmen
+Anpassung an Bedürfnisse d. users möglich
+einheitlicher Datenbestand auf Website und in Unternehmens DB
+Kundenprofile können besser verwaltet werden
+Einsparungspotential durch verminderte Transaktionskosten
+Statistische Auswertungsmöglichkeiten erhöht
+Rabatt-Relevanz Entscheidungsbäume können eingestellt werden -> neue Absatzmöglichkeit

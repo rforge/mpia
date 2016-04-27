@@ -1,0 +1,3 @@
+komponententest - jede einzelne komponente wird im quellcode untersucht und getestet
+interaktionstest - test, ob die komponenten in der weise miteinander interagieren, in der sie sollen
+systemtest - test aus der benutzersicht, ob das system den anforderungen (die vorher spezifiziert wurden) entspricht

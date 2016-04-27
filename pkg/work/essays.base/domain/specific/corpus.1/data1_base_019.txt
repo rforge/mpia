@@ -1,0 +1,3 @@
+Definition 4. Eine Gleichheitsabhängigkeit zwischen zwei Attributen verschiedener
+Rollen liegt genau dann vor, wenn diese zu jedem Zeitpunkt denselben Wert
+haben.

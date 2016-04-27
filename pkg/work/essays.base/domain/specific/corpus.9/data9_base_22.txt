@@ -1,0 +1,4 @@
+Technische Bestandteile:
+Sorten, Funktionen (Rechenstrukturen) für fachliche Aspekte
+Datenintensive Anwendungen: E/R oder Klassendiagramme
+Fachliche Aspekte wie Gesetze, logische Zusammenhänge im Anwendungsgebiet

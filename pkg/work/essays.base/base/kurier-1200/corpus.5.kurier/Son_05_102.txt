@@ -1,0 +1,7 @@
+Blindgänger
+von Gerald Reischl
+
+Was halten Sie von eMails, an denen Sie sehen können, wer sie noch aller bekommen hat? Manchmal ist es Absicht, weil man andere damit informiert, wer die Nachricht erhalten hat (in Firmen üblich) oder zu einem Fest geladen ist. Ich "freue" mich aber immer besonders über private eMails, deren An:-Zeile länger ist als der gesamte Text in der Nachricht. Weil der Versender die Nachricht an sein ganzes Adressbuch verschickt und den Empfängern mitteilt, wer aller auf seiner Bekanntenliste steht. Plötzlich werden geheime eMail-Adressen publik, vorbei ist's mit der Idylle. Denn zirkuliert einmal erst eine Adresse, so landet sie bald auch in den Datenbanken jener Leute, die uns mit Spams, also unerwünschten eMails, beglücken.
+
+Einem heimischen Unternehmen ist einmal Peinliches passiert: Alle eShop-Kunden wurden per eMail informiert, dass der Online-Shop neu gestaltet worden ist. Die Meldung war fünf Zeilen lang, das eMail war aber dennoch viele Megabyte groß. Was war passiert? Man hatte irrtümlich die Adressliste sämtlicher Online-Kunden mitgeschickt. Manchen fehlt es offensichtlich an Wissen, wie man eMails verschickt und dass es eine Bcc-Zeile gibt - für die Blind Carbon Copy, also Blindkopie, zu vergleichen mit dem alten "Durchschlag". eMails an viele sollte man als Bcc verschicken. Das entspricht der Netiquette und man wird auch nicht zum Blindgänger.
+

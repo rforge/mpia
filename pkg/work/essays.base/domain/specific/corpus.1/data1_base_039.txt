@@ -1,0 +1,24 @@
+Literatur
+1. Ossher, H., Kaplan, M., Katz, A., Harrison, W., Vincent, K.: Specifying Subject-
+Oriented Composition. In: Theory and Practice of Object Systems. Volume 2.,
+Wiley & Sons (1996) 179-202
+2. Darderes, B., Prieto, M.: Subjective Behavior: a General Dynamic Method Dispatch.
+In: OOPSLA'04 Workshop on Revival of Dynamic Languages. (2004)
+3. Bäumer, D., Riehle, D., Siberski, W.,Wulf, M.: Role Object. In: Pattern Languages
+of Program Design, Addison-Wesley (2000) 15-32
+4. Fowler, M.: Dealing with Roles. In: The 4th Pattern Languages of Programming
+Conference. (1997)
+5. Mezini, M.: Variational Object-Oriented Programming Beyond Classes and Inheritance.
+Kluwer (1998)
+6. Riehle, D.: Framework Design: A Role Modeling Approach. Dissertation, ETH
+Zürich (2000)
+7. Tamai, T.: Evolvable programming based on collaboration-field and role model. In:
+IWPSE '02: Proceedings of the International Workshop on Principles of Software
+Evolution, USA, ACM Press (2002) 1-5
+8. Kristensen, B.B.: Object-Oriented Modelling with Roles. In: Proceedings of the 2nd
+International Conference on Object-oriented Information Systems, Ireland (1996)
+9. VanHilst, M.: Role-Oriented Programming for Software Evolution. Dissertation,
+University of Washington (1997)
+10. Witte, M.: Portierung, Erweiterung und Integration des ObjectTeams/Java Compilers
+für die Entwicklungsumgebung Eclipse. Diplomarbeit, Universität Berlin
+(2003)

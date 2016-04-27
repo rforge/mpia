@@ -1,0 +1,6 @@
+schritte anforderungsanalyse
+spezifikation: anforderungen müssen klar definiert werden
+repräsentation: spezifikation muss kommuniziert werden
+verhandlung: verhandlung -> unterschiedliche personen haben unterschiedliche ansichten und vorwissen
+ziel verhandlung: einheitliche klare anforderung definieren die
+für alle beteiligten akzeptiert und verstanden werden.

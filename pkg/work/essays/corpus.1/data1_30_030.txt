@@ -1,0 +1,3 @@
+Information Hiding ist das "verstecken" von Variablen, so dass sie nur über die Methoden den Klasse aufrufbar sind!
+Sowohl die variable "angemeldet" als auch "nachname" sind als private deklariert und können somit vom außerhalb der Klasse nur über die Methoden initialisiert oder aufgerufen (abgefragt) und geändert werden!
+Diese Methoden werden meist als public definiert (je nachdem von wo aus sie aufgerufen werden sollen!)

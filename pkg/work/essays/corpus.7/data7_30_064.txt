@@ -1,0 +1,3 @@
+lässt Art von "Mehrfachvererbung" zu
+In Interface können Methoden definiert werden
+eine Art von Schnittstelle

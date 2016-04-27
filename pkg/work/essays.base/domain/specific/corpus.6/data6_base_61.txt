@@ -1,0 +1,2 @@
+Im Gegensatz zu vielen Anwendungen der SVD, bei denen der Wert durch Optimieren der Rechengeschwindigkeit bei maximal tolerierbarer Ungenauigkeit ermittelt wird, ist für das LSI das alleinige Kriterium die resultierende Retrievaleffektivität!
+

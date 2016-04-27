@@ -1,0 +1,6 @@
+Interface = Schnittstelle
+Deklaration = Interface name der Klasse
+Zugriff = implements Klassenname (Super)
+Über eine Schnittstelle kann definiert
+werden, was ein Objekt machen darf
+oder nicht.

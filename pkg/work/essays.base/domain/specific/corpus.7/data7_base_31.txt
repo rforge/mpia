@@ -1,0 +1,5 @@
+Da es sich bei der Schnittstelle nicht um eine Metabeschreibung, wie
+bei der IDL oder der WSDL handelt, muss keinerlei Mapping auf Plattformspezifika
+erfolgen. Die definierten Schnittstellen sind nativ für die
+.NET-Plattform und somit unkompliziert in jeder .NET-kompatiblen Sprache
+benutzbar.

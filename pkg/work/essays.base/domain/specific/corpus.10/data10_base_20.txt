@@ -1,0 +1,5 @@
+Wichtige Tests zum Nachweis nicht-funktionaler Anforderungen: Lasttest, Performanctest:
+Volumen- / Massentest, Stresstest, Test der (Daten-) Sicherheit, Test der
+Stabilität/Zuverlässigkeit, Test auf Robustheit, Test auf Kompatibilität/Datenkonversion:
+Test unterschiedlicher Konfigurationen, Test auf Benutzerfreundlichkeit, Prüfung der
+Dokumentation; Prüfung auf Änderbarkeit/Wartbarkeit.

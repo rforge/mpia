@@ -1,0 +1,9 @@
+standardprodukt leichter zu bedienen beziehungsweise zu erlernen;
+keine besonderen kenntnisse erforderlich;
+mitarbeiter können schnell produktiv werden; nachteil:
+mögliche sicherheitslücken.
+reengineering: bessere wartbarkeit, längere lebensdauer;
+Funktionsausbau, keine teure neuinvestiton für neues
+produkt; effizienzsteigerung bei diversen prozessen
+nachteil: wenn produkt sehr schelcht aufgebaut -> mit
+Reengineering kommt es einer neuentwicklung gleich

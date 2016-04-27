@@ -1,0 +1,4 @@
+Inhalte: (nach VDI / VDE 3694)
+fachliche Basisanforderungen aus Anwendersicht, einschließlich Rand- und Nebenbedingungen
+Im Vordergrund soll nicht die Beschreibung einer Lösung, sondern der Aufgabenstellung
+stehen, also was wofür und warum zu lösen ist, aber nicht wie die Lösung aussehen soll.

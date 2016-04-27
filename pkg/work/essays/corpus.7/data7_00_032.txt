@@ -1,0 +1,2 @@
+Ein Interface ist eine vorgefertigte Form von Programmcode;
+Es dient zur Vereinfachung.

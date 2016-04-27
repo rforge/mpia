@@ -1,0 +1,4 @@
+Information Hiding dient dazu, daß auf einzelne Daten nicht von überall zugegriffen werden kann. 
+Dies hat den Vorteil, daß absichtliche oder unabsichtliche Manipulation der Daten oder ungewolltes Anzeigen von Daten verhindert werden kann.
+Auf die beiden als private deklarierten objekte nachname und angemeldet kann nicht von einer anderen klasse zugegriffen werden.
+Um die Werte trotzdem auszulesen oder zu verändern sind als public definierte Methoden notwendig. 

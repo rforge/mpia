@@ -1,0 +1,6 @@
+Ein Interface ist einer abstrakten Klasse
+ähnlich, jedoch ohne Implementierung.
+Die Deklaration erfolgt durch das Keyword
+Interface, aufgerufen werden sie mit Implements
+Durch Interfaces ist in Java eine Art
+Mehrfachvererbung möglich.

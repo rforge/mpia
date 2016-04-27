@@ -1,0 +1,7 @@
+Ein elektronischer Katalog ist das im e-commerce am häufigsten eingesetzte Instrument zum Vertrieb.
+Es werden Datenbanken ins www eingespeist die von Konsumenten abgerufen werden können. Fällt unter die Kategorie der dynamischen Informationssysteme.
+Ist sehr individuell gestaltbar (sehr unterschiedlich) und wird in letzten Zeit immer mehr entwickelt statt zugekauft.
+Der Kunde hat die Vorteile daß er leicht die ganze Datenbank nach unterschiedlichen Kriterien durchsuchen kann, daß dies sehr rasch geht, relativ billig ist und er einen guten Preisvergleich hat.
+Die Informationen stehen ihm Rund um die Uhr recht einfach zur Verfügung.
+Der Anbieter hat den Vorteil daß er zB: gesammelte Kundendaten sammeln kann und so Kundenprifle erstellen kann und daß er z.B.
+Anzahl der Zugriffe (hits) auf ein bestimmtes Produkte zählen kam, Neuer Absatzweg

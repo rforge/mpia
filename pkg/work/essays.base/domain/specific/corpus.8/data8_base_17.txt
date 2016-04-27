@@ -1,0 +1,10 @@
+Darüber hinaus sind bei der Planung bzw. Definition eines Integrationsschritts viele weitere
+Ziele zu berücksichtigen, die nicht direkt mit der Integration in Verbindung stehen. Beispiele
+sind:
+• kurzfristig, monetär: Senkung der Wartungskosten;
+• kurzfristig, nicht monetär: Verbesserung der Benutzerakzeptanz bzw. der Systemnutzung
+z.B. durch Modernisierung der Benutzeroberfläche [8];
+• langfristig, monetär: Umsatzsteigerung durch Unterstützung kundenorientierter Leistungsprozesse
+(vgl. z.B. [2,9]);
+langfristig, nicht monetär: Verbesserung der Wettbewerbsposition (Beispiele für derartige
+DV-Projekte finden sich in [2]).

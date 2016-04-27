@@ -1,0 +1,2 @@
+Die Methode geht von der Hypothese aus, dass den Daten eine verborgene semantische Struktur zugrunde liegt, welche teilweise verborgen ist durch die Zufälligkeit der Wortwahl beim Retrieval, d.h. wir können von einem Term nicht mit Sicherheit auf die relevanten Dokumente schliessen. Für das Indizieren der Dokumente und das Retrieval wird bei LSI eine Beschreibung der Terme und Dokumente aufgrund dieser verborgenen semantischen Struktur verwendet.
+

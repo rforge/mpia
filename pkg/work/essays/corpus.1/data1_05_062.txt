@@ -1,0 +1,3 @@
+Durch das Wort private kann nicht mehr direkt auf eine Klasse zugegriffen werden., sondern nur über den Aufruf von den Methoden.
+Nachname u. angemeldet wurden hier als private definiert.
+Haben den gleichen Namen u. die gleichen Vornamen und befinden an unterschiedlich Orten.

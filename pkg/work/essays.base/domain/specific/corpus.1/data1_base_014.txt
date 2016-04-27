@@ -1,0 +1,1 @@
+Definition 2. Eine Rolle ist eine Menge von Methoden und Attributen.

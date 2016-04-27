@@ -1,0 +1,3 @@
+komponententest - jede einzelne komponente wird getestet
+systemtest - das ganze software system wird getestet
+anforderungstest - das betrachtete software system wird getestet, ob es den zugrundeliegenden anforderungsspezifikation entspricht

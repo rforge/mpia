@@ -1,0 +1,14 @@
+Beibehaltung des Individualprodukts:
+- Kostenfaktor
+- Altsystem besser bekannt, auch Mitarbeitern
+- Durch Reengineering kann Altsystem verbessert werden
+- spätere Änderungen wieder nur mit hohem Aufwand
+verbunden
+
+Standardprodukt:
+- bessere Integration
+- Altsystem zu alt, oder komplex um ein
+Reeingeneering durchzuführen
+- Standardprodukt einheitliche Struktur, eventuell
+auch länderübergreifend
+- bessere Effizienz in IS-Bereich -> Wettbewerbsvorteil

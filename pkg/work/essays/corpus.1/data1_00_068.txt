@@ -1,0 +1,2 @@
+Information Hiding ist notwendig um auf Methoden "Eigenschaften zugreifen zu können, sie jedoch verändern zu können.
+d.h. man versteht etwas in einer Klasse.

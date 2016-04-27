@@ -1,0 +1,6 @@
+Teststrategie: Der Tester hat in der Regel Zugang zum Source-Code; dies macht den
+Komponententest zur Domäne des White-Box-Tests, d.h. der Tester kann Testfälle unter
+Ausnutzung seines Wissens über komponenteninterne Programmstrukturen, Methoden und
+Variablen entwerfen. Während des Testablaufs können Programmvariablen beobachtet und
+ggf. verändert werden; d.h. der interne Zustand der Komponente kann beobachtet und ggf.
+(per Debugger) auch manipuliert werden.

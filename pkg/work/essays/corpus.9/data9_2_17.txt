@@ -1,0 +1,17 @@
+requirement engineering - anforderungsanalyse
+es wird versucht alle relevanten anforderungen
+an ein is-system zu gewinnen und aufzuzeichnen.
+die aufzeichnung all dieser anforderungen führt zur
+anforderungsspezifikation. ziel ist verständlich und widerspruchsfrei
+dabei ist es wichtig
+spezifikationen aufzuzeichnen, und zwar
+alle anforderungen mit dem jetzigen stand
+des wissens
+präsentieren
+diese daten müssen auch repräsentiert werden
+daher verbale und grafische aufzeichnung
+verhandlung
+wird mit unterschiedlichen beteiligten
+besprochen -> management-ebene
+mitarbeiter und anwender
+programmierer - entwickler

@@ -1,0 +1,2 @@
+Jede Systemeigenschaft, die wir hier beschreiben, soll für das endgültige System überprüfbar
+sein.

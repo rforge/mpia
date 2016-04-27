@@ -1,0 +1,2 @@
+Dient dazu, dass Variablen und Methoden nur innerhalb der Klasse in der sie definiert wurden aufgerufen werden können.
+Befehl: private

@@ -1,0 +1,11 @@
+Projekte setzen sich somit immer aus jeweils separaten Kompilaten für:
+> Schnittstellendefinition, Grundsätzliche
+Projektstruktur
+> deren Implementation und der Realisierung
+> von Client- und
+> Server-Programmen
+zusammen. Die Definition der Schnittstellen ist immer strikt von der Interface und
+Implementierung
+sind strikt getrennt
+Implementation getrennt. Das Kompilat, welches die Definitionen der
+Schnittstelle enthält, ist sowohl beim Client als auch beim Server verfügbar.

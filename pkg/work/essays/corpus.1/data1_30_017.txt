@@ -1,0 +1,4 @@
+Durch diese Deklaration der Variablen nachname kann der Variablen nur innerhalb der Klasse ein Wert zugewiesen werden.
+Sinn: Verhindern von unzulässigen Beeinflussungen versehentliches Löschen nicht möglich. Der Wert kann eben nur mit Hilfe von SET und GET MEthoden geändert bzw. aufgerufen werden.
+Dann auch von Außerhalb. (sofern die Methode public)
+Sicherheitsmaßnahme

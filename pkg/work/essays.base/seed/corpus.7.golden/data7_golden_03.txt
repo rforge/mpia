@@ -1,0 +1,8 @@
+Ist wie eine Klasse, die nur aus abstrakten Methoden
+besteht; mit "implements" können Interfaces in eine
+Klasse eingefügt werden; im Gegensatz zur Vererbung
+können mehrere Interfaces eingefügt werden; die
+Methoden des Interfaces müssen in der implementierenden
+Klasse implementiert werden; wird verwendet um
+verschiedenen Klassen (unterschiedlichen Superklassen) ähnliche
+Funktionalitäten beziehungsweise Schnittstellen (Interfaces) einzufügen.

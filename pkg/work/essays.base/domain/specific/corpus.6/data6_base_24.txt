@@ -1,0 +1,2 @@
+Es ist die mittlere, quadratische Matrix bei der SVD, die es ermöglicht, dass Terme und Dokumente bezüglich derselben Basis im gleichen semantischen Raum abgebildet werden können (siehe Abschnitt 4.1)
+

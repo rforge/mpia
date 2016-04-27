@@ -1,0 +1,6 @@
+Zum Verständnis ist ein Codebeispiel angegeben. Es geht um Rechnungen aus
+Kapitel 2. Die Klasse PhoneInvoice besteht aus zwei Rollen CustomerInvoice
+und AdministrationInvoice. Die Rollen sind vererbungsabhängig über die Rolle
+Invoice. Wenn während der Entwicklung ein Programmierer z.B. den Rumpf
+der Methode changeAmount in einer Rolle ändert, ändert sich der Rumpf der
+Methode in der anderen Rolle automatisch.

@@ -1,0 +1,2 @@
+Dadurch können auch Dokumente gefunden werden, welche die Suchterme gar nicht enthalten.
+

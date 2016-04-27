@@ -1,0 +1,1 @@
+durch die Deklarierung private können die Variablen nur in der Klasse in der sie erzeugt wurden, verwendet werden. Auch Subklassen haben keinen Zugriff auf die als private deklarierten Klassen.

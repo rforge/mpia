@@ -1,0 +1,3 @@
+Beim klassischen Dokumentenretrieval mit Suchtermen und Indextermen müssen die verwendeten Begriffe in dem Masse übereinstimmen, wie sie miteinander verglichen werden, und dies geschieht meist Buchstabenweise, allenfalls nach einer Stemmatisierung u.ä.
+Eins der Hauptprobleme für das IR ist jedoch die Tatsache, dass ein Wort verschiedene Typen von Objekten bezeichnen kann (Polysemie), sowie umgekehrt ein Objekt durch verschiedene Worte bezeichnet werden kann (Synonymie).
+

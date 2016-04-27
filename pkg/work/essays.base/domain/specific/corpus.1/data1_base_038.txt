@@ -1,0 +1,7 @@
+Weiterhin kann man den vorgestellten Ansatz erweitern. Bisher haben wir uns
+darauf beschränkt, dass alle Rollen einer Klasse aktiv sind. Es ist jedoch möglich,
+dass nur eine Teilmenge der Rollen aktiv ist [9], oder dass Rollen sogar aktiviert
+und deaktiviert werden können. Z.B. ist nicht jeder Telefonkunde ein Nutzer des
+Webportals (vgl. Kapitel 2). Außerdem ist die Erweiterung der Abhängigkeiten
+von Attributen und Methoden denkbar, wie z.B. die Einführung funktionaler
+Abhängigkeiten.

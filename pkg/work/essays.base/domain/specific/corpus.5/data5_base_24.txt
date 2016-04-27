@@ -1,0 +1,9 @@
+Fazit
+Bisher eingesetzte Suchverfahren bringen dem Anwender oft nicht zufriedenstellende
+Ergebnisse, da häufig zu viele oder zu wenige Informationen gefunden werden. Eine
+explizite Modellierung von Objektklassen und deren Eigenschaften durch eine Ontologie
+ermöglicht die Formulierung und Speicherung von detaillierten Suchanfragen und
+Navigationstemplates. Auf diese Weise kann zielgerichtet nach Informationen gesucht
+werden und durch die Bereitstellung von Templates bei Objekten lässt sich schnell zu
+relevanten Informationen navigieren. Der Einsatz dieser Technologien bietet die
+Möglichkeit, schneller und erfolgreicher geschäftsrelevante Informationen zu finden.

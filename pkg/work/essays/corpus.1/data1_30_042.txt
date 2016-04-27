@@ -1,0 +1,4 @@
+information Hiding: ist verstecken der Implementierung einer Klasse hinter der Methoden die auf ihre Klassendaten ausgeführt werden.
+z.B. private, public, protected, package
+In der oberigen Bsp. ist nachname und angemeldet PRIVAT deklariert d.h. auf die 2 Variablen kan nur aus dieser Klasse zugegrifen werden.
+Die Methode PRINT ist PUBLIC deklariert d.h. auf die Methode kann jeder zugreifen.

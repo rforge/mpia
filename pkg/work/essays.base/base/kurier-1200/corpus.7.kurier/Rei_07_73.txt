@@ -1,0 +1,9 @@
+FUNKCHIPS
+
+Die elektronischen Anhänger
+Sämtliche Informationen zum Flugpassagier, die heute im Strichcode stecken, werden künftig in einem so genannten RFID-Tag, also einem Funkchip-Anhänger, gespeichert sein. Das Prinzip eines RFID-Gepäckaufklebers ist einfach: Da er ein Funkchip ist, funkt er die Informationen, die auf ihm gespeichert sind, an einen Empfänger. Vorteil ist, dass man in einer Gepäckszentrale nicht mehr Dutzende Scanner benötigt, sondern dass immer nur ein Empfänger genügt.
+
+Bis Ende dieses Jahres wollen sich die Fluggesellschaften auf einen gemeinsamen RFID-Standard einigen.
+
+Die RFID-Kofferanhänger sind Teil eines großen digitalen Projekts in der Luftfahrt - ab 2008 soll es nämlich keine ausgedruckten Flugtickets mehr geben, sondern nur noch elektronische Tickets. Dann will man auch mit dem Funkchip starten.
+

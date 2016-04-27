@@ -1,0 +1,7 @@
+Ein Interface definiert eine Schnittstelle
+zu einer Klasse. Ein Klasse kann nur
+von einer Klasse erben, aber von
+beliebig vielen Interfaces "erben"
+In Interfaces werden keine Algorithmen
+implementiert sondern nur die
+Schnittstellen festgelegt.

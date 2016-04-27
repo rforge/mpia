@@ -1,0 +1,2 @@
+Ebenso werden meist nicht alle im Dokument verwendeten Terme zur Indexierung benutzt, weil wir sonst einerseits eine viel zu grosse Term-Dokument-Matrix erhalten würden, andererseits das Problem der Polysemie dadurch stärker ins Gewicht fällt.
+

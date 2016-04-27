@@ -1,0 +1,3 @@
+komponenten test: hier wird getestet ob die software-komponenten zusammenarbeiten
+integrationstest: hier wird getestet wie die einzelnen systeme zusammenarbeiten, sobald sie in das system integriert werden
+software test: hier wird software für sich getestet

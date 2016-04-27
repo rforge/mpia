@@ -1,0 +1,7 @@
+= häufigste Anwendung von E-Commerce
+Einbindung von Datenbanken ins Internet (dynamisch. IS)
+Trend weg von Eigenentwicklungen, hin zur Integration in
+Standardsoftware wie SAP.
+Besteht aus einer Internetseite mit Zugriff auf eine Datenbank (z.B. über JAVA, aktive Serverseiten, CSS)
+Sicht d. Anbieters: Kundenprifle, Kostenersparnis bei Marketing + Vertrieb, neuer Absatzweg
+Kunden: 24h Suche, Preisvergleiche, Bequemlichkeit

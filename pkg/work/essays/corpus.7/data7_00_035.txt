@@ -1,0 +1,3 @@
+In Interface gibt es eine Variable von Datentypen,
+mit diesen Datentypen kann man
+verschiedene Funktionen schreiben.

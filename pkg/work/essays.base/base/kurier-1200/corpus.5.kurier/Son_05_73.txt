@@ -1,0 +1,13 @@
+Der tollkühne Sekundant
+Er heißt Ivan Cheparinov, ist erst 18, hat 2634 Elos und ist Sekundant des aggressivsten Spielers der Welt, seines Landsmannes Topalow. Anhand dieser Partie ahnt man, welch wahnwitzige Varianten die beiden in ihrer bulgarischen Giftküche vorbereiten. Und der Sekundant darf die Restln verwerten! Verrückt: Ein König macht ein Drittel aller Züge und läuft quer übers Brett.
+
+Ninov - Cheparinov, Bulgarien 2005: 1.e4 e5 2.Sf3 Sc6 3.Lc4 Sf6 4.Sg5 d5 5.exd5 Sd4 Die seltene Fritz-Variante im Zweispringerspiel. 6.c3 b5 7.Lf1 Sxd5 8.cxd4 Dxg5 9.Sc3 Öfter folgt Lxb5+, womit Bobby Fischer 1964 beim Simultan die kürzeste Partie seiner Karriere verlor: 9.Lb5+ Kd8 10.Df3 Lb7 11.0-0 exd4 12.Dxf7?? Sf6 0-1, Matt oder Ld5 Damenfang. 9...exd4 10.Lxb5+ Kd8!? 11.Lc6 Sf4!! Mit Computerhilfe wurde dieses verwegene Turmopfer perfektioniert. 12.Lxa8 Sxg2+!! 13.Kf1 Denn Lxg2 scheitert an Dxg2 14.Tf1 Lc5!!, z.B. 15.Se2 d3 13.Db3 De4. 13...Lh3 14.d3 Sf4+ 15.Ke1 dxc3 16.bxc3 Lc5 Schwarz hat viel Druck für die Qualität, doch nach 17.Db3 ist alles offen. 17.d4? Te8+ Sicher hatte Weiß nun Le3 geplant, doch nach Txe3+!! fxe3 Dh4+ wird er matt. 18.Kd2 Sd5+?! Zeitnot, Nerven, Chaos: Schwarz versäumt mehrmals den K.o.-Schlag. Computer servieren mit Df5!! 19.Df3 Lg2! ab. 19.f4 Dg2+ 20.Kd3 De4+? Viel genauer war Dg6+!! mit zwingendem Matt. 21.Kc4 Sb6+! 22.Kxc5 De7+?! (Dxa8!) 23.Kb5 Ld7+ 24.Ka6! Der Kerl wird nicht matt! Schwarz muss noch schwitzen. 24...Dd6 25.Db3! Lustig ist 25.Kxa7? Sc8+ 26.Kb8 Db6+ 27.Lb7 Da7#. 25...Sxa8+ 26.Ka5 Lc8? (c5!!) 27.c4 Te6?! Sicher gewänne Da6+ nebst Db7+. 28.Db5 Sb6 29.f5? Widerstand leistet Dc5. 29...Sxc4+! Beherzt! 30.Dxc4 Db6+ 31.Ka4 Ld7+ 32.Ka3 Da5+ 33.Kb2 Tb6+ 34.Db3 (Kc2 La4+) La4! 35.f6 Lxb3 36.axb3 Dd5! 37.fxg7 Dxb3 matt.
+
+Lösung Quiz für Querdenker:
+
+Kaum zu glauben, drei Türme tauchen auf! 1 d1T f8T 2.Td8 cxd8T und Schwarz ist patt.
+
+- Martin Stichlberger
+
+stichl@schachimedes.at
+

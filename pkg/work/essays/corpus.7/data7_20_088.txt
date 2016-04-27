@@ -1,0 +1,7 @@
+Interface ist eine gemeinsame Schnittstelle der Klassen.
+Wenn Interfaces deklariert werden bedeutet
+es, dass diese als Interface deklarierte Klassen
+eine gemeinsame Schnittstelle haben, so können
+die Methode und Variablen untereinander ausgetauscht
+werden. Interface dienen zur leichteren Austausch der
+Programmteile, und eine bessere Übersichtlichkeit.

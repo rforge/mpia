@@ -1,0 +1,2 @@
+Es ist genau der Hauptzweck der SVD, eine grosse Matrix so anzunähern, dass der Rechenaufwand in einem vernünftigen Rahmen bleibt.
+

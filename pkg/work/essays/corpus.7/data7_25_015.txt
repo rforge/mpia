@@ -1,0 +1,4 @@
+Interface ist eine Schnittstelle 
+(eine Art von Mehrfachvererbung)
+In einem Interface können Variablen
+und Methoden definiert werden.

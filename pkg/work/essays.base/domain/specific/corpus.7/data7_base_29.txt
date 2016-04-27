@@ -1,0 +1,7 @@
+Auch für die .NET-Plattform ist es nicht notwendig, eine Beschreibung in
+IDL-Form zu verfassen, da Schnittstellen auch hier als elementarer Teil Das .NET-/C#
+interface des Typsystems und somit als Sprachmittel existieren. Schnittstellen dienen
+auch hier dazu, Interfaces von Klassen zu definieren und diese zu typisieren.
+Das folgende Beispiel (Listing 3.4) definiert ein Interface in C#,
+welches das Äquivalent zur in Listing 3.2 gezeigten IDL-Beschreibung
+und dem gerade gezeigten Java-Interface darstellt.
