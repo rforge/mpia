@@ -52,20 +52,18 @@ toponymy(d)
 
 }
 
-\author{Fridolin Wild <fridolin.wild@open.ac.uk}
-\references{Fridolin Wild (2013): Analysing Learning from Meaningful Purposive Interaction.}
-
 \seealso{
 	More detailed information: \code{\link{Visualiser-class}},
    \code{\link{Domain}}, \code{\link{DomainManager}}, \code{\link{plot}}, \code{\link{toponymy}}
 }
 
-\keyword{mpia}
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
+\keyword{mpia}
 \keyword{Visualiser}
 \keyword{visualization}
 \keyword{visualisation}
-
 \keyword{map}
 \keyword{knowledge cartography}
 \keyword{plot}

@@ -49,14 +49,14 @@ path(fridolin)
 
 }
 
-\author{Fridolin Wild <fridolin.wild@open.ac.uk>}
-\references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
-
 \seealso{
    More detailed information: \code{\link{Person-class}},
    \code{\link{Performance}}, \code{\link{position}}, \code{\link{performances}}, \code{\link{competences}}, \code{\link{near}}, \code{\link{names}},
    \code{\link{path}}, \code{\link{plot}}, \code{\link{proximity}}, \code{\link{cosine}}, \code{\link{identity}}
 }
+
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
 \keyword{ mpia }
 \keyword{ Person }

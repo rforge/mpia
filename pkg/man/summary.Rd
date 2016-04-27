@@ -34,5 +34,8 @@
 	}
 }}
 
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
+
 \keyword{mpia}
 \keyword{summary}

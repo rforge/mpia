@@ -1,7 +1,7 @@
 
 # -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 
-data(stopwords_en)
+data(lsa::stopwords_en)
 
 docs = matrix(nrow=0, ncol=2)
 colnames(docs) = c("id", "title")

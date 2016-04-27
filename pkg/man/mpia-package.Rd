@@ -41,8 +41,6 @@
    The package additionally provides visual analytics to support the analyst.
 
 }
-\author{Fridolin Wild <fridolin.wild@open.ac.uk>}
-\references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
 
 \seealso{
 	\pkg{\link{lsa}}, \pkg{\link{sna}}, \pkg{\link{network}}
@@ -104,6 +102,9 @@ near(max, fridolin)
 competences(fridolin)
 
 }
+
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
 \keyword{ textmining }
 \keyword{ natural language processing }

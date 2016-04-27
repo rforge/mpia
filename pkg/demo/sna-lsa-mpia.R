@@ -98,6 +98,7 @@ dtm
 # create lsa space with 3 dimensions
 
 space = lsa::lsa(dtm, dims=3)
+
 dtm2 = lsa::as.textmatrix(space)
 class(dtm2) = c("matrix", "textmatrix")
 

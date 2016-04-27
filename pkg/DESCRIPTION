@@ -1,7 +1,7 @@
 Package: mpia
 Title: Meaningful Purposive Interaction Analysis
-Version: 0.70
-Date: 2016-04-26
+Version: 0.71
+Date: 2016-04-27
 Author: Fridolin Wild <wild@brookes.ac.uk>
 Authors@R: c(person("Fridolin", "Wild", role = c("aut", "cre"), email = "wild@brookes.ac.uk"))
 Maintainer: Fridolin Wild <wild@brookes.ac.uk>

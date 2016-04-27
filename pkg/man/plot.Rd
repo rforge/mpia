@@ -12,7 +12,7 @@
 
 \description{
 
-	\code{plot} creates the visualisation. First, a domain object has to be plotted (or at least it's toponymy),
+   \code{plot} creates the visualisation. First, a domain object has to be plotted (or at least it's toponymy),
    as this will render the visualisation data. Alternatively, the domain's visualiser can be used to calculate,
    but not plot the map data, which is required internally to project persons, performances, or paths of performances.
    
@@ -23,13 +23,14 @@
 
 \usage{
 
-   plot(x)
+   plot(x, ...)
 
 }
 
 \arguments{
 
   \item{x}{a \code{Person}, \code{Performance}, or \code{Domain} object. }
+  \item{...}{graphic parameters (for details, see plot method of each class).}
 
 }
 
@@ -51,8 +52,8 @@
    \code{\link{Visualiser}} and \code{\link{Visualiser-class}} for more details on how to configure the map and marker display.
 }
 
-\author{Fridolin Wild <fridolin.wild@open.ac.uk>}
-\references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
 \keyword{mpia}
 \keyword{plot}

@@ -30,8 +30,8 @@
 	Outputs a short description of the object to the console.
 }}
 
-\author{Fridolin Wild <fridolin.wild@open.ac.uk>}
-\references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
 \keyword{mpia}
 \keyword{print}

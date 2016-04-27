@@ -36,9 +36,6 @@
 	The constructor (see 'initialize') returns the DomainManager object.
 }
 
-\author{Fridolin Wild <fridolin.wild@open.ac.uk>}
-\references{Fridolin Wild (2013): Meaningful Purposive Interaction Analysis.}
-
 \seealso{
 	More detailed information: \code{\link{HumanResourceManager-class}},
 	\code{\link{environment}},
@@ -70,6 +67,9 @@ groups(ppl)
 competences(ppl)
 
 }
+
+\author{Fridolin Wild <wild@brookes.ac.uk>}
+\references{Fridolin Wild (2016): Learning Analytics in R with SNA, LSA, and MPIA, Springer:Berlin.}
 
 \keyword{ mpia }
 \keyword{ competences }
