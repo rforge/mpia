@@ -28,19 +28,19 @@ Please note, that there is currently no known interpretation of the difference b
 
 \describe{
 
-\item{\code{signature(x = "matrix", y = "missing")}}{ Return cosine pairs (for columns of the matrix) as a proximity matrix. }
+\item{\code{signature(x="matrix", y="missing")}}{ Return cosine pairs (for columns of the matrix) as a proximity matrix. }
 
-\item{\code{signature(x = "Performance", y = "Performance")}}{ Return cosine for the two performances. }
+\item{\code{signature(x="Performance", y="Performance")}}{ Return cosine for the two performances. }
 
-\item{\code{signature(x = "Performance", y = "Person")}}{ Return cosine between performance and person's position. }
+\item{\code{signature(x="Performance", y="Person")}}{ Return cosine between performance and person's position. }
 
-\item{\code{signature(x = "Person", y = "missing")}}{ Return cosine for all performances to each other (as proximity matrix). }
+\item{\code{signature(x="Person", y="missing")}}{ Return cosine for all performances to each other (as proximity matrix). }
 
-\item{\code{signature(x = "Person", y = "Person")}}{ Return cosine for the two person's positions. }
+\item{\code{signature(x="Person", y="Person")}}{ Return cosine for the two person's positions. }
 
-\item{\code{signature(x = "vector", y = "matrix")}}{ Return cosine values between vector and all columns of the matrix. }
+\item{\code{signature(x="vector", y="matrix")}}{ Return cosine values between vector and all columns of the matrix. }
 
-\item{\code{signature(x = "vector", y = "vector")}}{ Return cosine value between the two vectors. }
+\item{\code{signature(x="vector", y="vector")}}{ Return cosine value between the two vectors. }
 
 }}
 

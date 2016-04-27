@@ -67,15 +67,17 @@ ppl = HumanResourceManager(dmgr)
 
 # add a learner
 fridolin = ppl$add(name="fridolin")
-fridolin$write("risk management is crucial for preventing a business from failure.", label="risk")
-fridolin$write("shareholders can maximize their profits, if the price level is increased:
-   most shareholders appreciate such performance management oriented approach to business",
-   label="profits")
-fridolin$write("in management, it is the role of the ceo in business to appreciate 
-   the contributions of the panel members and to balance risk", label="control")
-fridolin$write("donor development in fundraising is all about ensuring that you and 
-   your donors get the most you can from your relationship in ways which are mutually agreeable
-   and beneficial", label="donors")
+fridolin$write("risk management is crucial for preventing
+   a business from failure.", label="risk")
+fridolin$write("shareholders can maximize their profits, if the price
+   level is increased: most shareholders appreciate such performance
+   management oriented approach to business", label="profits")
+fridolin$write("in management, it is the role of the ceo in business
+   to appreciate the contributions of the panel members and to balance
+   risk", label="control")
+fridolin$write("donor development in fundraising is all about ensuring
+   that you and your donors get the most you can from your relationship
+   in ways which are mutually agreeable and beneficial", label="donors")
 terms(fridolin)
 terms(position(fridolin))
 
@@ -85,11 +87,13 @@ plot(path(fridolin), col="red")
 
 # add a second learner
 max = ppl$add(name="maximilian")
-max$write("advertising includes the activity in the media such as running newspaper 
-   ads, direct marketing, cold calling", label="advertising")
-max$write("marketing management, however, is a wide field: this basically boils down 
-   to comparing investment into advertising with the return on investment and 
-   making decisions", label="marketing")
+max$write("advertising includes the activity in the media such as
+   running newspaper ads, direct marketing, cold calling",
+   label="advertising")
+max$write("marketing management, however, is a wide field: this
+   basically boils down to comparing investment into advertising
+   with the return on investment and making decisions",
+   label="marketing")
 
 # visualize
 plot(position(max), col="yellow")

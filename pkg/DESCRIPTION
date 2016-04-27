@@ -2,7 +2,8 @@ Package: mpia
 Title: Meaningful Purposive Interaction Analysis
 Version: 0.70
 Date: 2016-04-26
-Author: c(person("Fridolin", "Wild", role = c("aut", "cre"),email = "wild@brookes.ac.uk"))
+Author: Fridolin Wild <wild@brookes.ac.uk>
+Authors@R: c(person("Fridolin", "Wild", role = c("aut", "cre"), email = "wild@brookes.ac.uk"))
 Maintainer: Fridolin Wild <wild@brookes.ac.uk>
 Depends: R (>= 3.0), methods, tm
 Imports: lsa, digest, sna, stats, fields, graphics, lattice, grDevices, plotrix, scales, pracma, network, cluster, Matrix
